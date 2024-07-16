@@ -5021,6 +5021,7 @@ newduba.cn###jq_youxi
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
+||38.33.15.10^
 ||107.167.16.*.gif
 ||121.204.246.*.gif
 ||154.7.80.158^
@@ -5030,6 +5031,11 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||107.167.22.*.gif
 ||cupfox.app^$third-party
+||wnootzc.icu^
+||eiuoom.xyz^
+||bavotr.xyz^
+||eiuoom.xyz^
+||jyfdbj.xyz^
 ||gkypgw.xyz^
 ||lyislol.top^
 ||tgrpzl.xyz^
@@ -5046,6 +5052,8 @@ newduba.cn###jq_youxi
 ||jasdz1.cn^
 ||hyretuu.top^
 ||iteyi.xyz^
+||aoiqa.top^
+||uaiqp.top^
 ||57573zubo36833.com^
 ||imgoss2255.top^
 ||tupian88888.com^
@@ -21520,7 +21528,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###ecl-temai-general
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###ecl-weigou-view-container
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###lm
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###op_wiseapp
-ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##.EC_newppim
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##.ec_bdtg
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##.ecl-car-powerful-container
