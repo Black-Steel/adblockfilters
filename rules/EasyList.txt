@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uN50ST+Ea7z3FKztb0bGxQ
-! Version: 202407310951
+! Checksum: f1BXlMkzxn0zuNJZGYhNtg
+! Version: 202407311611
 ! Title: EasyList
-! Last modified: 31 Jul 2024 09:51 UTC
+! Last modified: 31 Jul 2024 16:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15625,6 +15625,7 @@ _800x80_
 ###block-taboolablock
 ###js-Taboola-Container-0
 ###moduleTaboolaRightRail
+###original_taboola
 ###possible_taboola
 ###taboola
 ###taboola-above-homepage-thumbnails
@@ -71248,6 +71249,7 @@ cgpress.org##li > div[id^="cgpre-"]
 bestbuy.com##li.embedded-sponsored-listing
 cultbeauty.co.uk,dermstore.com,skinstore.com##li.sponsoredProductsList
 laredoute.be,laredoute.ch,laredoute.co.uk,laredoute.com,laredoute.de,laredoute.es,laredoute.fr,laredoute.gr,laredoute.it,laredoute.nl,laredoute.pt,laredoute.ru##li[class*="sponsored-"]
+yahoo.com##li[class="first"]:has([data-ylk*="affiliate_link"])
 linkedin.com##li[data-is-sponsored="true"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li[data-layout="products"]
 duckduckgo.com##li[data-layout="products_middle"]
@@ -71418,6 +71420,7 @@ popularmechanics.com##[class] > :has(> #article-marketplace-horizontal)
 popularmechanics.com##[class] > :has(> #gpt-ad-vertical-bottom)
 avclub.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
 fortune.com##[class]:has(> #Leaderboard0)
+skyscanner.com##[class^="FlightsResults"] > div:has([class^="Sponsored"])
 petco.com##[class^="citrus-carousel-"]:has([class^="carousel__Sponsored"])
 svgrepo.com##[class^="style_native"]:has([href*="buysellads.com"])
 tesco.com##[class^="styled__StyledLIProductItem"]:has([class^="styled__StyledOffers"])
