@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260822083219
-# Last modified: 2026/08/22 08:32:19
-# Blocked domains: 5031
+# Version: 20260822161648
+# Last modified: 2026/08/22 16:16:48
+# Blocked domains: 5033
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -152,9 +152,11 @@ mclean.f.360.cn @ads
 mvconf.f.360.cn @ads
 openbox.mobilem.360.cn @ads
 papi.look.360.cn @ads
+pscan.f.360.cn @ads
 pub.se.360.cn @ads
 qurl.f.360.cn @ads
 s.360.cn @ads
+s.f.360.cn @ads
 soft.data.weather.360.cn @ads
 stat.m.360.cn @ads
 stat.sd.360.cn @ads
@@ -665,7 +667,6 @@ azu0jytzgm.com @ads
 b1.b2b168.com @ads
 b1.b2b168.net @ads
 b4641y3dw.com @ads
-b8b4ix7bj.com @ads
 apishow.babybus.com @ads
 apishowstats.babybus.com @ads
 apppromoteapi.babybus.com @ads
@@ -1010,7 +1011,6 @@ ads.adagent.chacha.com @ads
 metrics.chacha.com @ads
 tracking.chacha.com @ads
 chance-ad.com @ads
-chanced112.com @ads
 chanet.com.cn @ads
 changyi21.cn @ads
 analysis.chatglm.cn @ads
@@ -1115,6 +1115,8 @@ log-eap-in.coloros.com @ads
 log-eap-sg.coloros.com @ads
 moa-upload-online.coloros.com @ads
 smartcard.apps.coloros.com @ads
+smartcardf-eu.apps.coloros.com @ads
+smartcardf.apps.coloros.com @ads
 iadcontent-lb.apple.com.akadns.net @ads
 iadsdk.apple.com.akadns.net @ads
 wangsu-smetrics.redhat.com.edgekey.net @ads
@@ -1286,6 +1288,7 @@ www.digitalfiles.org @ads
 bea-s.dinghuoche.com @ads
 resolver.dingtalk.com @ads
 linktrace.diningcity.cn @ads
+stdown.dinju.com @ads
 dipan.com @ads
 tr.email.directindustry.com @ads
 diskclean.cn @ads
@@ -1416,6 +1419,7 @@ webmail-updateupcoming-com-dp7cp80id24e.zh-cn.edgeone.cool @ads
 05gdfi007-dpm2gawaoxpl.edgeone.dev @ads
 098yjuio-dpwxvxwxcuwy.edgeone.dev @ads
 alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev @ads
+balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev @ads
 cloudsrvjk876nj987-dp1lu5k2i9vz.edgeone.dev @ads
 combined-silver-0x5s9uu5.edgeone.dev @ads
 copyright-claim-review-request-form.edgeone.dev @ads
@@ -1430,6 +1434,7 @@ intellectual-property-troubleshooting-center.edgeone.dev @ads
 khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev @ads
 loginpages0000-dpf0869el7ik.edgeone.dev @ads
 no2body7-dpyijatuyl2q.edgeone.dev @ads
+profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev @ads
 request-copyright-policy-review.edgeone.dev @ads
 review-copyright-infringement-reports.edgeone.dev @ads
 review-copyright-policy-violations.edgeone.dev @ads
@@ -1628,6 +1633,7 @@ getui.net @ads
 getyourgiftnow3.blogspot.com @ads
 biz.gexing.com @ads
 safebrowsing.urlsec.gg.com @ads
+shqdown.ggzuhao.com @ads
 ghsnhjk.cn @ads
 ad.partner.gifshow.com @ads
 gdfp.gifshow.com @ads
@@ -1757,6 +1763,7 @@ ra.gtimg.com @ads
 splashqqlive.gtimg.com @ads
 wa.gtimg.com @ads
 rum-openway.guance.com @ads
+us1-rum-openway.guance.com @ads
 bd1.guancha.cn @ads
 bdjs.guangyuanol.cn @ads
 guangzhuiyuan.com @ads
@@ -2043,12 +2050,6 @@ trackcommon.hujiang.com @ads
 u8.hujiang.com @ads
 log.hunantv.com @ads
 log.v2.hunantv.com @ads
-huo07100hy.com @ads
-huo07110hy.com @ads
-huo07120hy.com @ads
-huo07140hy.com @ads
-huo07150hy.com @ads
-huo07160hy.com @ads
 huoche.com.cn @ads
 huoying666.com @ads
 collect.hupu.com @ads
@@ -2124,6 +2125,7 @@ piccdn.igetget.com @ads
 seeder.igetget.com @ads
 igexin.com @ads
 ihclam.cn @ads
+appadapi.ihuman.com @ads
 iimedia.cn @ads
 ijinshan.com @ads
 daima.ijq.tv @ads
@@ -2834,7 +2836,6 @@ moodoo.com.cn @ads
 m.moomoo.com @ads
 ad.moonton.cn @ads
 moquanad.com @ads
-ads.morefreegame.com @ads
 motsjnv.cn @ads
 motuopj.cn @ads
 elq.mouser.cn @ads
@@ -3542,7 +3543,6 @@ sifuhe.cn @ads
 sigmob.com @ads
 smetrics.marketing.signify.com.cn @ads
 www.silurian.cn @ads
-ad.cj.sina.cn @ads
 adblock.sina.cn @ads
 adimg.mobile.sina.cn @ads
 cre.dp.sina.cn @ads
@@ -3888,9 +3888,6 @@ apd-pcdnwxnat.teg.tencent-cloud.net @ads
 apd-pcdnwxstat.teg.tencent-cloud.net @ads
 beacon.sparta.mig.tencent-cloud.net @ads
 trace.zhiyan.tencent-cloud.net @ads
-ad.hunyuan.tencent.com @ads
-android.bugly.tencent.com @ads
-beacon.tencent.com @ads
 galileotelemetry.tencent.com @ads
 guid.tpns.tencent.com @ads
 guid.tpns.hk.tencent.com @ads
@@ -3972,6 +3969,7 @@ adscfg.togothermany.cn @ads
 adsup.togothermany.cn @ads
 track.tom.com @ads
 track.tomwx.net @ads
+fp.tongdun.net @ads
 sky.tongjiai.com @ads
 ato.tooopen.com @ads
 toponad.com @ads
@@ -4131,6 +4129,7 @@ uri6.com @ads
 urlqh.cn @ads
 stats.us-light-edge.com @ads
 gyqpyr.utsource.net @ads
+utve.cn @ads
 dlog-config.uu.cc @ads
 jdlog.uu.cc @ads
 ms-report.uu.cc @ads
@@ -4394,6 +4393,7 @@ w8.com.cn @ads
 w97nv5ibv4.com @ads
 tongdun-fingerprint.walmartmobile.cn @ads
 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net @ads
+analytics.med.wanfangdata.com.cn @ads
 medad.med.wanfangdata.com.cn @ads
 mlog.wangsu.com @ads
 analytics.wanmei.com @ads
@@ -4564,6 +4564,7 @@ t2.xiaohongshu.com @ads
 xiaojifly.cn @ads
 adtrack.xiaojukeji.com @ads
 api.d.xiaomi.com @ads
+api.hybrid.xiaomi.com @ads
 api.installer.xiaomi.com @ads
 api.miui.security.xiaomi.com @ads
 appstore.cdn.pandora.xiaomi.com @ads
@@ -4641,6 +4642,7 @@ a2.xinhuanet.com @ads
 xinlimaoyi2.xinlimaoyi.cn @ads
 upaicdn.xinmei365.com @ads
 tongji.xinmin.cn @ads
+hi.xiunm.cn @ads
 xiyouence.com @ads
 dhlpaketzustellung.xjili99.vip @ads
 xjl2ts2q6a.com @ads

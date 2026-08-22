@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260822083219
-! Last modified: 2026/08/22 08:32:19
-! Blocked domains: 5031
+! Version: 20260822161648
+! Last modified: 2026/08/22 16:16:48
+! Blocked domains: 5033
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -152,9 +152,11 @@ mclean.f.360.cn
 mvconf.f.360.cn
 openbox.mobilem.360.cn
 papi.look.360.cn
+pscan.f.360.cn
 pub.se.360.cn
 qurl.f.360.cn
 s.360.cn
+s.f.360.cn
 soft.data.weather.360.cn
 stat.m.360.cn
 stat.sd.360.cn
@@ -665,7 +667,6 @@ azu0jytzgm.com
 b1.b2b168.com
 b1.b2b168.net
 b4641y3dw.com
-b8b4ix7bj.com
 apishow.babybus.com
 apishowstats.babybus.com
 apppromoteapi.babybus.com
@@ -1010,7 +1011,6 @@ ads.adagent.chacha.com
 metrics.chacha.com
 tracking.chacha.com
 chance-ad.com
-chanced112.com
 chanet.com.cn
 changyi21.cn
 analysis.chatglm.cn
@@ -1115,6 +1115,8 @@ log-eap-in.coloros.com
 log-eap-sg.coloros.com
 moa-upload-online.coloros.com
 smartcard.apps.coloros.com
+smartcardf-eu.apps.coloros.com
+smartcardf.apps.coloros.com
 iadcontent-lb.apple.com.akadns.net
 iadsdk.apple.com.akadns.net
 wangsu-smetrics.redhat.com.edgekey.net
@@ -1286,6 +1288,7 @@ www.digitalfiles.org
 bea-s.dinghuoche.com
 resolver.dingtalk.com
 linktrace.diningcity.cn
+stdown.dinju.com
 dipan.com
 tr.email.directindustry.com
 diskclean.cn
@@ -1416,6 +1419,7 @@ webmail-updateupcoming-com-dp7cp80id24e.zh-cn.edgeone.cool
 05gdfi007-dpm2gawaoxpl.edgeone.dev
 098yjuio-dpwxvxwxcuwy.edgeone.dev
 alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
+balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 cloudsrvjk876nj987-dp1lu5k2i9vz.edgeone.dev
 combined-silver-0x5s9uu5.edgeone.dev
 copyright-claim-review-request-form.edgeone.dev
@@ -1430,6 +1434,7 @@ intellectual-property-troubleshooting-center.edgeone.dev
 khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev
 loginpages0000-dpf0869el7ik.edgeone.dev
 no2body7-dpyijatuyl2q.edgeone.dev
+profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 request-copyright-policy-review.edgeone.dev
 review-copyright-infringement-reports.edgeone.dev
 review-copyright-policy-violations.edgeone.dev
@@ -1628,6 +1633,7 @@ getui.net
 getyourgiftnow3.blogspot.com
 biz.gexing.com
 safebrowsing.urlsec.gg.com
+shqdown.ggzuhao.com
 ghsnhjk.cn
 ad.partner.gifshow.com
 gdfp.gifshow.com
@@ -1757,6 +1763,7 @@ ra.gtimg.com
 splashqqlive.gtimg.com
 wa.gtimg.com
 rum-openway.guance.com
+us1-rum-openway.guance.com
 bd1.guancha.cn
 bdjs.guangyuanol.cn
 guangzhuiyuan.com
@@ -2043,12 +2050,6 @@ trackcommon.hujiang.com
 u8.hujiang.com
 log.hunantv.com
 log.v2.hunantv.com
-huo07100hy.com
-huo07110hy.com
-huo07120hy.com
-huo07140hy.com
-huo07150hy.com
-huo07160hy.com
 huoche.com.cn
 huoying666.com
 collect.hupu.com
@@ -2124,6 +2125,7 @@ piccdn.igetget.com
 seeder.igetget.com
 igexin.com
 ihclam.cn
+appadapi.ihuman.com
 iimedia.cn
 ijinshan.com
 daima.ijq.tv
@@ -2834,7 +2836,6 @@ moodoo.com.cn
 m.moomoo.com
 ad.moonton.cn
 moquanad.com
-ads.morefreegame.com
 motsjnv.cn
 motuopj.cn
 elq.mouser.cn
@@ -3542,7 +3543,6 @@ sifuhe.cn
 sigmob.com
 smetrics.marketing.signify.com.cn
 www.silurian.cn
-ad.cj.sina.cn
 adblock.sina.cn
 adimg.mobile.sina.cn
 cre.dp.sina.cn
@@ -3888,9 +3888,6 @@ apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
 beacon.sparta.mig.tencent-cloud.net
 trace.zhiyan.tencent-cloud.net
-ad.hunyuan.tencent.com
-android.bugly.tencent.com
-beacon.tencent.com
 galileotelemetry.tencent.com
 guid.tpns.tencent.com
 guid.tpns.hk.tencent.com
@@ -3972,6 +3969,7 @@ adscfg.togothermany.cn
 adsup.togothermany.cn
 track.tom.com
 track.tomwx.net
+fp.tongdun.net
 sky.tongjiai.com
 ato.tooopen.com
 toponad.com
@@ -4131,6 +4129,7 @@ uri6.com
 urlqh.cn
 stats.us-light-edge.com
 gyqpyr.utsource.net
+utve.cn
 dlog-config.uu.cc
 jdlog.uu.cc
 ms-report.uu.cc
@@ -4394,6 +4393,7 @@ w8.com.cn
 w97nv5ibv4.com
 tongdun-fingerprint.walmartmobile.cn
 wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
+analytics.med.wanfangdata.com.cn
 medad.med.wanfangdata.com.cn
 mlog.wangsu.com
 analytics.wanmei.com
@@ -4564,6 +4564,7 @@ t2.xiaohongshu.com
 xiaojifly.cn
 adtrack.xiaojukeji.com
 api.d.xiaomi.com
+api.hybrid.xiaomi.com
 api.installer.xiaomi.com
 api.miui.security.xiaomi.com
 appstore.cdn.pandora.xiaomi.com
@@ -4641,6 +4642,7 @@ a2.xinhuanet.com
 xinlimaoyi2.xinlimaoyi.cn
 upaicdn.xinmei365.com
 tongji.xinmin.cn
+hi.xiunm.cn
 xiyouence.com
 dhlpaketzustellung.xjili99.vip
 xjl2ts2q6a.com

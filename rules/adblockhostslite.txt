@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260822083219
-# Last modified: 2026/08/22 08:32:19
-# Blocked domains: 5031
+# Version: 20260822161648
+# Last modified: 2026/08/22 16:16:48
+# Blocked domains: 5033
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -167,9 +167,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	mvconf.f.360.cn
 0.0.0.0	openbox.mobilem.360.cn
 0.0.0.0	papi.look.360.cn
+0.0.0.0	pscan.f.360.cn
 0.0.0.0	pub.se.360.cn
 0.0.0.0	qurl.f.360.cn
 0.0.0.0	s.360.cn
+0.0.0.0	s.f.360.cn
 0.0.0.0	soft.data.weather.360.cn
 0.0.0.0	stat.m.360.cn
 0.0.0.0	stat.sd.360.cn
@@ -680,7 +682,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	b1.b2b168.com
 0.0.0.0	b1.b2b168.net
 0.0.0.0	b4641y3dw.com
-0.0.0.0	b8b4ix7bj.com
 0.0.0.0	apishow.babybus.com
 0.0.0.0	apishowstats.babybus.com
 0.0.0.0	apppromoteapi.babybus.com
@@ -1025,7 +1026,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	metrics.chacha.com
 0.0.0.0	tracking.chacha.com
 0.0.0.0	chance-ad.com
-0.0.0.0	chanced112.com
 0.0.0.0	chanet.com.cn
 0.0.0.0	changyi21.cn
 0.0.0.0	analysis.chatglm.cn
@@ -1130,6 +1130,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	log-eap-sg.coloros.com
 0.0.0.0	moa-upload-online.coloros.com
 0.0.0.0	smartcard.apps.coloros.com
+0.0.0.0	smartcardf-eu.apps.coloros.com
+0.0.0.0	smartcardf.apps.coloros.com
 0.0.0.0	iadcontent-lb.apple.com.akadns.net
 0.0.0.0	iadsdk.apple.com.akadns.net
 0.0.0.0	wangsu-smetrics.redhat.com.edgekey.net
@@ -1301,6 +1303,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bea-s.dinghuoche.com
 0.0.0.0	resolver.dingtalk.com
 0.0.0.0	linktrace.diningcity.cn
+0.0.0.0	stdown.dinju.com
 0.0.0.0	dipan.com
 0.0.0.0	tr.email.directindustry.com
 0.0.0.0	diskclean.cn
@@ -1431,6 +1434,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	05gdfi007-dpm2gawaoxpl.edgeone.dev
 0.0.0.0	098yjuio-dpwxvxwxcuwy.edgeone.dev
 0.0.0.0	alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev
+0.0.0.0	balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 0.0.0.0	cloudsrvjk876nj987-dp1lu5k2i9vz.edgeone.dev
 0.0.0.0	combined-silver-0x5s9uu5.edgeone.dev
 0.0.0.0	copyright-claim-review-request-form.edgeone.dev
@@ -1445,6 +1449,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev
 0.0.0.0	loginpages0000-dpf0869el7ik.edgeone.dev
 0.0.0.0	no2body7-dpyijatuyl2q.edgeone.dev
+0.0.0.0	profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0	request-copyright-policy-review.edgeone.dev
 0.0.0.0	review-copyright-infringement-reports.edgeone.dev
 0.0.0.0	review-copyright-policy-violations.edgeone.dev
@@ -1643,6 +1648,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	getyourgiftnow3.blogspot.com
 0.0.0.0	biz.gexing.com
 0.0.0.0	safebrowsing.urlsec.gg.com
+0.0.0.0	shqdown.ggzuhao.com
 0.0.0.0	ghsnhjk.cn
 0.0.0.0	ad.partner.gifshow.com
 0.0.0.0	gdfp.gifshow.com
@@ -1772,6 +1778,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	splashqqlive.gtimg.com
 0.0.0.0	wa.gtimg.com
 0.0.0.0	rum-openway.guance.com
+0.0.0.0	us1-rum-openway.guance.com
 0.0.0.0	bd1.guancha.cn
 0.0.0.0	bdjs.guangyuanol.cn
 0.0.0.0	guangzhuiyuan.com
@@ -2058,12 +2065,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	u8.hujiang.com
 0.0.0.0	log.hunantv.com
 0.0.0.0	log.v2.hunantv.com
-0.0.0.0	huo07100hy.com
-0.0.0.0	huo07110hy.com
-0.0.0.0	huo07120hy.com
-0.0.0.0	huo07140hy.com
-0.0.0.0	huo07150hy.com
-0.0.0.0	huo07160hy.com
 0.0.0.0	huoche.com.cn
 0.0.0.0	huoying666.com
 0.0.0.0	collect.hupu.com
@@ -2139,6 +2140,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	seeder.igetget.com
 0.0.0.0	igexin.com
 0.0.0.0	ihclam.cn
+0.0.0.0	appadapi.ihuman.com
 0.0.0.0	iimedia.cn
 0.0.0.0	ijinshan.com
 0.0.0.0	daima.ijq.tv
@@ -2849,7 +2851,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	m.moomoo.com
 0.0.0.0	ad.moonton.cn
 0.0.0.0	moquanad.com
-0.0.0.0	ads.morefreegame.com
 0.0.0.0	motsjnv.cn
 0.0.0.0	motuopj.cn
 0.0.0.0	elq.mouser.cn
@@ -3557,7 +3558,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sigmob.com
 0.0.0.0	smetrics.marketing.signify.com.cn
 0.0.0.0	www.silurian.cn
-0.0.0.0	ad.cj.sina.cn
 0.0.0.0	adblock.sina.cn
 0.0.0.0	adimg.mobile.sina.cn
 0.0.0.0	cre.dp.sina.cn
@@ -3903,9 +3903,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	apd-pcdnwxstat.teg.tencent-cloud.net
 0.0.0.0	beacon.sparta.mig.tencent-cloud.net
 0.0.0.0	trace.zhiyan.tencent-cloud.net
-0.0.0.0	ad.hunyuan.tencent.com
-0.0.0.0	android.bugly.tencent.com
-0.0.0.0	beacon.tencent.com
 0.0.0.0	galileotelemetry.tencent.com
 0.0.0.0	guid.tpns.tencent.com
 0.0.0.0	guid.tpns.hk.tencent.com
@@ -3987,6 +3984,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adsup.togothermany.cn
 0.0.0.0	track.tom.com
 0.0.0.0	track.tomwx.net
+0.0.0.0	fp.tongdun.net
 0.0.0.0	sky.tongjiai.com
 0.0.0.0	ato.tooopen.com
 0.0.0.0	toponad.com
@@ -4146,6 +4144,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	urlqh.cn
 0.0.0.0	stats.us-light-edge.com
 0.0.0.0	gyqpyr.utsource.net
+0.0.0.0	utve.cn
 0.0.0.0	dlog-config.uu.cc
 0.0.0.0	jdlog.uu.cc
 0.0.0.0	ms-report.uu.cc
@@ -4409,6 +4408,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	w97nv5ibv4.com
 0.0.0.0	tongdun-fingerprint.walmartmobile.cn
 0.0.0.0	wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
+0.0.0.0	analytics.med.wanfangdata.com.cn
 0.0.0.0	medad.med.wanfangdata.com.cn
 0.0.0.0	mlog.wangsu.com
 0.0.0.0	analytics.wanmei.com
@@ -4579,6 +4579,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	xiaojifly.cn
 0.0.0.0	adtrack.xiaojukeji.com
 0.0.0.0	api.d.xiaomi.com
+0.0.0.0	api.hybrid.xiaomi.com
 0.0.0.0	api.installer.xiaomi.com
 0.0.0.0	api.miui.security.xiaomi.com
 0.0.0.0	appstore.cdn.pandora.xiaomi.com
@@ -4656,6 +4657,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	xinlimaoyi2.xinlimaoyi.cn
 0.0.0.0	upaicdn.xinmei365.com
 0.0.0.0	tongji.xinmin.cn
+0.0.0.0	hi.xiunm.cn
 0.0.0.0	xiyouence.com
 0.0.0.0	dhlpaketzustellung.xjili99.vip
 0.0.0.0	xjl2ts2q6a.com
