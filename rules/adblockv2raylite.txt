@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260823161713
-# Last modified: 2026/08/23 16:17:13
-# Blocked domains: 5040
+# Version: 20260824001200
+# Last modified: 2026/08/24 00:12:00
+# Blocked domains: 5031
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -224,7 +224,6 @@ log2.51changdu.com @ads
 logs.51cto.com @ads
 trace.51jingying.com @ads
 scdata.51job.com @ads
-51mitu.com @ads
 a1.51shiti.cn @ads
 51taifu.com @ads
 r.51wnl-cq.com @ads
@@ -947,7 +946,6 @@ stratus.campaign-image.com.cn @ads
 zc1.campaign-view.com.cn @ads
 canard-gov.com @ads
 count.candou.com @ads
-telemetry.canva.cn @ads
 caomeixz7.xyz @ads
 capexvision-ai.com @ads
 capexvision-ai.net @ads
@@ -1116,7 +1114,6 @@ smartcardf-eu.apps.coloros.com @ads
 smartcardf.apps.coloros.com @ads
 iadcontent-lb.apple.com.akadns.net @ads
 iadsdk.apple.com.akadns.net @ads
-wangsu-smetrics.redhat.com.edgekey.net @ads
 trk.compair.com.cn @ads
 strack.concur.cn @ads
 track.concur.cn @ads
@@ -1405,7 +1402,6 @@ cp2.eastmoney.com @ads
 emdcadvertise.eastmoney.com @ads
 huaxiang.eastmoney.com @ads
 same.eastmoney.com @ads
-img.easypass.cn @ads
 easytomessage.com @ads
 eblnzoq.cn @ads
 ebrid.cn @ads
@@ -1961,7 +1957,6 @@ hnol.net @ads
 metrics.hollisterco.cn @ads
 smetrics.hollisterco.cn @ads
 homebargainmarket.shop @ads
-log.homestyler.com @ads
 homla.yachts @ads
 w88.hongkongdisneyland.com.cn @ads
 om.hotels.cn @ads
@@ -2130,7 +2125,6 @@ ilkwork.com @ads
 smetrics.illumina.com.cn @ads
 metrics.ilovematlab.cn @ads
 smetrics.ilovematlab.cn @ads
-im30.net @ads
 imageter.com @ads
 img001.com @ads
 tj.img4399.com @ads
@@ -2989,6 +2983,7 @@ at-af.outfit7.com @ads
 bidder.dsp.outfit7.com @ads
 hb-af-us-central1.outfit7.com @ads
 revive.outin.cn @ads
+ouyaoxiazai.com @ads
 overlay.top @ads
 ovnrmvg.cn @ads
 umami.oyo.cool @ads
@@ -3939,7 +3934,6 @@ stats.thermoscientific.cn @ads
 thinkingdata.cn @ads
 trk.thomas-pump.cn @ads
 trail.thomsonreuters.cn @ads
-ad.thsi.cn @ads
 tracking.mail.ti.com.cn @ads
 tiandi.com @ads
 tianjimedia.com @ads
@@ -4398,8 +4392,6 @@ vyye.cn @ads
 w8.com.cn @ads
 w97nv5ibv4.com @ads
 tongdun-fingerprint.walmartmobile.cn @ads
-wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net @ads
-analytics.med.wanfangdata.com.cn @ads
 medad.med.wanfangdata.com.cn @ads
 mlog.wangsu.com @ads
 analytics.wanmei.com @ads
@@ -4527,7 +4519,6 @@ jcmonitor.xcar.com.cn @ads
 pv.xcar.com.cn @ads
 pvx.xcar.com.cn @ads
 zio.xcar.com.cn @ads
-analytics.xdiarys.com @ads
 xdrig.com @ads
 xegnfwkju.com @ads
 xerhibx.cn @ads
