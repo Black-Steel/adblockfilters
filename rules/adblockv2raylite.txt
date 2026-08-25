@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260825083350
-# Last modified: 2026/08/25 08:33:50
-# Blocked domains: 5060
+# Version: 20260825162850
+# Last modified: 2026/08/25 16:28:50
+# Blocked domains: 5069
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -157,7 +157,6 @@ papi.look.360.cn @ads
 pscan.f.360.cn @ads
 pub.se.360.cn @ads
 qurl.f.360.cn @ads
-s.360.cn @ads
 s.f.360.cn @ads
 soft.data.weather.360.cn @ads
 stat.m.360.cn @ads
@@ -827,6 +826,7 @@ bbbazlp.cn @ads
 bbcoe.cn @ads
 event.bblmw.com @ads
 perf.bblmw.com @ads
+bbphonix.xyz @ads
 baiducom.bj.bcebos.com @ads
 dingbu.bj.bcebos.com @ads
 fc-feed.cdn.bcebos.com @ads
@@ -1266,6 +1266,7 @@ hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn @ads
 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn @ads
 engine.dcad01.com @ads
 xcx.dcad01.com @ads
+ddapp.cn @ads
 trackercollect.ddxq.mobi @ads
 trackerfeed.ddxq.mobi @ads
 analytics.dealmoon.com @ads
@@ -1437,7 +1438,6 @@ no2body7-dpyijatuyl2q.edgeone.dev @ads
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev @ads
 request-copyright-policy-review.edgeone.dev @ads
 review-copyright-infringement-reports.edgeone.dev @ads
-review-copyright-infringement-request.edgeone.dev @ads
 review-copyright-policy-violations.edgeone.dev @ads
 right-copper-xkzqbqnk.edgeone.dev @ads
 srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev @ads
@@ -1490,6 +1490,7 @@ exrwl.com @ads
 ad.exyws.org @ads
 veepai-device-log.eye4.cn @ads
 eyp7uowejx.com @ads
+fakjkwp.cn @ads
 z2.fakutownee.cn @ads
 falal.cn @ads
 k6d.falang.net @ads
@@ -1531,6 +1532,7 @@ ks.ferlytc.com @ads
 21.fh21static.com @ads
 fhitagd.cn @ads
 fighter-shop.shop @ads
+fileh.xyz @ads
 filei.top @ads
 fileshider.com @ads
 api.firwinds.site @ads
@@ -1621,6 +1623,7 @@ tralog.ganji.com @ads
 static.gaomaer.cn @ads
 gaoshouyou.com @ads
 images8.gaotie.cn @ads
+gardendomes.shop @ads
 trk.gardnerdenver.com.cn @ads
 gdtimg.com @ads
 log.geetest.com @ads
@@ -1940,6 +1943,7 @@ api-launcher-eu.hismarttv.com @ads
 api-launcher-na.hismarttv.com @ads
 auth-em.hismarttv.com @ads
 auth-eu.hismarttv.com @ads
+auth-jp.hismarttv.com @ads
 auth-launcher-em.hismarttv.com @ads
 auth-launcher-eu.hismarttv.com @ads
 auth-launcher-jp.hismarttv.com @ads
@@ -1947,6 +1951,7 @@ auth-launcher-na.hismarttv.com @ads
 auth-launcher-sa.hismarttv.com @ads
 auth-na.hismarttv.com @ads
 auth-phone-afr.hismarttv.com @ads
+auth-phone-ap.hismarttv.com @ads
 auth-sa.hismarttv.com @ads
 cdn-plugin-sync-upgrade-juui.hismarttv.com @ads
 msg-na.hismarttv.com @ads
@@ -2183,6 +2188,7 @@ apisgame.iqiyi.com @ads
 c.uaa.iqiyi.com @ads
 cards-css.iqiyi.com @ads
 cm.passport.iqiyi.com @ads
+cs-feige.iqiyi.com @ads
 doh.iqiyi.com @ads
 emoticon-sns.iqiyi.com @ads
 emoticon.sns.iqiyi.com @ads
@@ -2516,6 +2522,7 @@ adashx.ut.lazada.com @ads
 amdc.lazada.com @ads
 h-adashx.ut.lazada.com @ads
 orange-dc.lazada.com @ads
+ph-log-emagzal.lazada.com @ads
 sg-log-emagzal.lazada.com @ads
 jmacs-m.lazada.com.my @ads
 msgacs-m.lazada.com.my @ads
@@ -3407,6 +3414,7 @@ v5-reading-ad.qznovelvod.com @ads
 v5-se-bjtc-reading-ad.qznovelvod.com @ads
 v5-se-ex-mc-reading-ad.qznovelvod.com @ads
 v5-se-gddgtc-reading-ad.qznovelvod.com @ads
+v5-se-jltc-reading-ad.qznovelvod.com @ads
 v5-se-sjy-daily-reading-ad.qznovelvod.com @ads
 v5-se2-yz-reading-ad.qznovelvod.com @ads
 v6-daily-reading-ad.qznovelvod.com @ads
@@ -3519,7 +3527,6 @@ adrs.sdo.com @ads
 dwtracking.sdo.com @ads
 reportsk.web.sdo.com @ads
 analytics.apps.seabroadnet.com @ads
-trace.seeyouyima.com @ads
 sellfox.com @ads
 senbiaojita.com @ads
 sensorsdata.cn @ads
@@ -3668,7 +3675,6 @@ i.snssdk.com @ads
 ib.snssdk.com @ads
 log.snssdk.com @ads
 log-hl.snssdk.com @ads
-log-lf.snssdk.com @ads
 log-lq.snssdk.com @ads
 mcs.snssdk.com @ads
 mercury-sdk.snssdk.com @ads
@@ -3680,7 +3686,6 @@ tbm.snssdk.com @ads
 tnc3-aliec2.snssdk.com @ads
 tnc3-alisc1.snssdk.com @ads
 tnc3-bjlgy.snssdk.com @ads
-toutiao-frontier.snssdk.com @ads
 tsearch.snssdk.com @ads
 ug.snssdk.com @ads
 vcl-brain.snssdk.com @ads
@@ -3751,6 +3756,7 @@ data.ssports.com @ads
 show.ssports.com @ads
 3.ssqzj.com @ads
 sssxwsry.com @ads
+start-binance.com.cn @ads
 static-cloudflare.workers.dev @ads
 staticfile.net @ads
 staticfile.org @ads
@@ -3836,6 +3842,7 @@ adashxgc.ut.taobao.com @ads
 ae-alimelog.taobao.com @ads
 agoodm.m.taobao.com @ads
 ai.m.taobao.com @ads
+alimelog.taobao.com @ads
 amdcopen.m.taobao.com @ads
 audid-api.taobao.com @ads
 audid-api-sg.taobao.com @ads
@@ -4420,6 +4427,7 @@ vyye.cn @ads
 w8.com.cn @ads
 w97nv5ibv4.com @ads
 tongdun-fingerprint.walmartmobile.cn @ads
+analytics.med.wanfangdata.com.cn @ads
 medad.med.wanfangdata.com.cn @ads
 mlog.wangsu.com @ads
 analytics.wanmei.com @ads
@@ -4546,8 +4554,8 @@ jcmonitor.xcar.com.cn @ads
 pv.xcar.com.cn @ads
 pvx.xcar.com.cn @ads
 zio.xcar.com.cn @ads
+analytics.xdiarys.com @ads
 xdrig.com @ads
-sensors.h5.xed.plus @ads
 xegnfwkju.com @ads
 xerhibx.cn @ads
 dt.xfyun.cn @ads
@@ -4766,6 +4774,7 @@ bd1.yidu.cc @ads
 yijifen.com @ads
 yijirecovery.com @ads
 data-track.yingxiong.com @ads
+data-track-global.yingxiong.com @ads
 yingyankantu.com @ads
 log.yinshantech.cn @ads
 analytics.yinxiang.com @ads
