@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260826162942
-# Last modified: 2026/08/26 16:29:42
-# Blocked domains: 5018
+# Version: 20260827004124
+# Last modified: 2026/08/27 00:41:24
+# Blocked domains: 4995
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -234,7 +234,6 @@ ad.51wnl.com @ads
 51yes.com @ads
 game.51yund.com @ads
 52aoteman.com @ads
-52jiao.cn @ads
 52kuwang.cn @ads
 5y9nfpes.52pk.com @ads
 t-adx.52qumao.com @ads
@@ -873,7 +872,6 @@ data.bilibili.com @ads
 interface.bilibili.com @ads
 miniapp.bilibili.com @ads
 line1-log.biligame.net @ads
-line3-adscore-api.biligame.net @ads
 httpdns.bilivideo.com @ads
 mcdn.bilivideo.com @ads
 ai.bioon.com @ads
@@ -966,7 +964,6 @@ ads5-normal.zijieapi.com.c.dsa.cdnbuild.net @ads
 tracker.cdnbye.com @ads
 ads-i2.xhscdn.com.w.cdngslb.com @ads
 ads-img-al.xhscdn.com.w.cdngslb.com @ads
-ads-video-al.xhscdn.com.w.cdngslb.com @ads
 ads3-normal-hl.zijieapi.com.w.cdngslb.com @ads
 ads3-normal-lf.zijieapi.com.w.cdngslb.com @ads
 ads3-normal-lq.zijieapi.com.w.cdngslb.com @ads
@@ -1433,13 +1430,11 @@ xminesserversaqwq.edgeone.dev @ads
 ytterbic-amber-qilwigl2.edgeone.dev @ads
 eexlgyn.cn @ads
 efusc.com @ads
-efxh.cn @ads
 metrics.egencia.cn @ads
 eheb8.cn @ads
 tr.ekatox.com @ads
 ekdky.cn @ads
 ekpsn3kja.com @ads
-ekzf.cn @ads
 adashx.ut.ele.me @ads
 app-monitor.ele.me @ads
 client-api.ele.me @ads
@@ -1802,7 +1797,6 @@ img1.hblds.com @ads
 hbxhnqj.cn @ads
 hbzhenquan.cn @ads
 hcbmq.cn @ads
-hccms.com.cn @ads
 hechaocheng.cn @ads
 heheshield.com @ads
 heima8.com @ads
@@ -2269,7 +2263,6 @@ v3.jiathis.com @ads
 api.jietuhb.com @ads
 jiezoiq.cn @ads
 jiguang.cn @ads
-ad.open.api.jihuoniao.com @ads
 target.ads.jihuoniao.com @ads
 jikewan.com @ads
 wuliao.jingyanben.com @ads
@@ -2869,7 +2862,6 @@ analytics.myshoptago.com @ads
 ggs.myzaker.com @ads
 aries.mzres.com @ads
 mzwzo.cn @ads
-mzxl.org.cn @ads
 n4d3ev3m1.com @ads
 n69.com @ads
 nadziejazyskunai.com @ads
@@ -2920,7 +2912,6 @@ nug08030lu.com @ads
 nug08031lu.com @ads
 c.nuhcpf.com @ads
 log.nuomi.com @ads
-metric.nuonuo.com @ads
 nurtowin-ai.com @ads
 nurtowinai.com @ads
 nurtowinpl.net @ads
@@ -2944,8 +2935,6 @@ js.oh100.com @ads
 apps5.oingo.com @ads
 oj95rctd5.com @ads
 ojg8sflgl.com @ads
-ojmv.cn @ads
-ojxr.cn @ads
 oldulgk.cn @ads
 oneapm.com @ads
 onelnk.com @ads
@@ -2977,7 +2966,6 @@ at-af.outfit7.com @ads
 bidder.dsp.outfit7.com @ads
 hb-af-us-central1.outfit7.com @ads
 revive.outin.cn @ads
-ouyaoxiazai.com @ads
 overlay.top @ads
 ovnrmvg.cn @ads
 umami.oyo.cool @ads
@@ -3080,7 +3068,6 @@ prdohgp.cn @ads
 prlioxb.cn @ads
 pro-invest-polska.net @ads
 pro-investpolska.com @ads
-proewildfire.cn @ads
 proinvest-pl.com @ads
 proinvest-polska.net @ads
 proinvestai.net @ads
@@ -3125,7 +3112,6 @@ click.qianqian.com @ads
 jsb.qianzhan.com @ads
 game.qidian.com @ads
 qdp.qidian.com @ads
-qidw.cn @ads
 qienews.cn @ads
 haostat.qihoo.com @ads
 qijpaih.cn @ads
@@ -3446,7 +3432,6 @@ rumt-zh.com @ads
 abc.ruodian360.com @ads
 rvbztg.cn @ads
 rvzlobj.cn @ads
-rwix.cn @ads
 rxys.cn @ads
 ryd626moj.com @ads
 rytm-inwestek.com @ads
@@ -3521,7 +3506,6 @@ ad.shunchangzhixing.com @ads
 js.shunqi.com @ads
 shuzilm.cn @ads
 ads-monitoring.shziyi.com @ads
-sifuhe.cn @ads
 sigmob.com @ads
 smetrics.marketing.signify.com.cn @ads
 www.silurian.cn @ads
@@ -3910,7 +3894,6 @@ report.tencentmusic.com @ads
 tengfeidn.cn @ads
 tepusi888.cn @ads
 answers.teradata.com.cn @ads
-teue.cn @ads
 th7.cn @ads
 advert.api.thejoyrun.com @ads
 adpai.thepaper.cn @ads
@@ -3993,7 +3976,6 @@ tnc3-bjlgy.toutiaoapi.com @ads
 toutiaopage.com @ads
 tovbus.cn @ads
 tovppl.cn @ads
-tpjw.cn @ads
 trackingio.com @ads
 tradplus.cn @ads
 tradplus.com @ads
@@ -4030,12 +4012,10 @@ twzui6.com @ads
 livetech.shopee.co.id.txlivecdn.com @ads
 livetech.shopee.com.br.txlivecdn.com @ads
 livetech.shopee.vn.txlivecdn.com @ads
-txre.cn @ads
 m.txtxr.com @ads
 ty.cn @ads
 u7u9.com @ads
 u88.cn @ads
-uaqe.cn @ads
 log.ubianet.com @ads
 images.info.ubmsinoexpo.com @ads
 images.service.ubmsinoexpo.com @ads
@@ -4522,7 +4502,6 @@ ads-i10.xhscdn.com @ads
 ads-i2.xhscdn.com @ads
 ads-i3.xhscdn.com @ads
 ads-i4.xhscdn.com @ads
-ads-i8.xhscdn.com @ads
 ads-img-al.xhscdn.com @ads
 ads-img-bak.xhscdn.com @ads
 ads-img-qc.xhscdn.com @ads
@@ -4559,7 +4538,6 @@ bss.pandora.xiaomi.com @ads
 cdn-exp-sg-recommend.pt.xiaomi.com @ads
 cdn.exp.xiaomi.com @ads
 cdn.fds.api.xiaomi.com @ads
-data.game.xiaomi.com @ads
 data.mistat.intl.xiaomi.com @ads
 de.pandora.xiaomi.com @ads
 dvb.pandora.xiaomi.com @ads
@@ -4584,7 +4562,6 @@ stats.music.xiaomi.com @ads
 storeconfig.mistat.intl.xiaomi.com @ads
 sys.tv.india.xiaomi.com @ads
 t1.a.market.xiaomi.com @ads
-t17.market.xiaomi.com @ads
 tz.sec.xiaomi.com @ads
 video.market.xiaomi.com @ads
 api.device.xiaomi.net @ads
