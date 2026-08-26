@@ -3,8 +3,8 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260826083451
-! Last modified: 2026/08/26 08:34:51
+! Version: 20260826162942
+! Last modified: 2026/08/26 16:29:42
 ! Blocked domains: 5018
 !
 kwflvcdn.000dn.com
@@ -110,6 +110,7 @@ d1.1ppt.com
 1s8zfj6p4.com
 1tvg524vih.com
 1wkg.cn
+www.wowjs.1www.cn
 20091222.com
 2144.cn
 ssp.21ic.com
@@ -156,6 +157,7 @@ papi.look.360.cn
 pscan.f.360.cn
 pub.se.360.cn
 qurl.f.360.cn
+s.360.cn
 s.f.360.cn
 soft.data.weather.360.cn
 stat.m.360.cn
@@ -241,7 +243,6 @@ api.52youtu.com
 a.52zxw.com
 53kf.com
 54kefu.net
-down.54nb.com
 55.la
 55726zubo56686.com
 acs.56.com
@@ -459,7 +460,6 @@ dsp.ali213.net
 web.ali213.net
 cdn.ynuf.aliapp.org
 umdc.aliapp.org
-us.ynuf.aliapp.org
 abtest.alibaba.com
 activities.alibaba.com
 adashx.ut.alibaba.com
@@ -612,7 +612,6 @@ a.armystar.com
 trk.arozone.cn
 arpun.com
 aspwg.cn
-www.assoc-amazon.cn
 dark-brook-fd40.astotgpqlekgiky.workers.dev
 asyn.cn
 aiseet.aa.atianqi.com
@@ -940,6 +939,7 @@ appres.camera360.com
 stratus.campaign-image.com.cn
 zc1.campaign-view.com.cn
 count.candou.com
+telemetry.canva.cn
 caomeixz7.xyz
 capexvision-ai.com
 capexvision-ai.net
@@ -1005,7 +1005,6 @@ analysis.chatglm.cn
 ssgg.chazidian.com
 yong.chazidian.com
 bdasd.chdbook.cn
-www.che.com
 analytics.cherry-ai.com
 media.cheshi-img.com
 click.cheshi.com
@@ -1021,7 +1020,6 @@ game.china.com
 rankhit.china.com
 sssvd.china.com
 union.china.com.cn
-chinaapper.com
 pcmactivity.chinacloudsites.cn
 same.chinadaily.com.cn
 sdkoptedge.chinanetcenter.com
@@ -1107,6 +1105,7 @@ smartcardf-eu.apps.coloros.com
 smartcardf.apps.coloros.com
 iadcontent-lb.apple.com.akadns.net
 iadsdk.apple.com.akadns.net
+wangsu-smetrics.redhat.com.edgekey.net
 trk.compair.com.cn
 strack.concur.cn
 track.concur.cn
@@ -1274,10 +1273,10 @@ www.digitalfiles.org
 bea-s.dinghuoche.com
 resolver.dingtalk.com
 linktrace.diningcity.cn
-stdown.dinju.com
 dipan.com
 tr.email.directindustry.com
 diskclean.cn
+glitter.services.disqus.com
 code.ditiezu.net
 img16.diyifanwen.com
 statistical-report.djiservice.org
@@ -1361,7 +1360,6 @@ other.v.duowan.com
 playstats.v.duowan.com
 stats.v.duowan.com
 vupload.duowan.com
-adsmis.duxiaoman.com
 dvtednm.cn
 dvzk66.cn
 untitled.dwstatic.com
@@ -1394,6 +1392,7 @@ cp2.eastmoney.com
 emdcadvertise.eastmoney.com
 huaxiang.eastmoney.com
 same.eastmoney.com
+img.easypass.cn
 easytomessage.com
 eblnzoq.cn
 ebrid.cn
@@ -1423,13 +1422,13 @@ no2body7-dpyijatuyl2q.edgeone.dev
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 request-copyright-policy-review.edgeone.dev
 review-copyright-infringement-reports.edgeone.dev
+review-copyright-infringement-request.edgeone.dev
 review-copyright-policy-violations.edgeone.dev
 right-copper-xkzqbqnk.edgeone.dev
 srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev
 symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev
 troubleshoot-copyright-policy-violations.edgeone.dev
 upgrade-dp2c1xqj8ejo.edgeone.dev
-well-aquamarine-psata8ej.edgeone.dev
 xminesserversaqwq.edgeone.dev
 ytterbic-amber-qilwigl2.edgeone.dev
 eexlgyn.cn
@@ -1559,6 +1558,7 @@ fqxkj.cn
 trace.free-reels.com
 trace-v1.free-reels.com
 trace-v5.free-reels.com
+v-support.free.bg
 freshhomewarehouse.shop
 freshvaluewarehouse.shop
 smetrics.frontline.com.cn
@@ -1693,10 +1693,8 @@ goforandroid.com
 goi08130kh.com
 goi08160kh.com
 gojunkclean.cn
-gokoton.shop
 prom.gome.com.cn
 gongxifc.com
-cdn.file6.goodid.com
 google-analytics-cn.com
 google-analytics.com
 ads.google.cn
@@ -1752,7 +1750,6 @@ ra.gtimg.com
 splashqqlive.gtimg.com
 wa.gtimg.com
 rum-openway.guance.com
-us1-rum-openway.guance.com
 bd1.guancha.cn
 bdjs.guangyuanol.cn
 guangzhuiyuan.com
@@ -1954,6 +1951,7 @@ hnol.net
 metrics.hollisterco.cn
 smetrics.hollisterco.cn
 homebargainmarket.shop
+log.homestyler.com
 w88.hongkongdisneyland.com.cn
 om.hotels.cn
 ad.house365.com
@@ -2003,7 +2001,6 @@ vipauth.hpplay.cn
 vipgslb.hpplay.cn
 cdn.hpplay.com.cn
 h5.hpplay.com.cn
-leboapi.hpplay.com.cn
 support.hqts.com
 hseda.com
 hsrgnac.cn
@@ -2567,6 +2564,7 @@ libaishuo.com
 track.libii.cn
 lichunxiao.cn
 liebaovip.com
+log.liepin.com
 ads.linkedin.cn
 linkhaitao.com
 litchiads.com
@@ -2922,6 +2920,7 @@ nug08030lu.com
 nug08031lu.com
 c.nuhcpf.com
 log.nuomi.com
+metric.nuonuo.com
 nurtowin-ai.com
 nurtowinai.com
 nurtowinpl.net
@@ -2989,7 +2988,6 @@ p74ugyuur.com
 login.paddlewaver.com
 static.paddlewaver.com
 xml-v4.paddlewaver.com
-www.pagechoice.com
 pagechoice.net
 paime.com
 mm.paizi.net
@@ -3140,7 +3138,6 @@ ad-cdn.qingting.fm
 adlaunch.qingting.fm
 adlog.qingting.fm
 admgr.qingting.fm
-list.z.qingting.fm
 logger.qingting.fm
 kf.qingwk.com
 log.qiniuapi.com
@@ -3326,7 +3323,6 @@ yun-hl.3g.qq.com
 dns.weixin.qq.com.cn
 wxaintpcos.wxqcloud.qq.com.cn
 qq2tdd0xx.com
-down.qqfarmer.com.cn
 sdk-ab-config.qquanquan.com
 tracelog-debug.qquanquan.com
 f.qstatic.com
@@ -3652,6 +3648,7 @@ tbm.snssdk.com
 tnc3-aliec2.snssdk.com
 tnc3-alisc1.snssdk.com
 tnc3-bjlgy.snssdk.com
+toutiao-frontier.snssdk.com
 tsearch.snssdk.com
 ug.snssdk.com
 vcl-brain.snssdk.com
@@ -4120,6 +4117,7 @@ urbanfind.club
 uri6.com
 urlqh.cn
 stats.us-light-edge.com
+ushaqi.com
 gyqpyr.utsource.net
 utve.cn
 dlog-config.uu.cc
@@ -4382,6 +4380,7 @@ vyye.cn
 w8.com.cn
 w97nv5ibv4.com
 tongdun-fingerprint.walmartmobile.cn
+wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 medad.med.wanfangdata.com.cn
 mlog.wangsu.com
 analytics.wanmei.com
@@ -4479,6 +4478,7 @@ push.wps.cn
 update.wps.cn
 wpsweb-dc.wps.cn
 api-ad-adapter.wps.com
+api-ad-adapter-mb.wps.com
 mo.res.wpscdn.cn
 abroadad.cache.wpscdn.com
 wpwpquse.cn
@@ -4550,7 +4550,6 @@ t2.xiaohongshu.com
 xiaojifly.cn
 adtrack.xiaojukeji.com
 api.d.xiaomi.com
-api.hybrid.xiaomi.com
 api.installer.xiaomi.com
 api.miui.security.xiaomi.com
 appstore.cdn.pandora.xiaomi.com
@@ -4585,6 +4584,7 @@ stats.music.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
 sys.tv.india.xiaomi.com
 t1.a.market.xiaomi.com
+t17.market.xiaomi.com
 tz.sec.xiaomi.com
 video.market.xiaomi.com
 api.device.xiaomi.net
