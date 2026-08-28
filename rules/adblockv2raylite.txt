@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260828022856
-# Last modified: 2026/08/28 02:28:56
-# Blocked domains: 5017
+# Version: 20260828152312
+# Last modified: 2026/08/28 15:23:12
+# Blocked domains: 5002
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -427,13 +427,11 @@ webcollector-rtm.agora.io @ads
 ahov1.top @ads
 ai-fiversity.com @ads
 ai-polarisx.com @ads
-ai-proinvest-polska.com @ads
 aifiversity.com @ads
 brc.aigrammar.net @ads
 brc2.aigrammar.net @ads
 atiws.aipai.com @ads
 mlog.aipai.com @ads
-aiproinvestpolska.net @ads
 metrics.airasia.com @ads
 smetrics.airasia.com @ads
 t.airasia.com @ads
@@ -849,8 +847,6 @@ smetrics.beatsbydre.com @ads
 smetrics.beatsbydre.com.cn @ads
 beizi.biz @ads
 smetrics.benefitcosmetics.com.cn @ads
-bervonik-ai.com @ads
-bervonik.net @ads
 betylife.com @ads
 a.bfking.cn @ads
 bfshan.cn @ads
@@ -1400,7 +1396,6 @@ jb.ecar168.cn @ads
 ecudsc.cn @ads
 webmail-updateupcoming-com-dp7cp80id24e.zh-cn.edgeone.cool @ads
 00bfd200-dpnb2uqcmx3g.edgeone.dev @ads
-05gdfi007-dpm2gawaoxpl.edgeone.dev @ads
 098yjuio-dpwxvxwxcuwy.edgeone.dev @ads
 alldbgdhhdhhdhhhchhchdhdm-dp9hzij3r3mr.edgeone.dev @ads
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev @ads
@@ -1429,7 +1424,6 @@ review-copyright-infringement-request.edgeone.dev @ads
 review-copyright-policy-violations.edgeone.dev @ads
 right-copper-xkzqbqnk.edgeone.dev @ads
 srvkdtsged5w23456ds-dplleb90jz3x.edgeone.dev @ads
-symmetrical-octo-umbrella-dpfq8j6ozudi.edgeone.dev @ads
 troubleshoot-copyright-policy-violations.edgeone.dev @ads
 upgrade-dp2c1xqj8ejo.edgeone.dev @ads
 whyte11chase-dpkso5utb08y.edgeone.dev @ads
@@ -3053,7 +3047,6 @@ pmensrl.cn @ads
 pmvlwjy.cn @ads
 1.pncdn.cn @ads
 100.pncdn.cn @ads
-podstcrednex-ai.com @ads
 dluat.pokerbros.net @ads
 i.pokerbros.net @ads
 polarisx-ai.com @ads
@@ -3084,10 +3077,7 @@ prawainwestowien.net @ads
 prdohgp.cn @ads
 prlioxb.cn @ads
 pro-invest-polska.net @ads
-pro-investpolska.com @ads
-proinvest-pl.com @ads
 proinvest-polska.net @ads
-proinvestai.net @ads
 proinvestpolska-ai.com @ads
 info.protiviti.com.cn @ads
 dm.pstatp.com @ads
@@ -3775,7 +3765,6 @@ taboola.com.cn @ads
 mxana.tacool.com @ads
 tagmanager.cn @ads
 tagtic.cn @ads
-en.taichuan.com @ads
 takjttz.cn @ads
 talk99.cn @ads
 talkingdata.com @ads
@@ -3940,7 +3929,6 @@ tianmu.mobi @ads
 ip.tianqiapi.com @ads
 datas.tianqistatic.com @ads
 yptqys.tianqistatic.com @ads
-fz.tiansys.cn @ads
 www.tiexing.com @ads
 smetrics.tiffany.cn @ads
 tikz.cn @ads
@@ -4633,7 +4621,6 @@ upaicdn.xinmei365.com @ads
 tongji.xinmin.cn @ads
 hi.xiunm.cn @ads
 xiyouence.com @ads
-dhlpaketzustellung.xjili99.vip @ads
 xjl2ts2q6a.com @ads
 xkmwxwy.cn @ads
 pcdn.xmcdn.com @ads
@@ -4873,8 +4860,6 @@ zazhipu.com @ads
 p3.zbjimg.com @ads
 xue.zbyw.cn @ads
 log.zcool.com.cn @ads
-zeldrunek-pl.com @ads
-zelorprimeai.com @ads
 api-analytics.zepp.com @ads
 api-analytics-cn3.zepp.com @ads
 api-analytics-de.zepp.com @ads
