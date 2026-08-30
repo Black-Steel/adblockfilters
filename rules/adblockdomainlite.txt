@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260830100407
-! Last modified: 2026/08/30 10:04:07
-! Blocked domains: 5020
+! Version: 20260830212357
+! Last modified: 2026/08/30 21:23:57
+! Blocked domains: 5026
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -120,6 +120,7 @@ bd-js1.2345.com
 bd-retrieval1.2345.com
 bdcode.2345.com
 ggcode.2345.com
+jifen.2345.com
 25662zubo23739.com
 25t9uxgnx.com
 2607.cn
@@ -156,7 +157,6 @@ papi.look.360.cn
 pscan.f.360.cn
 pub.se.360.cn
 qurl.f.360.cn
-s.360.cn
 s.f.360.cn
 soft.data.weather.360.cn
 stat.m.360.cn
@@ -350,6 +350,7 @@ a32a.com.cn
 a3p4.net
 a4xvv2g18l.com
 a5wlr2yplf.com
+aabokllq.vercel.app
 aaoffice.cn
 aapz.com
 smetrics.abercrombie.cn
@@ -491,6 +492,7 @@ ilce.alicdn.com
 nbsdk-baichuan.alicdn.com
 tce.alicdn.com
 umc.danuoyi.alicdn.com
+alicemolly.shop
 adservice.aliexpress.com
 click.aliexpress.com
 fourier.aliexpress.com
@@ -744,6 +746,7 @@ luimg.baidu.com
 m1.baidu.com
 miao.baidu.com
 miaowu.baidu.com
+mo.baidu.com
 mobads.baidu.com
 mobads-logs.baidu.com
 mountain.zhidao.baidu.com
@@ -968,7 +971,6 @@ ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
 ads5-normal.zijieapi.com.c.dsa.cdnbuild.net
 tracker.cdnbye.com
 ads-img-al.xhscdn.com.w.cdngslb.com
-ads-video-al.xhscdn.com.w.cdngslb.com
 ads3-normal-hl.zijieapi.com.w.cdngslb.com
 ads3-normal-lf.zijieapi.com.w.cdngslb.com
 ads3-normal-lq.zijieapi.com.w.cdngslb.com
@@ -1072,6 +1074,7 @@ log-h5.cmpassport.com
 log1.cmpassport.com
 log2.cmpassport.com
 cmpxaup.cn
+ggc.cmvideo.cn
 ggx.cmvideo.cn
 ad-api.cnblogs.com
 analytics.cnblogs.com
@@ -1107,7 +1110,6 @@ smartcardf-eu.apps.coloros.com
 smartcardf.apps.coloros.com
 iadcontent-lb.apple.com.akadns.net
 iadsdk.apple.com.akadns.net
-wangsu-smetrics.redhat.com.edgekey.net
 trk.compair.com.cn
 strack.concur.cn
 track.concur.cn
@@ -1192,7 +1194,6 @@ console.data4.net
 gate.datacaciques.com
 pv.datacaciques.com
 datamaster.com.cn
-matomo.datasanalytics.com
 jc1.dayfund.com.cn
 bun1.dayi.org.cn
 images.dayoo.com
@@ -1203,7 +1204,6 @@ cs02-pps-drcn.dbankcdn.com
 adx-drcn.op.dbankcloud.cn
 browsercfg-drcn.cloud.dbankcloud.cn
 datacollector-dra.dt.dbankcloud.cn
-datacollector-drcn.dt.dbankcloud.cn
 datacollector-dre.dt.dbankcloud.cn
 dtm-dre.platform.dbankcloud.cn
 events-dra.op.dbankcloud.cn
@@ -1251,6 +1251,7 @@ events-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
+metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 engine.dcad01.com
 xcx.dcad01.com
 ddapp.cn
@@ -1425,6 +1426,7 @@ loginsecurde4-dpqom26teqv9.edgeone.dev
 mailwilling-dp9gqao71lzl.edgeone.dev
 musical-octo-robot-dptlf6z6tv2g.edgeone.dev
 no2body7-dpyijatuyl2q.edgeone.dev
+ordinary-silver-rkbwyw06.edgeone.dev
 prior-jade-yjoyvniu.edgeone.dev
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 request-copyright-policy-review.edgeone.dev
@@ -2007,7 +2009,6 @@ vipauth.hpplay.cn
 vipgslb.hpplay.cn
 cdn.hpplay.com.cn
 h5.hpplay.com.cn
-leboapi.hpplay.com.cn
 support.hqts.com
 hseda.com
 hsrgnac.cn
@@ -2081,6 +2082,7 @@ gdl.i9dhjx.ru
 ibozys.cn
 sensors.ibreader.com
 busuanzi.ibruce.info
+ibwm5lynb6.com
 moon.ibytecdn.cn
 static.ichehome.com
 f1.ichong123.com
@@ -2117,6 +2119,7 @@ piccdn.igetget.com
 seeder.igetget.com
 igexin.com
 ihclam.cn
+appadapi.ihuman.com
 iimedia.cn
 ijinshan.com
 daima.ijq.tv
@@ -2230,6 +2233,7 @@ jab88.com
 jaccsz.com
 eventlog.jackpot.de
 a3.jandan.net
+jbsy20riz9.com
 stat.jc001.cn
 addata.jd.com
 ads-union.jd.com
@@ -2277,6 +2281,7 @@ v3.jiathis.com
 api.jietuhb.com
 jiezoiq.cn
 jiguang.cn
+ad.open.api.jihuoniao.com
 target.ads.jihuoniao.com
 jikewan.com
 wuliao.jingyanben.com
@@ -2368,6 +2373,7 @@ knliylh.cn
 www.knockknock.top
 ofkqiy.knowfashionstyle.com
 knowsafe.com
+koebpmhcce.com
 info.kollmorgen.cn
 dpi.networkorder.komect.com
 smetrics.kone.cn
@@ -2541,10 +2547,10 @@ forms.lenovo.com
 forms-emea.lenovo.com
 images.business.lenovo.com
 images.smbdirect.lenovo.com
-metrics.qira.lenovo.com
 o.lenovo.com
 s.lenovo.com
 fsr.lenovomm.com
+prw.lenovomm.com
 pushapi.lenovomm.com
 susapi.lenovomm.com
 uss-pid.lenovomm.com
@@ -2911,6 +2917,7 @@ nhscv.cn
 nhuk707eex.com
 nike666.com
 ninebox.cn
+nio08310lt.com
 down.nishuoa.com
 nkscdn.com
 nlzyp.cn
@@ -3931,7 +3938,6 @@ stats.thermoscientific.cn
 thinkingdata.cn
 trk.thomas-pump.cn
 trail.thomsonreuters.cn
-ad.thsi.cn
 tracking.mail.ti.com.cn
 tiandi.com
 tianjimedia.com
@@ -4172,6 +4178,7 @@ ws-p2p-pull.video-voip.com
 vigyn4gpx.com
 vihppjk.cn
 n-st.vip.com
+in.vipliangmei.com
 tr.email.virtual-expo.com
 smetrics.visitsingapore.com.cn
 bhwkju.vivo.com
@@ -4238,6 +4245,7 @@ cname-in-bom01-nginxpool03.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com
+co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
@@ -4304,6 +4312,7 @@ mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
 onrt-stsdk.vivoglobal.com
+ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
 ru-comort-stsdk.vivoglobal.com
 ru-compnrt-stsdk.vivoglobal.com
@@ -4311,6 +4320,7 @@ ru-comprt-stsdk.vivoglobal.com
 ru-err-up.vivoglobal.com
 ru-exstsdk.vivoglobal.com
 ru-onrt-stsdk.vivoglobal.com
+ru-os-config-appstore.vivoglobal.com
 ru-p.vivoglobal.com
 ru-romsp-unifyconfig.vivoglobal.com
 ru-st-exappupgrade.vivoglobal.com
@@ -4323,6 +4333,7 @@ ru-vcode-or.vivoglobal.com
 sg-cfg-stsdk.vivoglobal.com
 stsdk.vivoglobal.com
 tr-domaincfg.vivoglobal.com
+tr-err-up.vivoglobal.com
 tr-onrt-stsdk.vivoglobal.com
 tr-ort-stsdk.vivoglobal.com
 tr-p.vivoglobal.com
@@ -4370,7 +4381,6 @@ vole22.cn
 report.voovmeeting.com
 vorluic.cn
 vpsgu.cn
-p.vq6nsu.cn
 vrbrothers.com
 vrr.name
 vrrm.cn
@@ -4384,7 +4394,6 @@ vyye.cn
 w8.com.cn
 w97nv5ibv4.com
 tongdun-fingerprint.walmartmobile.cn
-wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 medad.med.wanfangdata.com.cn
 mlog.wangsu.com
 analytics.wanmei.com
@@ -4510,8 +4519,6 @@ jcmonitor.xcar.com.cn
 pv.xcar.com.cn
 pvx.xcar.com.cn
 zio.xcar.com.cn
-analytics.xdiarys.com
-analytics2.xdiarys.com
 xdrig.com
 xegnfwkju.com
 xerhibx.cn
@@ -4816,7 +4823,6 @@ yrqwnc.cn
 log.ys7.com
 ysjwj.com
 ysont.cn
-ytelc.com
 cnuspider.yuanshen.com
 1.yuexw.com
 yumimobi.com
