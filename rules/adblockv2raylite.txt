@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260907093548
-# Last modified: 2026/09/07 09:35:48
-# Blocked domains: 4987
+# Version: 20260907214607
+# Last modified: 2026/09/07 21:46:07
+# Blocked domains: 5027
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -119,6 +119,7 @@ bd-js1.2345.com @ads
 bd-retrieval1.2345.com @ads
 bdcode.2345.com @ads
 ggcode.2345.com @ads
+jifen.2345.com @ads
 25662zubo23739.com @ads
 25t9uxgnx.com @ads
 2607.cn @ads
@@ -155,7 +156,6 @@ papi.look.360.cn @ads
 pscan.f.360.cn @ads
 pub.se.360.cn @ads
 qurl.f.360.cn @ads
-s.360.cn @ads
 s.f.360.cn @ads
 soft.data.weather.360.cn @ads
 stat.m.360.cn @ads
@@ -217,6 +217,7 @@ a.4aqq.com @ads
 51.la @ads
 511a.cn @ads
 51240.com @ads
+5166.info @ads
 amradmin.5173.com @ads
 518ad.com @ads
 log.51changdu.com @ads
@@ -228,6 +229,7 @@ scdata.51job.com @ads
 51mitu.com @ads
 a1.51shiti.cn @ads
 51taifu.com @ads
+ad.51wnl-cq.com @ads
 r.51wnl-cq.com @ads
 ad.51wnl.com @ads
 51xuex.com.cn @ads
@@ -259,6 +261,7 @@ www.56.com @ads
 dl.1003b.56a.com @ads
 56fba.cn @ads
 57573zubo36833.com @ads
+advert.58.com @ads
 brandshow.58.com @ads
 jing.58.com @ads
 poro.58.com @ads
@@ -755,6 +758,7 @@ paimgcdn-feed.baidu.com @ads
 pimlog.baidu.com @ads
 plugin.mobopay.baidu.com @ads
 pos.baidu.com @ads
+publish-pic-cpu.baidu.com @ads
 pups.baidu.com @ads
 push.zhanzhang.baidu.com @ads
 qapm.baidu.com @ads
@@ -816,7 +820,6 @@ a.baomihua.com @ads
 djs.baomihua.com @ads
 resource.baomihua.com @ads
 baycode.cn @ads
-raddus.bayescom.com @ads
 bbbazlp.cn @ads
 bbcoe.cn @ads
 event.bblmw.com @ads
@@ -871,6 +874,7 @@ hw-v2-web-player-tracker.biliapi.net @ads
 data.bilibili.com @ads
 interface.bilibili.com @ads
 miniapp.bilibili.com @ads
+tracker.chat.bilibili.com @ads
 line1-log.biligame.net @ads
 httpdns.bilivideo.com @ads
 mcdn.bilivideo.com @ads
@@ -950,6 +954,8 @@ cb07whvmx.com @ads
 cbhzxctgm.com @ads
 adv.ccb.com @ads
 ad.ccement.com @ads
+btrace.ysp.cctv.cn @ads
+mtrace.ysp.cctv.cn @ads
 ad.cctv.com @ads
 httpdns.cctv.com @ads
 p.data.cctv.com @ads
@@ -1098,8 +1104,6 @@ log-eap-in.coloros.com @ads
 log-eap-sg.coloros.com @ads
 moa-upload-online.coloros.com @ads
 smartcard.apps.coloros.com @ads
-smartcardf-eu.apps.coloros.com @ads
-smartcardf.apps.coloros.com @ads
 iadcontent-lb.apple.com.akadns.net @ads
 iadsdk.apple.com.akadns.net @ads
 trk.compair.com.cn @ads
@@ -1147,6 +1151,7 @@ zhannei-dm.csdn.net @ads
 kunpeng-sc.csdnimg.cn @ads
 csjplatform.com @ads
 ctags.cn @ads
+ads-marketing-vivofs.vivo.com.cn.ctdns.cn @ads
 doubleclick.ctfile.com @ads
 ma-adx.ctrip.com @ads
 u.ctrip.com @ads
@@ -1235,6 +1240,7 @@ events-drru.op.dbankcloud.ru @ads
 0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn @ads
 adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn @ads
 adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn @ads
+adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn @ads
 events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn @ads
 events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn @ads
 events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn @ads
@@ -1566,6 +1572,7 @@ po.funshion.com @ads
 pub.funshion.com @ads
 pv.funshion.com @ads
 stat.funshion.com @ads
+vs.funshion.com @ads
 stat.funshion.net @ads
 trk.futureelectronics.cn @ads
 fwmbjrl.cn @ads
@@ -1615,6 +1622,7 @@ biz.gexing.com @ads
 safebrowsing.urlsec.gg.com @ads
 shqdown.ggzuhao.com @ads
 ghsnhjk.cn @ads
+gi.cn @ads
 ad.partner.gifshow.com @ads
 gdfp.gifshow.com @ads
 log-sdk.gifshow.com @ads
@@ -1636,6 +1644,7 @@ auth.api.gitv.tv @ads
 doh.ptqy.gitv.tv @ads
 liveats-vod.video.ptqy.gitv.tv @ads
 msg.ptqy.gitv.tv @ads
+openapi.vip.ptqy.gitv.tv @ads
 ota.ptqy.gitv.tv @ads
 policy.video.ptqy.gitv.tv @ads
 puma-api.ptqy.gitv.tv @ads
@@ -1841,6 +1850,7 @@ dcc-awareness-cn.heytapmobi.com @ads
 dragate-sg.dc.heytapmobi.com @ads
 epoch-id.cdo.heytapmobi.com @ads
 httpdns.ocloud.heytapmobi.com @ads
+i-cn01a.ocloud.heytapmobi.com @ads
 i-sg01a.ocloud.heytapmobi.com @ads
 iot-earbuds-cn.heytapmobi.com @ads
 mdp-usertrace-cn.heytapmobi.com @ads
@@ -1904,6 +1914,7 @@ hiido.com @ads
 odd-onead.cdn.hinet.net @ads
 analytics.shop.hisense.com @ads
 api-4know-em.hismarttv.com @ads
+api-4know-eu.hismarttv.com @ads
 api-gps.hismarttv.com @ads
 api-gps-eu.hismarttv.com @ads
 api-gps-na.hismarttv.com @ads
@@ -1911,6 +1922,7 @@ api-launcher-eu.hismarttv.com @ads
 api-launcher-na.hismarttv.com @ads
 auth-em.hismarttv.com @ads
 auth-eu.hismarttv.com @ads
+auth-jp.hismarttv.com @ads
 auth-launcher-em.hismarttv.com @ads
 auth-launcher-eu.hismarttv.com @ads
 auth-launcher-jp.hismarttv.com @ads
@@ -1918,6 +1930,7 @@ auth-launcher-na.hismarttv.com @ads
 auth-launcher-sa.hismarttv.com @ads
 auth-na.hismarttv.com @ads
 auth-phone-afr.hismarttv.com @ads
+auth-phone-ap.hismarttv.com @ads
 auth-sa.hismarttv.com @ads
 cdn-plugin-sync-upgrade-juui.hismarttv.com @ads
 msg-na.hismarttv.com @ads
@@ -2153,6 +2166,7 @@ apisgame.iqiyi.com @ads
 c.uaa.iqiyi.com @ads
 cards-css.iqiyi.com @ads
 cm.passport.iqiyi.com @ads
+cs-feige.iqiyi.com @ads
 doh.iqiyi.com @ads
 emoticon-sns.iqiyi.com @ads
 emoticon.sns.iqiyi.com @ads
@@ -2262,6 +2276,7 @@ api.jietuhb.com @ads
 jiezoiq.cn @ads
 jiguang.cn @ads
 ad.open.api.jihuoniao.com @ads
+ad.report.jihuoniao.com @ads
 target.ads.jihuoniao.com @ads
 wuliao.jingyanben.com @ads
 adx-api.jinmo.tech @ads
@@ -2486,6 +2501,7 @@ adashx.ut.lazada.com @ads
 amdc.lazada.com @ads
 h-adashx.ut.lazada.com @ads
 orange-dc.lazada.com @ads
+ph-log-emagzal.lazada.com @ads
 jmacs-m.lazada.com.my @ads
 msgacs-m.lazada.com.my @ads
 jmacs-m.lazada.com.ph @ads
@@ -2525,6 +2541,7 @@ images.smbdirect.lenovo.com @ads
 o.lenovo.com @ads
 s.lenovo.com @ads
 fsr.lenovomm.com @ads
+prw.lenovomm.com @ads
 pushapi.lenovomm.com @ads
 susapi.lenovomm.com @ads
 uss-pid.lenovomm.com @ads
@@ -2736,6 +2753,7 @@ adv.sec.intl.miui.com @ads
 api.accelerator.intl.miui.com @ads
 api.aurogon.intl.miui.com @ads
 api.bbs.miui.com @ads
+api.browser.intl.miui.com @ads
 api.brs.intl.miui.com @ads
 api.calendar.intl.miui.com @ads
 api.collect.data.intl.miui.com @ads
@@ -2864,6 +2882,7 @@ nasimobi.com @ads
 dl.natgo.cn @ads
 tr.email.nauticexpo.com @ads
 nb4ds7c13d.com @ads
+i.stat.nearme.com.cn @ads
 sdk.stat.foreign.nearme.com.cn @ads
 tracking.nesox.com @ads
 sea.net.edu.cn @ads
@@ -3090,6 +3109,7 @@ qawxpzm.cn @ads
 cp.qbaobei.com @ads
 apilog.qbb6.com @ads
 uplog.qbox.me @ads
+log.qcast.cn @ads
 log.qvb.qcloud.com @ads
 tracker-00.qvb.qcloud.com @ads
 log.game.qcplay.com @ads
@@ -3369,6 +3389,7 @@ v3-reading-ad.qznovelvod.com @ads
 v5-bd-daily-reading-ad.qznovelvod.com @ads
 v5-ex-reading-ad.qznovelvod.com @ads
 v5-reading-ad.qznovelvod.com @ads
+v5-se-bjtc-reading-ad.qznovelvod.com @ads
 v5-se-ex-mc-reading-ad.qznovelvod.com @ads
 v5-se-gddgtc-reading-ad.qznovelvod.com @ads
 v5-se-sjy-daily-reading-ad.qznovelvod.com @ads
@@ -3377,6 +3398,7 @@ v6-reading-ad.qznovelvod.com @ads
 v9-reading-ad.qznovelvod.com @ads
 v95-aw-reading-ad.qznovelvod.com @ads
 v95-se-zjwztc-reading-ad.qznovelvod.com @ads
+v95-ynkmtc-reading-ad.qznovelvod.com @ads
 v95-zjjx2tc-reading-ad.qznovelvod.com @ads
 v96-reading-ad.qznovelvod.com @ads
 v96-sz-daily-reading-ad.qznovelvod.com @ads
@@ -3445,6 +3467,7 @@ s0p6s02x28.com @ads
 mp.s11.cn @ads
 s1gr2198h.com @ads
 s4y6lhotaw.com @ads
+s8.pw @ads
 404.safedog.cn @ads
 saitef.cn @ads
 saldowkaai.net @ads
@@ -3479,6 +3502,7 @@ adrs.sdo.com @ads
 dwtracking.sdo.com @ads
 reportsk.web.sdo.com @ads
 analytics.apps.seabroadnet.com @ads
+trace.seeyouyima.com @ads
 sellfox.com @ads
 senbiaojita.com @ads
 sensorsdata.cn @ads
@@ -3627,8 +3651,10 @@ i.snssdk.com @ads
 ib.snssdk.com @ads
 log.snssdk.com @ads
 log-hl.snssdk.com @ads
+log-lf.snssdk.com @ads
 log-lq.snssdk.com @ads
 mcs.snssdk.com @ads
+mercury-sdk.snssdk.com @ads
 mon.snssdk.com @ads
 open.snssdk.com @ads
 pangolin.snssdk.com @ads
@@ -3793,6 +3819,7 @@ adashxgc.ut.taobao.com @ads
 ae-alimelog.taobao.com @ads
 agoodm.m.taobao.com @ads
 ai.m.taobao.com @ads
+alimelog.taobao.com @ads
 amdcopen.m.taobao.com @ads
 audid-api.taobao.com @ads
 audid-api-sg.taobao.com @ads
@@ -3811,6 +3838,7 @@ huodong.m.taobao.com @ads
 hybrid.miniapp.taobao.com @ads
 m-adash.m.taobao.com @ads
 m.simba.taobao.com @ads
+mclick.simba.taobao.com @ads
 nbsdk-baichuan.taobao.com @ads
 openjmacs.m.taobao.com @ads
 pcookie.taobao.com @ads
@@ -4146,6 +4174,7 @@ ws-p2p-pull.video-voip.com @ads
 vigyn4gpx.com @ads
 vihppjk.cn @ads
 n-st.vip.com @ads
+in.vipliangmei.com @ads
 tr.email.virtual-expo.com @ads
 smetrics.visitsingapore.com.cn @ads
 bhwkju.vivo.com @ads
@@ -4209,19 +4238,23 @@ cname-asia-comonrt-stsdk.vivoglobal.com @ads
 cname-asia-st-exappupgrade.vivoglobal.com @ads
 cname-in-apport-stsdk.vivoglobal.com @ads
 cname-in-bom01-nginxpool03.vivoglobal.com @ads
+cname-in-ctdbonrt-stsdk.vivoglobal.com @ads
 cname-sin01-stsdk09.vivoglobal.com @ads
+co-domaincfg.vivoglobal.com @ads
 co-romsp-unifyconfig.vivoglobal.com @ads
 co-st-sl.vivoglobal.com @ads
 co-timesync.vivoglobal.com @ads
 co-vcode-api.vivoglobal.com @ads
 co-vcode-od.vivoglobal.com @ads
 de-gdpr-err-up.vivoglobal.com @ads
+eu-album-api.vivoglobal.com @ads
 eu-cota.vivoglobal.com @ads
 eu-domaincfg.vivoglobal.com @ads
 eu-errup.vivoglobal.com @ads
 eu-onrt-stsdk.vivoglobal.com @ads
 eu-ort-stsdk.vivoglobal.com @ads
 eu-p.vivoglobal.com @ads
+eu-pnrt-stsdk.vivoglobal.com @ads
 eu-romsp-unifyconfig.vivoglobal.com @ads
 eu-st-sl.vivoglobal.com @ads
 eu-stsdk.vivoglobal.com @ads
@@ -4264,6 +4297,7 @@ in-vcode-or.vivoglobal.com @ads
 in-vpushonrt-stsdk.vivoglobal.com @ads
 in-vpushort-stsdk.vivoglobal.com @ads
 kz-onrt-stsdk.vivoglobal.com @ads
+kz-ort-stsdk.vivoglobal.com @ads
 kz-vcode-od.vivoglobal.com @ads
 mx-cota.vivoglobal.com @ads
 mx-domaincfg.vivoglobal.com @ads
@@ -4301,6 +4335,7 @@ ru-vcode-or.vivoglobal.com @ads
 sg-cfg-stsdk.vivoglobal.com @ads
 stsdk.vivoglobal.com @ads
 tr-domaincfg.vivoglobal.com @ads
+tr-err-up.vivoglobal.com @ads
 tr-onrt-stsdk.vivoglobal.com @ads
 tr-ort-stsdk.vivoglobal.com @ads
 tr-p.vivoglobal.com @ads
@@ -4463,6 +4498,7 @@ wrating.com @ads
 ad.12306.cn.wscdns.com @ads
 analytics.95516.com.wscdns.com @ads
 wsds.cn @ads
+mlog.wangsu.com.wswebcdn.com @ads
 cdn-ad.wtzw.com @ads
 wukongtongji.com @ads
 wumii.cn @ads
@@ -4485,6 +4521,7 @@ pv.xcar.com.cn @ads
 pvx.xcar.com.cn @ads
 zio.xcar.com.cn @ads
 xdrig.com @ads
+sensors.h5.xed.plus @ads
 xegnfwkju.com @ads
 xerhibx.cn @ads
 dt.xfyun.cn @ads
@@ -4502,7 +4539,6 @@ ads-i8.xhscdn.com @ads
 ads-img-al.xhscdn.com @ads
 ads-img-bak.xhscdn.com @ads
 ads-img-qc.xhscdn.com @ads
-ads-leona-s1.xhscdn.com @ads
 ads-video-al.xhscdn.com @ads
 ads-video-qc.xhscdn.com @ads
 ads-vp5.xhscdn.com @ads
@@ -4538,6 +4574,7 @@ bss.pandora.xiaomi.com @ads
 cdn-exp-sg-recommend.pt.xiaomi.com @ads
 cdn.exp.xiaomi.com @ads
 cdn.fds.api.xiaomi.com @ads
+data.game.xiaomi.com @ads
 data.mistat.intl.xiaomi.com @ads
 de.pandora.xiaomi.com @ads
 dvb.pandora.xiaomi.com @ads
@@ -4551,6 +4588,7 @@ milink.pandora.xiaomi.com @ads
 misc.pandora.xiaomi.com @ads
 notice.game.xiaomi.com @ads
 o2o.api.xiaomi.com @ads
+ottl7-l2.pandora.xiaomi.com @ads
 p.www.xiaomi.com @ads
 package.box.xiaomi.com @ads
 pi.ias.xiaomi.com @ads
@@ -4758,6 +4796,7 @@ msg.youku.com @ads
 myes.youku.com @ads
 orange-dc.youku.com @ads
 pcapp-data-collect.youku.com @ads
+pis-tel-pcdn.youku.com @ads
 player-lg.youku.com @ads
 push.m.youku.com @ads
 s.p.youku.com @ads
@@ -4828,6 +4867,7 @@ yxwg21lyyn.com @ads
 cloud-log.yy.com @ads
 gt.yy.com @ads
 httpdns.gslb.yy.com @ads
+metrics.yy.com @ads
 stat.game.yy.com @ads
 yylady.cn @ads
 adapi.yynetwk.com @ads
