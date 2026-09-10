@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20260910094858
-# Last modified: 2026/09/10 09:48:58
-# Blocked domains: 4977
+# Version: 20260910202645
+# Last modified: 2026/09/10 20:26:45
+# Blocked domains: 4990
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -147,7 +147,6 @@ c.sayhi.360.cn
 care.help.360.cn
 commercial.shouji.360.cn
 dd.browser.360.cn
-h5.mse.360.cn
 hao.360.cn
 huodong.ios.shouji.360.cn
 lianmeng.360.cn
@@ -213,7 +212,11 @@ img.3sjt.com
 ios-pclog.3u.com
 40017.cn
 a.4aqq.com
+4fiz-jo.shop
+4fiz-jos.shop
 4fizjoslp.shop
+4fizjosolp.shop
+4fizjosport.shop
 4nfesm3itf.com
 ad-api.4pyun.com
 ad-files.4pyun.com
@@ -469,6 +472,7 @@ dsp.ali213.net
 web.ali213.net
 cdn.ynuf.aliapp.org
 umdc.aliapp.org
+us.ynuf.aliapp.org
 abtest.alibaba.com
 activities.alibaba.com
 adashx.ut.alibaba.com
@@ -557,6 +561,7 @@ sz88.oss-cn-shenzhen.aliyuncs.com
 tci.oss-ap-southeast-1.aliyuncs.com
 tmea116.oss-cn-beijing.aliyuncs.com
 tttppp.oss-cn-guangzhou.aliyuncs.com
+union-record.oss-cn-zhangjiakou.aliyuncs.com
 video231.oss-cn-beijing.aliyuncs.com
 www5.oss-cn-hangzhou.aliyuncs.com
 wzjs1.oss-accelerate.aliyuncs.com
@@ -1109,7 +1114,6 @@ log-eap-sg.coloros.com
 moa-upload-online.coloros.com
 smartcard.apps.coloros.com
 smartcardf-eu.apps.coloros.com
-smartcardf.apps.coloros.com
 iadcontent-lb.apple.com.akadns.net
 iadsdk.apple.com.akadns.net
 trk.compair.com.cn
@@ -1291,7 +1295,6 @@ zhihu-web-analytics.zhihu.com.eo.dnse0.com
 metrics-picture.dreport.meituan.net.eo.dnse1.com
 tracking.ksztone.com.eo.dnse2.com
 posthog.casinoplus.top.eo.dnse3.com
-ads-i1.xhscdn.com.cdn.dnsv1.com
 beacon.cdn.qq.com.cdn.dnsv1.com
 dnyzbp.cn
 do-global.com
@@ -1306,6 +1309,8 @@ eo.dongdm.cn
 ap.dongqiudi.com
 sensors-log.dongqiudi.com
 stat.dongqiudi.com
+cloudcdn.dopa.com
+www.dopa.com
 monitor-web.dotfashion.cn
 doubleclick-cn.net
 doubleclick.net
@@ -1579,6 +1584,7 @@ fx455rrt4b.com
 dms.fx678.com
 a.fxltsbl.com
 fy14.cn
+fynvax-ai.net
 g15wt3ci68.com
 g4z8712756.com
 g5xu1dslr6.com
@@ -1639,7 +1645,6 @@ auth.api.gitv.tv
 doh.ptqy.gitv.tv
 liveats-vod.video.ptqy.gitv.tv
 msg.ptqy.gitv.tv
-ota.ptqy.gitv.tv
 policy.video.ptqy.gitv.tv
 puma-api.ptqy.gitv.tv
 sdk-cache.video.ptqy.gitv.tv
@@ -2298,6 +2303,7 @@ ad.jxnews.com.cn
 jy135.com
 jygdb.com
 jyhengyi.cn
+prom-sdkv2.jysper.net
 jzdwl4.cn
 k2n0f.cn
 k69wes8q8.com
@@ -2779,6 +2785,7 @@ tracking.eu.miui.com
 tracking.intl.miui.com
 transfer.sec.miui.com
 update.avlyun.sec.miui.com
+mixinnet.cn
 mjmobi.com
 trace.mjyx.com
 mk0d5qbdj.com
@@ -2864,6 +2871,7 @@ dl.natgo.cn
 tr.email.nauticexpo.com
 nb4ds7c13d.com
 sdk.stat.foreign.nearme.com.cn
+neosportsklep.shop
 tracking.nesox.com
 sea.net.edu.cn
 ad.bn.netease.com
@@ -2923,6 +2931,7 @@ metrics.oanda.com
 obsworks.com
 obv3epx22d.com
 analytics.oceanengine.com
+ochvik.shop
 offerstrack.net
 offie-wps.com.cn
 a.oh100.com
@@ -3008,6 +3017,7 @@ pexnjio.cn
 pfdth.cn
 pfqwbqs.cn
 smetrics.marketing.lighting.philips.com.cn
+phoenixe.vip
 phr3qfcmb.com
 adim.pinduoduo.com
 dspsdk.pinduoduo.com
@@ -3021,7 +3031,6 @@ api.pingstart.com
 piorun-kapitura-pl.net
 piorunkapitura-ai.net
 bd1.pipaw.com
-pixnot.com
 stat2.pixpin.cn
 pl-fighter.shop
 pl53l7tyw.com
@@ -3253,6 +3262,7 @@ rh.qq.com
 rmonitor.qq.com
 rs1.qq.com
 rs2.qq.com
+safebrowsing.urlsec.qq.com
 scdown.qq.com
 sdkconfig.video.qq.com
 show-msgch.qq.com
@@ -3369,9 +3379,7 @@ v5-reading-ad.qznovelvod.com
 v5-se-bjtc-reading-ad.qznovelvod.com
 v5-se-ex-mc-reading-ad.qznovelvod.com
 v5-se-gddgtc-reading-ad.qznovelvod.com
-v5-se-jltc-reading-ad.qznovelvod.com
 v5-se-sjy-daily-reading-ad.qznovelvod.com
-v6-daily-reading-ad.qznovelvod.com
 v6-reading-ad.qznovelvod.com
 v9-reading-ad.qznovelvod.com
 v95-aw-reading-ad.qznovelvod.com
@@ -3789,7 +3797,6 @@ adashx4sg.ut.taobao.com
 adashx4yt.m.taobao.com
 adashxgc.ut.taobao.com
 ae-alimelog.taobao.com
-agoodm.m.taobao.com
 ai.m.taobao.com
 amdcopen.m.taobao.com
 audid-api.taobao.com
@@ -3917,6 +3924,7 @@ tianmu.mobi
 ip.tianqiapi.com
 datas.tianqistatic.com
 yptqys.tianqistatic.com
+fz.tiansys.cn
 tiexing.com
 smetrics.tiffany.cn
 tikz.cn
@@ -4151,6 +4159,7 @@ ads-marketing-vivofs.vivo.com.cn
 adsdk.vivo.com.cn
 adxlog.vivo.com.cn
 adxlog-adnet.vivo.com.cn
+adxstatic.vivo.com.cn
 az.appstore.vivo.com.cn
 brandadsstatic.vivo.com.cn
 dsplog-adnet.vivo.com.cn
@@ -4211,7 +4220,6 @@ co-st-sl.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
-eu-cota.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
@@ -4283,7 +4291,6 @@ ru-comprt-stsdk.vivoglobal.com
 ru-err-up.vivoglobal.com
 ru-exstsdk.vivoglobal.com
 ru-onrt-stsdk.vivoglobal.com
-ru-os-config-appstore.vivoglobal.com
 ru-p.vivoglobal.com
 ru-romsp-unifyconfig.vivoglobal.com
 ru-st-exappupgrade.vivoglobal.com
@@ -4342,6 +4349,7 @@ report.voovmeeting.com
 vorluic.cn
 vpsgu.cn
 p.vq6nsu.cn
+www.vrbrothers.com
 vrr.name
 vrrm.cn
 n.vs108.com
@@ -4354,6 +4362,7 @@ vyye.cn
 w8.com.cn
 w97nv5ibv4.com
 tongdun-fingerprint.walmartmobile.cn
+wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 medad.med.wanfangdata.com.cn
 mlog.wangsu.com
 analytics.wanmei.com
@@ -4448,6 +4457,7 @@ push.wps.cn
 update.wps.cn
 wpsweb-dc.wps.cn
 api-ad-adapter.wps.com
+api-ad-adapter-mb.wps.com
 mo.res.wpscdn.cn
 abroadad.cache.wpscdn.com
 wpwpquse.cn
@@ -4830,13 +4840,16 @@ yznwyng.cn
 yktj.yzz.cn
 z0rto0758.com
 z9sab7vr0b.com
+zaklady-ceramiczne.shop
+zakladybolslkzs.homes
+zakladykspl.shop
+zakladyspl.shop
 zamplus.com
 zantainet.com
 zazhipu.com
 p3.zbjimg.com
 xue.zbyw.cn
 log.zcool.com.cn
-api-analytics.zepp.com
 api-analytics-cn3.zepp.com
 api-analytics-de.zepp.com
 api-analytics-us.zepp.com
