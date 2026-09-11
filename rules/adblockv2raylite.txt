@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20260911094742
-# Last modified: 2026/09/11 09:47:42
-# Blocked domains: 4989
+# Version: 20260911202504
+# Last modified: 2026/09/11 20:25:04
+# Blocked domains: 5007
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -147,6 +147,7 @@ c.sayhi.360.cn @ads
 care.help.360.cn @ads
 commercial.shouji.360.cn @ads
 dd.browser.360.cn @ads
+h5.mse.360.cn @ads
 hao.360.cn @ads
 huodong.ios.shouji.360.cn @ads
 lianmeng.360.cn @ads
@@ -210,6 +211,7 @@ engage.3m.com.cn @ads
 3s7m2ss7g.com @ads
 img.3sjt.com @ads
 ios-pclog.3u.com @ads
+4-fizjos.shop @ads
 40017.cn @ads
 a.4aqq.com @ads
 4fiz-jo.shop @ads
@@ -759,6 +761,7 @@ luimg.baidu.com @ads
 m1.baidu.com @ads
 miao.baidu.com @ads
 miaowu.baidu.com @ads
+mo.baidu.com @ads
 mobads.baidu.com @ads
 mobads-logs.baidu.com @ads
 mountain.zhidao.baidu.com @ads
@@ -874,6 +877,7 @@ bhpprfk.cn @ads
 app-posthog.bi-sage.site @ads
 bianxian.com @ads
 biddingx.com @ads
+biedronka-outlet.shop @ads
 hlog.bigda.com @ads
 mlog.bigda.com @ads
 union-mlog.bigda.com @ads
@@ -914,6 +918,7 @@ brzask-kapitelis.com @ads
 bsbaswq.cn @ads
 bsccdn.net @ads
 bswsmlp.cn @ads
+bsyrimw.xyz @ads
 s.btime.com @ads
 btyou.com @ads
 bursztyn-fondava.com @ads
@@ -942,6 +947,7 @@ p6-ad-sign.byteimg.com @ads
 p9-ad-sign.byteimg.com @ads
 s.c-ctrip.com @ads
 c4d4.cn @ads
+download.caihong.com @ads
 gg.caixin.com @ads
 ad.caiyunapp.com @ads
 smetrics.calvinklein.cn @ads
@@ -991,7 +997,7 @@ quan-event-tracking.log-global.aliyuncs.com.w.cdngslb.com @ads
 sgtm.dhgate.com.cdngtm.com @ads
 httpdns.c.cdnhwc2.com @ads
 httpdns1.cc.cdnhwc5.com @ads
-p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com @ads
+ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com @ads
 ad.cdnjm.cn @ads
 syh-imp.cdnjtzy.com @ads
 cdnmaster.cn @ads
@@ -1113,7 +1119,6 @@ log-eap-in.coloros.com @ads
 log-eap-sg.coloros.com @ads
 moa-upload-online.coloros.com @ads
 smartcard.apps.coloros.com @ads
-smartcardf-eu.apps.coloros.com @ads
 iadcontent-lb.apple.com.akadns.net @ads
 iadsdk.apple.com.akadns.net @ads
 trk.compair.com.cn @ads
@@ -1421,6 +1426,7 @@ khjfdgsfsdfhjklljdhgdstryt-dp97141gwv85.edgeone.dev @ads
 loginsecurde4-dpqom26teqv9.edgeone.dev @ads
 mailwilling-dp9gqao71lzl.edgeone.dev @ads
 musical-octo-robot-dptlf6z6tv2g.edgeone.dev @ads
+officialgmailveirifcationtunnel-dpfk8fse6v5v.edgeone.dev @ads
 ordinary-silver-rkbwyw06.edgeone.dev @ads
 prior-jade-yjoyvniu.edgeone.dev @ads
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev @ads
@@ -1692,6 +1698,7 @@ goi08160kh.com @ads
 gojunkclean.cn @ads
 prom.gome.com.cn @ads
 gongxifc.com @ads
+cdn.file6.goodid.com @ads
 google-analytics-cn.com @ads
 google-analytics.com @ads
 ads.google.cn @ads
@@ -1837,7 +1844,6 @@ cl-data-in.ads.heytapmobi.com @ads
 cl-data-sg.ads.heytapmobi.com @ads
 cl-data.ads.heytapmobi.com @ads
 conf-cn.dc.heytapmobi.com @ads
-conf-eu.dc.heytapmobi.com @ads
 conf-in.dc.heytapmobi.com @ads
 conf-sg.dc.heytapmobi.com @ads
 darvin-ec.ads.heytapmobi.com @ads
@@ -1946,6 +1952,7 @@ hnol.net @ads
 metrics.hollisterco.cn @ads
 smetrics.hollisterco.cn @ads
 homebargainmarket.shop @ads
+homespl.shop @ads
 log.homestyler.com @ads
 w88.hongkongdisneyland.com.cn @ads
 om.hotels.cn @ads
@@ -2109,6 +2116,7 @@ iimedia.cn @ads
 ijinshan.com @ads
 daima.ijq.tv @ads
 lm.ijq.tv @ads
+static.ilclock.com @ads
 smetrics.illumina.com.cn @ads
 metrics.ilovematlab.cn @ads
 smetrics.ilovematlab.cn @ads
@@ -2901,6 +2909,7 @@ nio08310lt.com @ads
 down.nishuoa.com @ads
 nkscdn.com @ads
 nlzyp.cn @ads
+noteonline-pt.shop @ads
 web.novogene.com @ads
 a.nowscore.com @ads
 z.nowscore.com @ads
@@ -2938,6 +2947,7 @@ js.oh100.com @ads
 apps5.oingo.com @ads
 oj95rctd5.com @ads
 ojg8sflgl.com @ads
+okhan.net @ads
 oldulgk.cn @ads
 oneapm.com @ads
 onelnk.com @ads
@@ -3095,6 +3105,7 @@ qawxpzm.cn @ads
 cp.qbaobei.com @ads
 apilog.qbb6.com @ads
 uplog.qbox.me @ads
+qcjslm.com @ads
 log.qvb.qcloud.com @ads
 tracker-00.qvb.qcloud.com @ads
 log.game.qcplay.com @ads
@@ -3315,6 +3326,7 @@ yun-hl.3g.qq.com @ads
 dns.weixin.qq.com.cn @ads
 wxaintpcos.wxqcloud.qq.com.cn @ads
 qq2tdd0xx.com @ads
+down.qqfarmer.com.cn @ads
 sdk-ab-config.qquanquan.com @ads
 tracelog-debug.qquanquan.com @ads
 f.qstatic.com @ads
@@ -3375,7 +3387,6 @@ v3-reading-ad.qznovelvod.com @ads
 v5-bd-daily-reading-ad.qznovelvod.com @ads
 v5-ex-reading-ad.qznovelvod.com @ads
 v5-reading-ad.qznovelvod.com @ads
-v5-se-bjtc-reading-ad.qznovelvod.com @ads
 v5-se-ex-mc-reading-ad.qznovelvod.com @ads
 v5-se-gddgtc-reading-ad.qznovelvod.com @ads
 v5-se-sjy-daily-reading-ad.qznovelvod.com @ads
@@ -3478,6 +3489,7 @@ sbldw.cn @ads
 smetrics.schindler.cn @ads
 scjpqut.cn @ads
 sckexing.cn @ads
+sckfcn.cn @ads
 statscollector.sd-rtn.com @ads
 sd6hon.cn @ads
 sdhuawen.cn @ads
@@ -3587,6 +3599,7 @@ sirsplajp.com @ads
 sirweara.com @ads
 analytics.sixt.cn @ads
 1.sj33.net @ads
+sjds.net @ads
 sjoy7rq.cn @ads
 skfqxkk.cn @ads
 c.sm.cn @ads
@@ -3903,6 +3916,7 @@ adstats.tencentmusic.com @ads
 report.tencentmusic.com @ads
 tepusi888.cn @ads
 answers.teradata.com.cn @ads
+tgymhwt.cn @ads
 th7.cn @ads
 advert.api.thejoyrun.com @ads
 adpai.thepaper.cn @ads
@@ -4496,12 +4510,12 @@ img.xgo.com.cn @ads
 imp.xgo.com.cn @ads
 stat.xgo.com.cn @ads
 xhkvff.cn @ads
+ads-hera-s1.xhscdn.com @ads
 ads-i1.xhscdn.com @ads
 ads-i10.xhscdn.com @ads
 ads-i2.xhscdn.com @ads
 ads-i3.xhscdn.com @ads
 ads-i4.xhscdn.com @ads
-ads-i8.xhscdn.com @ads
 ads-img-al.xhscdn.com @ads
 ads-img-bak.xhscdn.com @ads
 ads-img-qc.xhscdn.com @ads
@@ -4648,6 +4662,7 @@ stat.download.xunlei.com @ads
 upgrade.xl9.xunlei.com @ads
 prd-collect-llm.xverse.cn @ads
 xvhttu3c9.com @ads
+cc.xwscg.com @ads
 xxmh456.com @ads
 p2p-punch.xxpkg.com @ads
 xy.com @ads
@@ -4666,6 +4681,7 @@ yahekby.cn @ads
 yahoo.com.cn @ads
 img.yangshengtang123.com @ads
 ca.yangshengtv.com @ads
+yangshengzu.cn @ads
 yatemy.cn @ads
 ycsshb.cn @ads
 ydgsvls.cn @ads
@@ -4797,6 +4813,8 @@ app.storage.yunvm.com @ads
 httpdns.yunxindns.com @ads
 statistic-overseas.yunxinfw.com @ads
 yunxish.com @ads
+yur09130og.com @ads
+yur09140og.com @ads
 yvdb.cn @ads
 yw800.com.cn @ads
 ywkkmze.cn @ads
