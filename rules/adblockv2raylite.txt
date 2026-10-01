@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261001104856
-# Last modified: 2026/10/01 10:48:56
-# Blocked domains: 5016
+# Version: 20261001225405
+# Last modified: 2026/10/01 22:54:05
+# Blocked domains: 5024
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -19,7 +19,6 @@ o.027eat.com @ads
 0dy3evz6x.com @ads
 0otmh22aj2.com @ads
 0wk6gdkg8r.com @ads
-0x2beace.com @ads
 0xr7ii3df.com @ads
 10000xing.cn @ads
 1717.1000uc.com @ads
@@ -235,7 +234,6 @@ ad-files.4pyun.com @ads
 amradmin.5173.com @ads
 518ad.com @ads
 log.51changdu.com @ads
-log2.51changdu.com @ads
 logs.51cto.com @ads
 trace.51jingying.com @ads
 scdata.51job.com @ads
@@ -257,6 +255,7 @@ a.52zxw.com @ads
 53kf.com @ads
 54kefu.net @ads
 55.la @ads
+555sq.com.cn @ads
 55726zubo56686.com @ads
 acs.56.com @ads
 acs.agent.56.com @ads
@@ -479,6 +478,7 @@ smetrics.alfalaval.cn @ads
 dsp.ali213.net @ads
 cdn.ynuf.aliapp.org @ads
 umdc.aliapp.org @ads
+us.ynuf.aliapp.org @ads
 abtest.alibaba.com @ads
 adashx.ut.alibaba.com @ads
 aplus.alibaba.com @ads
@@ -602,6 +602,7 @@ anhko.club @ads
 api.antibanads.com @ads
 bu.antutu.net @ads
 srtj.antutu.net @ads
+yanjiapi.antutu.net @ads
 anysdk.com @ads
 wxhawk.aoscdn.com @ads
 log-pub-hk.aoshitang.com @ads
@@ -752,6 +753,7 @@ itsdata.map.baidu.com @ads
 kstj.baidu.com @ads
 libs.baidu.com @ads
 log.music.baidu.com @ads
+log.news.baidu.com @ads
 lookup.api.bsb.baidu.com @ads
 luimg.baidu.com @ads
 m1.baidu.com @ads
@@ -1083,6 +1085,7 @@ analytics.cnblogs.com @ads
 adm.cloud.cnfol.com @ads
 rf.cnlongshou.com @ads
 hmjs.cnmo-img.com.cn @ads
+webcert.cnmstl.net @ads
 smuc.cnnfootballclub.com @ads
 adp.cnool.net @ads
 clickcount.cnool.net @ads
@@ -1105,6 +1108,8 @@ log-eap-in.coloros.com @ads
 log-eap-sg.coloros.com @ads
 moa-upload-online.coloros.com @ads
 smartcard.apps.coloros.com @ads
+smartcardf-eu.apps.coloros.com @ads
+smartcardf.apps.coloros.com @ads
 iadsdk.apple.com.akadns.net @ads
 trk.compair.com.cn @ads
 strack.concur.cn @ads
@@ -1124,6 +1129,7 @@ wslog-global-dual.coolccloud.com @ads
 logreport-global-dual.coolfcloud.com @ads
 detaillog-global-dual.coolgcloud.com @ads
 logreport-global-dual.coolgcloud.com @ads
+weblogger-wss.coolgcloud.com @ads
 detaillog-global-dual.coolhcloud.com @ads
 logreport-global-dual.coolhcloud.com @ads
 coolkaba.com @ads
@@ -1266,7 +1272,6 @@ data-577c2406e4.dewezet.de @ads
 api.dewmobile.net @ads
 dexinyi.cn @ads
 dfi09181kq.com @ads
-dgrj.com.cn @ads
 d.dgzj.com @ads
 dh5t3pyb6r.com @ads
 d1.dhgate.com @ads
@@ -1280,7 +1285,6 @@ linktrace.diningcity.cn @ads
 stdown.dinju.com @ads
 dipan.com @ads
 tr.email.directindustry.com @ads
-glitter.services.disqus.com @ads
 code.ditiezu.net @ads
 img16.diyifanwen.com @ads
 statistical-report.djiservice.org @ads
@@ -1565,7 +1569,6 @@ fqxkj.cn @ads
 trace.free-reels.com @ads
 trace-v1.free-reels.com @ads
 trace-v5.free-reels.com @ads
-v-support.free.bg @ads
 smetrics.frontline.com.cn @ads
 frp8r3le9c.com @ads
 fugetech.com @ads
@@ -1652,7 +1655,6 @@ puma-api.ptqy.gitv.tv @ads
 sdk-cache.video.ptqy.gitv.tv @ads
 sdk.ptqy.gitv.tv @ads
 static.ptqy.gitv.tv @ads
-t7z.cupid.ptqy.gitv.tv @ads
 time.video.ptqy.gitv.tv @ads
 50m.gkcyc.com @ads
 gl0r6d2uyy.com @ads
@@ -1831,6 +1833,7 @@ api-cn.cdo.heytapmobi.com @ads
 api-gl.cdo.heytapmobi.com @ads
 api-id.game.heytapmobi.com @ads
 api-id.theme.heytapmobi.com @ads
+apisnd.heytapmobi.com @ads
 b1-data.ads.heytapmobi.com @ads
 b2-data.ads.heytapmobi.com @ads
 bdapi-id.ads.heytapmobi.com @ads
@@ -1889,6 +1892,7 @@ hhttm.top @ads
 sdd.hi1718.com @ads
 adx-dra.op.hicloud.com @ads
 adx-dre.op.hicloud.com @ads
+adx-drru.op.hicloud.com @ads
 connect-dre.hispace.hicloud.com @ads
 data.hicloud.com @ads
 events-dra.op.hicloud.com @ads
@@ -1942,6 +1946,7 @@ hjgen.cn @ads
 hjpqt.cn @ads
 hkkeafj.cn @ads
 live-api.hktvmall.com @ads
+hlj10031ip.com @ads
 hlstlyy.com @ads
 hly.com @ads
 hnltcw.com @ads
@@ -2144,6 +2149,7 @@ yoda.kwd.inkuai.com @ads
 inmobi.cn @ads
 inmobicdn.cn @ads
 inmobicdn.net @ads
+innohomeo.com @ads
 inping.com @ads
 api-data-collection.insta360.cn @ads
 instreet.cn @ads
@@ -2255,6 +2261,7 @@ xlog.jd.com @ads
 jddaw.com @ads
 jdnlynb.cn @ads
 jdpm.net.cn @ads
+jehudf.com @ads
 jesgoo.com @ads
 promotion-quicker.jftechsoft.com @ads
 eventlog-aws.jftechws.com @ads
@@ -2311,7 +2318,6 @@ jwddpvu.cn @ads
 jxdown.com @ads
 jy135.com @ads
 jygdb.com @ads
-jyhengyi.cn @ads
 prom-sdkv2.jysper.net @ads
 jzdwl4.cn @ads
 k2n0f.cn @ads
@@ -2803,7 +2809,6 @@ mk0d5qbdj.com @ads
 emjs.mkzhan.com @ads
 mlstx.cn @ads
 da.mmarket.com @ads
-mmda-mayhulika-ph.com @ads
 mmkkiivv.com @ads
 tc.mnbvcxzq.com @ads
 mngjrn.cn @ads
@@ -3130,6 +3135,7 @@ logger.qingting.fm @ads
 kf.qingwk.com @ads
 log.qiniuapi.com @ads
 kbae.qiqqh.cn @ads
+qishui-douyln.com.cn @ads
 qishui-music.com.cn @ads
 qishui-vip.com.cn @ads
 qishui.bj.cn @ads
@@ -3182,6 +3188,7 @@ beacon.qq.com @ads
 beacon.cdn.qq.com @ads
 beaconcdn.qq.com @ads
 bkcommdata.v.qq.com @ads
+browsertdidticket.m.qq.com @ads
 bsrv.qq.com @ads
 btrace.qq.com @ads
 btrace.video.qq.com @ads
@@ -3199,6 +3206,7 @@ file.daihuo.qq.com @ads
 fodder.qq.com @ads
 fusion.qq.com @ads
 fw.qq.com @ads
+gatherer.m.qq.com @ads
 gdt.qq.com @ads
 hd2.3g.qq.com @ads
 httpdns.kg.qq.com @ads
@@ -4015,7 +4023,6 @@ livetech.shopee.com.br.txlivecdn.com @ads
 livetech.shopee.vn.txlivecdn.com @ads
 txscn.cn @ads
 m.txtxr.com @ads
-ty.cn @ads
 tylerfoster.shop @ads
 u7u9.com @ads
 u88.cn @ads
@@ -4372,6 +4379,7 @@ vyye.cn @ads
 w8.com.cn @ads
 w97nv5ibv4.com @ads
 tongdun-fingerprint.walmartmobile.cn @ads
+wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net @ads
 mlog.wangsu.com @ads
 analytics.wanmei.com @ads
 analytics-gw.games.wanmei.com @ads
