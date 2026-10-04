@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/10/04 11:10:00
-#!support=5062
+#!date=2026/10/04 21:32:34
+#!support=5092
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -31,6 +31,7 @@
 .1717.1000uc.com
 .smartad.10010.com
 .1.1010pic.com
+.10jqka-jq.com.cn
 .adm.10jqka.com.cn
 .v.110route.cn
 .ytx-file.110route.cn
@@ -154,6 +155,7 @@
 .ad.jia.360.cn
 .ad.life.360.cn
 .aicleaner.shouji.360.cn
+.c.mse.360.cn
 .c.sayhi.360.cn
 .care.help.360.cn
 .commercial.shouji.360.cn
@@ -164,11 +166,12 @@
 .mclean.f.360.cn
 .msch.f.360.cn
 .mvconf.f.360.cn
-.openbox.mobilem.360.cn
 .papi.look.360.cn
 .pscan.f.360.cn
 .pub.se.360.cn
 .qurl.f.360.cn
+.s.360.cn
+.s.f.360.cn
 .soft.data.weather.360.cn
 .stat.m.360.cn
 .stat.sd.360.cn
@@ -489,7 +492,6 @@
 .dsp.ali213.net
 .cdn.ynuf.aliapp.org
 .umdc.aliapp.org
-.us.ynuf.aliapp.org
 .abtest.alibaba.com
 .adashx.ut.alibaba.com
 .aplus.alibaba.com
@@ -674,6 +676,7 @@
 .rd.autohome.com.cn
 .rdx.autohome.com.cn
 .stats.autohome.com.cn
+.adm2.autoimg.cn
 .adm3.autoimg.cn
 .img2.autoimg.cn
 .adstatistics.av380.net
@@ -880,6 +883,7 @@
 .sofire.bdstatic.com
 .su.bdstatic.com
 .zz.bdstatic.com
+.ads-i3.xhscdn.com.a.bdydns.com
 .smetrics.beatsbydre.com
 .smetrics.beatsbydre.com.cn
 .beizi.biz
@@ -978,6 +982,7 @@
 .stratus.campaign-image.com.cn
 .zc1.campaign-view.com.cn
 .count.candou.com
+.telemetry.canva.cn
 .caomeixz7.xyz
 .baidu1.cardbaobao.com
 .cartx.cloud
@@ -990,6 +995,7 @@
 .cbhzxctgm.com
 .adv.ccb.com
 .ad.ccement.com
+.btrace.ysp.cctv.cn
 .mtrace.ysp.cctv.cn
 .ad.cctv.com
 .httpdns.cctv.com
@@ -1082,6 +1088,7 @@
 .tracker.citicsinfo.com
 .cityhuitech.com
 .3.cjcp.cn
+.sysdk.cl2009.com
 .www.claiks.com
 .clarins.com.cn
 .log-api.cli.im
@@ -1132,8 +1139,6 @@
 .log-eap-sg.coloros.com
 .moa-upload-online.coloros.com
 .smartcard.apps.coloros.com
-.smartcardf-eu.apps.coloros.com
-.smartcardf.apps.coloros.com
 .iadsdk.apple.com.akadns.net
 .trk.compair.com.cn
 .strack.concur.cn
@@ -1141,6 +1146,7 @@
 .cu-cn-north00001.gala.convection.cn
 .cu-cn-north00002.gala.convection.cn
 .coocaatv.com
+.analytics.coodesker.com
 .12.cookcai.com
 .detaillog-global-dual.coolacloud.com
 .logreport-global-dual.coolacloud.com
@@ -1285,6 +1291,7 @@
 .events-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 .events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 .events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
+.metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 .engine.dcad01.com
 .xcx.dcad01.com
 .ddapp.cn
@@ -1394,6 +1401,8 @@
 .stats.v.duowan.com
 .vupload.duowan.com
 .adsmis.duxiaoman.com
+.analytics-api.dvdfab.cn
+.servo-report.dvdfab.cn
 .dvtednm.cn
 .dvzk66.cn
 .untitled.dwstatic.com
@@ -1421,6 +1430,7 @@
 .mini.eastday.com
 .ay.eastmoney.com
 .bdstatic.eastmoney.com
+.bduserlog.eastmoney.com
 .bdwblog.eastmoney.com
 .cp2.eastmoney.com
 .emdcadvertise.eastmoney.com
@@ -1489,6 +1499,7 @@
 .ad.exyws.org
 .veepai-device-log.eye4.cn
 .eyp7uowejx.com
+.analytics.f2b211.com
 .f8ejqxp.cn
 .z2.fakutownee.cn
 .falal.cn
@@ -1525,6 +1536,7 @@
 .api-fp-retry-sa.fengkongcloud.com
 .cloudconf.fengkongcloud.com
 .fp-it.fengkongcloud.com
+.fp-it-acc.fengkongcloud.com
 .fp-na-it-acc.fengkongcloud.com
 .fp-sa-it.fengkongcloud.com
 .fp-sa-it-acc.fengkongcloud.com
@@ -1735,6 +1747,7 @@
 .static-doubleclick-net.l.google.com
 .www-google-analytics.l.google.com
 .www-googletagmanager.l.google.com
+.ampcid.google.ru
 .clickserver.googleads.com
 .googleadservices-cn.com
 .googleadservices.com
@@ -1775,6 +1788,7 @@
 .tianshu.gtimg.cn
 .splashqqlive.gtimg.com
 .wa.gtimg.com
+.cn4-rum-openway.guance.com
 .eu1-rum-openway.guance.com
 .rum-openway.guance.com
 .us1-rum-openway.guance.com
@@ -1821,6 +1835,7 @@
 .cdn.haocaa.com
 .2.haoxue360.com
 .download.haozip.com
+.log.dc.cn.happyelements.com
 .hapying.com
 .hashnest.com
 .a.hbf23.cn
@@ -1982,7 +1997,6 @@
 .metrics.hollisterco.cn
 .smetrics.hollisterco.cn
 .homespl.shop
-.log.homestyler.com
 .homeyoupl.shop
 .homlaes.shop
 .homlaspl.shop
@@ -2143,11 +2157,13 @@
 .seeder.igetget.com
 .igexin.com
 .ihclam.cn
+.appadapi.ihuman.com
 .iimedia.cn
 .ijinshan.com
 .daima.ijq.tv
 .lm.ijq.tv
 .posthog.ikuai8.com
+.umami.ikxin.com
 .static.ilclock.com
 .smetrics.illumina.com.cn
 .metrics.ilovematlab.cn
@@ -2171,6 +2187,7 @@
 .atb-stats-api.imolive.tv
 .imop.com
 .inad.com
+.analytics.infility.cn
 .link.infineon.cn
 .apidns.kwd.inkuai.com
 .httpdns.kwd.inkuai.com
@@ -2201,7 +2218,6 @@
 .emoticon.sns.iqiyi.com
 .hotchat-im.iqiyi.com
 .ifacelog.iqiyi.com
-.l-rcd.iqiyi.com
 .mbdlog.iqiyi.com
 .msg.iqiyi.com
 .msga.cupid.iqiyi.com
@@ -2329,6 +2345,7 @@
 .jpushoa.com
 .jrltdiu.cn
 .jrq39d1r8.com
+.ad.jschina.com.cn
 .jsebmcv.cn
 .jsing.net
 .jsmxkj.com
@@ -2336,6 +2353,7 @@
 .fpb1.jsq886.com
 .jsyefc.com
 .jszctech.com
+.app-analytics.jtexpress.com.cn
 .lm10111.jtrincc.cn
 .junshi8181.com
 .y1.junshitt.com
@@ -2664,6 +2682,7 @@
 .bi.manhuaren.com
 .euadsapi.manhuaren.com
 .manyou.com
+.umami.mao.fan
 .ad.maoyan.com
 .sdk.markmedia.com.cn
 .mathtype.cn
@@ -2808,6 +2827,7 @@
 .authbe.sec.intl.miui.com
 .cc.sys.miui.com
 .ccc.sys.miui.com
+.child.sec.miui.com
 .cse.avlyun.sec.miui.com
 .data.sec.miui.com
 .data.sec.intl.miui.com
@@ -2828,6 +2848,7 @@
 .port.sec.miui.com
 .port.sec.intl.miui.com
 .r.browser.miui.com
+.r.sg.sec.miui.com
 .security.browser.miui.com
 .tracking.miui.com
 .tracking.eu.miui.com
@@ -2936,7 +2957,6 @@
 .hubble.netease.com
 .mam.netease.com
 .pr.nss.netease.com
-.sigma-agentlog-mumusdk.proxima.nie.netease.com
 .vmonitor.ws.netease.com
 .networkbench.com
 .t.home.news.cn
@@ -2956,6 +2976,7 @@
 .nkscdn.com
 .nlzyp.cn
 .ad.nmjsjs.com
+.analytics.notegen.top
 .noteonline-pt.shop
 .web.novogene.com
 .a.nowscore.com
@@ -2966,6 +2987,7 @@
 .ntfsformac.cc
 .ntfsformac.cn
 .pdns.nudt.edu.cn
+.nuffnang.com.cn
 .c.nuhcpf.com
 .log.nuomi.com
 .promotionad.nvcam.net
@@ -3001,6 +3023,7 @@
 .online.sh.cn
 .onzj79fce.com
 .ooniu.com
+.analytics.ooofoo.com
 .oozushirp.com
 .openinstall.io
 .adsfs.oppomobile.com
@@ -3009,6 +3032,7 @@
 .optimix.asia
 .oqyiapj.cn
 .visit.oschina.net
+.oshoplive.com
 .cp.oupeng.com
 .max-files.oupeng.com
 .oumax.oupeng.com
@@ -3172,7 +3196,6 @@
 .log.qiniuapi.com
 .kbae.qiqqh.cn
 .qishui-douyln.com.cn
-.qishui-music.com.cn
 .qishui-vip.com.cn
 .qishui.bj.cn
 .stats.qiumibao.com
@@ -3419,7 +3442,6 @@
 .v5-ex-reading-ad.qznovelvod.com
 .v5-reading-ad.qznovelvod.com
 .v5-se-bjtc-reading-ad.qznovelvod.com
-.v5-se-ex-mc-reading-ad.qznovelvod.com
 .v5-se-gddgtc-reading-ad.qznovelvod.com
 .v5-se-jltc-reading-ad.qznovelvod.com
 .v5-se-sjy-daily-reading-ad.qznovelvod.com
@@ -3605,6 +3627,7 @@
 .int.dpool.sina.com.cn
 .log.mix.sina.com.cn
 .matwbp.iask.sina.com.cn
+.s.img.mix.sina.com.cn
 .sax.sina.com.cn
 .saxn.sina.com.cn
 .sbeacon.sina.com.cn
@@ -3766,6 +3789,7 @@
 .dcbpm.suning.cn
 .ssac.suning.com
 .tad.suning.com
+.sunriseoutdoor.cn
 .superads.cn
 .bdunion1.suxiazai.com
 .analytics.sve.cc
@@ -4000,6 +4024,7 @@
 .touclick.com
 .toushibao.com
 .ad.toutiao.com
+.adshare.toutiao.com
 .d.toutiao.com
 .dm.toutiao.com
 .dm-hl.toutiao.com
@@ -4062,6 +4087,7 @@
 .livetech.shopee.vn.txlivecdn.com
 .txscn.cn
 .m.txtxr.com
+.ty.cn
 .tylerfoster.shop
 .u7u9.com
 .u88.cn
@@ -4546,8 +4572,8 @@
 .pv.xcar.com.cn
 .pvx.xcar.com.cn
 .zio.xcar.com.cn
-.analytics.xdiarys.com
 .xdrig.com
+.mon.ad.xelements.cn
 .xerhibx.cn
 .dt.xfyun.cn
 .pics.xgo-img.com.cn
@@ -4692,6 +4718,7 @@
 .xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 .xn--zw0autp42d.cn
 .xolerkr.cn
+.xp308.cn
 .xpcwrgy.cn
 .www.xpdyqax.cn
 .xqblnei.cn
@@ -4779,6 +4806,7 @@
 .pamzqm.yitechnology.com
 .yitongwl.cn
 .yiwk.com
+.yixui.com
 .wr.yiyouliao.com
 .js.yjbys.com
 .l.ykimg.com
@@ -4910,6 +4938,7 @@
 .z0rto0758.com
 .z9sab7vr0b.com
 .zaklady-ceramiczne.shop
+.zakladyboleslawiechome-pl.shop
 .zakladyboleslawiechome.shop
 .zakladyboleslawieconsale-pl.shop
 .zakladyboleslawieczone-pl.shop
@@ -4960,6 +4989,7 @@
 .logapi-ios.zhipin.com
 .t.zhipin.com
 .zhiziyun.com
+.zhongguociwang.com
 .w11.zhongkaohelp.com
 .zhongkaowu.com
 .zhongsijiacheng.com
