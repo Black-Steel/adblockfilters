@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20261007110149
-! Last modified: 2026/10/07 11:01:49
-! Blocked domains: 5130
+! Version: 20261007225049
+! Last modified: 2026/10/07 22:50:49
+! Blocked domains: 5141
 ! unBlocked domains: 16
 !
 ||kwflvcdn.000dn.com^
@@ -162,7 +162,6 @@
 ||mclean.f.360.cn^
 ||msch.f.360.cn^
 ||mvconf.f.360.cn^
-||openbox.mobilem.360.cn^
 ||papi.look.360.cn^
 ||pscan.f.360.cn^
 ||pub.se.360.cn^
@@ -589,6 +588,7 @@
 ||conn-service-gl-01.allawntech.com^
 ||allcars.cn^
 ||allyes.cn^
+||www.alpen-leicht.de^
 ||adashx.ut.amap.com^
 ||amap-aos-info-nogw.amap.com^
 ||apsrgeo.amap.com^
@@ -625,6 +625,7 @@
 ||srtj.antutu.net^
 ||yanjiapi.antutu.net^
 ||anysdk.com^
+||aoqinglv.cn^
 ||wxhawk.aoscdn.com^
 ||log-pub-hk.aoshitang.com^
 ||apdfmhp.cn^
@@ -996,9 +997,9 @@
 ||cb07whvmx.com^
 ||cbh.hl.cn^
 ||cbhzxctgm.com^
+||www.cc4008001935.cn^
 ||adv.ccb.com^
 ||ad.ccement.com^
-||btrace.ysp.cctv.cn^
 ||mtrace.ysp.cctv.cn^
 ||ad.cctv.com^
 ||httpdns.cctv.com^
@@ -1235,6 +1236,7 @@
 ||daraz.com^
 ||marketing.net.daraz.lk^
 ||net.daraz.pk^
+||darm.cn^
 ||console.data4.net^
 ||gate.datacaciques.com^
 ||pv.datacaciques.com^
@@ -1275,9 +1277,11 @@
 ||weather-community-drcn.weather.dbankcloud.cn^
 ||adx-dra.op.dbankcloud.com^
 ||adx-dre.op.dbankcloud.com^
+||adx-drru.op.dbankcloud.com^
 ||events-dra.op.dbankcloud.com^
 ||events-drcn.op.dbankcloud.com^
 ||events-dre.op.dbankcloud.com^
+||events-drru.op.dbankcloud.com^
 ||grs.dbankcloud.com^
 ||httpdns.platform.dbankcloud.com^
 ||logservice-dra.platform.dbankcloud.com^
@@ -1311,7 +1315,6 @@
 ||api.dewmobile.net^
 ||dexinyi.cn^
 ||dfi09181kq.com^
-||dgrj.com.cn^
 ||d.dgzj.com^
 ||dh5t3pyb6r.com^
 ||d1.dhgate.com^
@@ -1489,7 +1492,6 @@
 ||eoyqzzk.cn^
 ||epaes.com.cn^
 ||m.ercos.cn^
-||esudrp.cn^
 ||ethan.wang^
 ||etoolads.cn^
 ||etwun.com^
@@ -1560,6 +1562,7 @@
 ||filei.top^
 ||fileshider.com^
 ||api.firwinds.site^
+||fishhd.cn^
 ||fisios1-odio30.sbs^
 ||fisios1-quibusdam43.sbs^
 ||fisios2-ratione42.sbs^
@@ -1640,6 +1643,8 @@
 ||ad.gameley.com^
 ||ab3de9.gamersky.com^
 ||click.gamersky.com^
+||ja.gamersky.com^
+||ja1.gamersky.com^
 ||ja2.gamersky.com^
 ||pc-util.gamersky.com^
 ||wmbd.gamersky.com^
@@ -1698,7 +1703,6 @@
 ||sdk-cache.video.ptqy.gitv.tv^
 ||sdk.ptqy.gitv.tv^
 ||static.ptqy.gitv.tv^
-||t7z.cupid.ptqy.gitv.tv^
 ||time.video.ptqy.gitv.tv^
 ||50m.gkcyc.com^
 ||gl0r6d2uyy.com^
@@ -1965,7 +1969,6 @@
 ||api-4know-em.hismarttv.com^
 ||api-gps.hismarttv.com^
 ||api-gps-eu.hismarttv.com^
-||api-gps-na.hismarttv.com^
 ||api-launcher-eu.hismarttv.com^
 ||api-launcher-na.hismarttv.com^
 ||api.eu.hismarttv.com^
@@ -1973,7 +1976,6 @@
 ||auth-eu.hismarttv.com^
 ||auth-launcher-em.hismarttv.com^
 ||auth-launcher-eu.hismarttv.com^
-||auth-launcher-jp.hismarttv.com^
 ||auth-launcher-na.hismarttv.com^
 ||auth-launcher-sa.hismarttv.com^
 ||auth-na.hismarttv.com^
@@ -2055,6 +2057,7 @@
 ||tvapp.hpplay.cn^
 ||vipauth.hpplay.cn^
 ||vipgslb.hpplay.cn^
+||api.hpplay.com.cn^
 ||cdn.hpplay.com.cn^
 ||h5.hpplay.com.cn^
 ||leboapi.hpplay.com.cn^
@@ -2352,6 +2355,7 @@
 ||jpush.cn^
 ||jpush.io^
 ||jpushoa.com^
+||jqfuser.icu^
 ||jrltdiu.cn^
 ||jrq39d1r8.com^
 ||ad.jschina.com.cn^
@@ -2399,6 +2403,7 @@
 ||super.kdnet.net^
 ||tracking.kdnet.net^
 ||kekop.cn^
+||analytic.kenhub.cn^
 ||elq.keysight.com.cn^
 ||sandbox-elq.keysight.com.cn^
 ||kf4kwomxhl.com^
@@ -2876,6 +2881,7 @@
 ||mlstx.cn^
 ||da.mmarket.com^
 ||mmda-mayhulika-ph.com^
+||mmdamayhulikaph.com^
 ||mmkkiivv.com^
 ||tc.mnbvcxzq.com^
 ||mngjrn.cn^
@@ -2916,7 +2922,6 @@
 ||qn-livewebbs2pcdn.msstatic.com^
 ||mstatik.com^
 ||muidar.com^
-||cdnovs.multiopen.cn^
 ||a.munters.cn^
 ||mvamnng.cn^
 ||mxevdii.cn^
@@ -3467,7 +3472,6 @@
 ||v5-reading-ad.qznovelvod.com^
 ||v5-se-bjtc-reading-ad.qznovelvod.com^
 ||v5-se-gddgtc-reading-ad.qznovelvod.com^
-||v5-se-jltc-reading-ad.qznovelvod.com^
 ||v5-se-sjy-daily-reading-ad.qznovelvod.com^
 ||v6-daily-reading-ad.qznovelvod.com^
 ||v6-reading-ad.qznovelvod.com^
@@ -3839,7 +3843,6 @@
 ||mxana.tacool.com^
 ||tagmanager.cn^
 ||tagtic.cn^
-||en.taichuan.com^
 ||takjttz.cn^
 ||talk99.cn^
 ||talkingdata.com^
@@ -4038,6 +4041,7 @@
 ||adsup.togothermany.cn^
 ||track.tom.com^
 ||track.tomwx.net^
+||fp.tongdun.net^
 ||sky.tongjiai.com^
 ||ato.tooopen.com^
 ||toponad.com^
@@ -4314,12 +4318,16 @@
 ||cname-in-apport-stsdk.vivoglobal.com^
 ||cname-in-bom01-nginxpool03.vivoglobal.com^
 ||cname-sin01-stsdk09.vivoglobal.com^
+||co-domaincfg.vivoglobal.com^
 ||co-onrt-stsdk.vivoglobal.com^
 ||co-ort-stsdk.vivoglobal.com^
 ||co-romsp-unifyconfig.vivoglobal.com^
 ||co-st-sl.vivoglobal.com^
+||co-stsdk.vivoglobal.com^
+||co-timesync.vivoglobal.com^
 ||co-vcode-api.vivoglobal.com^
 ||co-vcode-od.vivoglobal.com^
+||co-vcode-or.vivoglobal.com^
 ||de-gdpr-err-up.vivoglobal.com^
 ||eu-album-api.vivoglobal.com^
 ||eu-cota.vivoglobal.com^
@@ -4371,7 +4379,6 @@
 ||in-vcode-or.vivoglobal.com^
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||in-vpushort-stsdk.vivoglobal.com^
-||kz-onrt-stsdk.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||mx-album-api.vivoglobal.com^
 ||mx-cota.vivoglobal.com^
@@ -4571,6 +4578,7 @@
 ||update.wps.cn^
 ||wpsweb-dc.wps.cn^
 ||api-ad-adapter.wps.com^
+||api-ad-adapter-mb.wps.com^
 ||mo.res.wpscdn.cn^
 ||abroadad.cache.wpscdn.com^
 ||wpwpquse.cn^
@@ -4600,6 +4608,8 @@
 ||pv.xcar.com.cn^
 ||pvx.xcar.com.cn^
 ||zio.xcar.com.cn^
+||analytics.xdiarys.com^
+||analytics2.xdiarys.com^
 ||xdrig.com^
 ||xerhibx.cn^
 ||dt.xfyun.cn^
@@ -5020,6 +5030,7 @@
 ||logapi-ios.zhipin.com^
 ||t.zhipin.com^
 ||zhiziyun.com^
+||zhlzdhr.cn^
 ||zhongguociwang.com^
 ||w11.zhongkaohelp.com^
 ||zhongkaowu.com^
