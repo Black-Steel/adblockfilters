@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20261011103442
-# Last modified: 2026/10/11 10:34:42
-# Blocked domains: 7885
+# Version: 20261011222802
+# Last modified: 2026/10/11 22:28:02
+# Blocked domains: 7903
 #
 kwflvcdn.000dn.com
 00k456wyh.com
@@ -67,6 +67,7 @@ o.027eat.com
 0oi1ej7mo.com
 0oo9j37xp.com
 0otmh22aj2.com
+0qry58i9es.com
 0qxfxqif0.com
 0s1wclct6.com
 0s5qb3rfz.com
@@ -108,8 +109,8 @@ bdwmhz.120askimages.com
 ad.12306.cn
 123cha.com
 bdad.123pan.cn
-124to81tc.com
 ent1.12584.cn
+126.cn
 analytics.126.com
 ir.mail.126.com
 ads.music.126.net
@@ -560,6 +561,7 @@ ad-files.4pyun.com
 51.la
 511a.cn
 51240.com
+5166.info
 amradmin.5173.com
 518ad.com
 log.51changdu.com
@@ -571,6 +573,7 @@ scdata.51job.com
 51mitu.com
 a1.51shiti.cn
 51taifu.com
+ad.51wnl-cq.com
 r.51wnl-cq.com
 ad.51wnl.com
 51xuex.com.cn
@@ -817,6 +820,7 @@ hollg8023.745c.cn
 7gp33kffg6.com
 7ho8oc3svg.com
 7imz0d5nay.com
+7istqn6fh.com
 7iwxojx1s.com
 7jf3kxi6bq.com
 7jqi6um1g.com
@@ -1516,7 +1520,6 @@ pups.baidu.com
 push.zhanzhang.baidu.com
 qapm.baidu.com
 qianclick.baidu.com
-r6.mo.baidu.com
 release.baidu.com
 res.mi.baidu.com
 river.zhidao.baidu.com
@@ -1568,6 +1571,7 @@ j.baminw.cn
 n.baminw.com.cn
 q.baminw.com.cn
 tuplogpublic.bangcdn.net
+midinfo.baofeng.com
 a.baomihua.com
 djs.baomihua.com
 resource.baomihua.com
@@ -1820,6 +1824,7 @@ www.cc4008001935.cn
 adv.ccb.com
 ad.ccement.com
 ccpvq7fgy.com
+btrace.ysp.cctv.cn
 mtrace.ysp.cctv.cn
 ad.cctv.com
 httpdns.cctv.com
@@ -1994,6 +1999,8 @@ log-eap-in.coloros.com
 log-eap-sg.coloros.com
 moa-upload-online.coloros.com
 smartcard.apps.coloros.com
+smartcardf-eu.apps.coloros.com
+smartcardf.apps.coloros.com
 iadsdk.apple.com.akadns.net
 com052bin.com
 trk.compair.com.cn
@@ -2202,6 +2209,7 @@ events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 events-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
+metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 dbzolzzy7s.com
 dc5koxhfh.com
 engine.dcad01.com
@@ -2245,7 +2253,6 @@ dfi09240kq.com
 dfi09241kq.com
 dfi09250kq.com
 dgnqrl.icu
-dgrj.com.cn
 dgrpeldt54.com
 d.dgzj.com
 dh5t3pyb6r.com
@@ -2850,6 +2857,12 @@ ggo10110lq.com
 ggo10111lq.com
 ggo10120lq.com
 ggo10121lq.com
+ggo10130lq.com
+ggo10131lq.com
+ggo10140lq.com
+ggo10141lq.com
+ggo10150lq.com
+ggo10151lq.com
 shqdown.ggzuhao.com
 ghjyw4h23.com
 ghsnhjk.cn
@@ -2877,12 +2890,12 @@ auth.api.gitv.tv
 doh.ptqy.gitv.tv
 liveats-vod.video.ptqy.gitv.tv
 msg.ptqy.gitv.tv
+ota.ptqy.gitv.tv
 policy.video.ptqy.gitv.tv
 puma-api.ptqy.gitv.tv
 sdk-cache.video.ptqy.gitv.tv
 sdk.ptqy.gitv.tv
 static.ptqy.gitv.tv
-t7z.cupid.ptqy.gitv.tv
 time.video.ptqy.gitv.tv
 giwl0p3gx7.com
 gj8ph3gw8z.com
@@ -3372,10 +3385,8 @@ ssdkauth.hpplay.cn
 tvapp.hpplay.cn
 vipauth.hpplay.cn
 vipgslb.hpplay.cn
-api.hpplay.com.cn
 cdn.hpplay.com.cn
 h5.hpplay.com.cn
-leboapi.hpplay.com.cn
 hqeiwwnkce.icu
 hqo0k12qs.com
 support.hqts.com
@@ -3418,6 +3429,7 @@ trackcommon.hujiang.com
 u8.hujiang.com
 log.hunantv.com
 log.v2.hunantv.com
+hungfei.com
 huoche.com.cn
 huoying666.com
 collect.hupu.com
@@ -4538,6 +4550,7 @@ data.sec.miui.com
 data.sec.intl.miui.com
 flash.sec.miui.com
 flash.sec.intl.miui.com
+gamebox.sec.miui.com
 geofence.sys.miui.com
 gtglobal.intl.miui.com
 httpdns.browser.miui.com
@@ -4573,6 +4586,7 @@ mlstx.cn
 mly5hvbae.com
 da.mmarket.com
 mmes30jla.com
+mmftdt.com
 mmkkiivv.com
 track.mmsvc.io
 tc.mnbvcxzq.com
@@ -4646,6 +4660,7 @@ mvt0e2s72.com
 mx278ol2d.com
 mxauvrtdm.com
 mxevdii.cn
+my-hr.cn
 my1746vnm.com
 apiyd.my91app.com
 mya2pg8cdg.com
@@ -4712,6 +4727,7 @@ n906n29tm.com
 nahg4lhbr.com
 nalook.com
 fp.nanrenwo.net
+nar17stuqf.com
 nasimobi.com
 dl.natgo.cn
 tr.email.nauticexpo.com
@@ -5072,7 +5088,6 @@ i.popincdn.com
 poqwua.cn
 fp-it-acc.portal101.cn
 webtrack.pospal.cn
-postut.cn
 pow46ru6c.com
 log.cs.pp.cn
 patriot.cs.pp.cn
@@ -5210,7 +5225,6 @@ kf.qingwk.com
 log.qiniuapi.com
 kbae.qiqqh.cn
 qishui-douyln.com.cn
-qishui-vip.com.cn
 qishui.bj.cn
 stats.qiumibao.com
 webstat.qiumibao.com
@@ -5446,6 +5460,7 @@ analytics.oceanengine.com.queniuiq.com
 api-access.pangolin-sdk-toutiao1.com.queniuiq.com
 ads3-normal-hl.zijieapi.com.queniurc.com
 p3-ad-sign.byteimg.com.queniusy.com
+ads3-normal.zijieapi.com.queniusz.com
 sf3-fe-tos.pglstatp-toutiao.com.queniuuf.com
 api-access.pangolin-sdk-toutiao-b.com.queniuyk.com
 api-access.pangolin-sdk-toutiao.com.queniuyk.com
@@ -5742,6 +5757,7 @@ shuzilm.cn
 ads-monitoring.shziyi.com
 sigmob.com
 smetrics.marketing.signify.com.cn
+siguatv.cn
 ad.cj.sina.cn
 adblock.sina.cn
 adimg.mobile.sina.cn
@@ -5791,7 +5807,6 @@ sax.sina.com.cn
 saxn.sina.com.cn
 sbeacon.sina.com.cn
 slog.sina.com.cn
-woocall.sina.com.cn
 s3.pfp.sina.net
 ad.us.sinaimg.cn
 newspush.sinajs.cn
@@ -5928,6 +5943,7 @@ yule.sohu.com
 smetrics.solidigmtech.com.cn
 smetrics.solidigmtechnology.cn
 rtb-uswest-ak.solomath.com
+songlaoban.cn
 gg.sonhoo.com
 sc.sonystyle.com.cn
 soob00avn4.com
@@ -6225,7 +6241,6 @@ thinkingdata.cn
 thj36m3dm.com
 trk.thomas-pump.cn
 trail.thomsonreuters.cn
-ad.thsi.cn
 thuk8hg48.com
 tracking.mail.ti.com.cn
 ti1nmd09a.com
@@ -6495,6 +6510,7 @@ unionli.com
 unionsy.com
 cdp.cloud.unity.cn
 metrics2.unity.cn
+ads.unitychina.cn
 cdn.iads.unitychina.cn
 unityads.unitychina.cn
 universe7.top
@@ -6848,6 +6864,7 @@ vodone.com
 mini-prog-drm.vodplayvideo.net
 vogue99.top
 voiceads.cn
+dev.voicecloud.cn
 log.voicecloud.cn
 apm.volccdn.com
 httpdns.volcengineapi.com
@@ -7676,6 +7693,7 @@ zc13uyyok7.com
 zc2do7ttn5.com
 star.zcnet.net
 log.zcool.com.cn
+zctdqxxbyz.icu
 zddsnuxow.icu
 zdg2g7v5xe.com
 zdl4o6sp3.com
@@ -7784,12 +7802,9 @@ polaris3-normal-lf.zijieapi.com
 polaris3-normal-lq.zijieapi.com
 polaris3-normal-xh.zijieapi.com
 polaris3-normal-zb.zijieapi.com
-polaris5-normal-gl2.zijieapi.com
 polaris5-normal-hl.zijieapi.com
 polaris5-normal-lf.zijieapi.com
 polaris5-normal-lq.zijieapi.com
-polaris5-normal-xh.zijieapi.com
-polaris5-normal-zb.zijieapi.com
 saveu5-normal-lq.zijieapi.com
 starkgame.zijieapi.com
 timon.zijieapi.com
@@ -7872,6 +7887,7 @@ zv5h2l1qdi.com
 zvciaoan1k.com
 zvhtzl.icu
 zwbngpnpa.com
+zwg5j61a8.com
 zwlhfjh4h.com
 zwlpdo.cn
 zwtdylpvda.icu
@@ -7886,7 +7902,9 @@ zyek35wsn.com
 zygkzytb.cn
 zyjfjziavcdpnk.com
 zykwnj.cn
+zyxyfy.com
 zyy25t69u.com
+zzisnvb.cn
 zzrcz.com
 cfgc.zztfly.com
 log-auth.zztfly.com
