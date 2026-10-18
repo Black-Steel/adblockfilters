@@ -3,8 +3,8 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261018095120
-# Last modified: 2026/10/18 09:51:20
+# Version: 20261018201457
+# Last modified: 2026/10/18 20:14:57
 # Blocked domains: 7839
 #
 kwflvcdn.000dn.com @ads
@@ -294,6 +294,7 @@ a1.289.com @ads
 29ruu0q5p.com @ads
 29zle9rx4.com @ads
 2agmk5mh07.com @ads
+2bguv53rv.com @ads
 2bwiihrajn.com @ads
 2c4nzn0rn8.com @ads
 2cn9g1efo.com @ads
@@ -306,6 +307,7 @@ a1.289.com @ads
 2fjxw3dyip.com @ads
 2g1lbrr0qv.com @ads
 2gvnr9sx9.com @ads
+2haxnvf7i.com @ads
 2hlcovn7n.com @ads
 2hqxy07fw.com @ads
 2i0lliongn.com @ads
@@ -348,6 +350,7 @@ ad.3.cn @ads
 ad.23.107.112.30.cn @ads
 analytics.300624.com @ads
 301848.com @ads
+313xidqu3.com @ads
 d1.3158.cn @ads
 www.31d.net @ads
 31ezrbosr6.com @ads
@@ -382,7 +385,6 @@ lianmeng.360.cn @ads
 mclean.f.360.cn @ads
 msch.f.360.cn @ads
 mvconf.f.360.cn @ads
-openbox.mobilem.360.cn @ads
 papi.look.360.cn @ads
 pscan.f.360.cn @ads
 pub.se.360.cn @ads
@@ -531,6 +533,7 @@ a.4aqq.com @ads
 4k3nzijpm0.com @ads
 4kngwxegq5.com @ads
 4l5bbkug99.com @ads
+4lqs5j3ckn.com @ads
 4mvkxs0o0.com @ads
 4mwe9ki9r.com @ads
 4nc4qc1fo.com @ads
@@ -853,6 +856,7 @@ cp.7y7.com @ads
 7yy69rrqpz.com @ads
 7z3mn9x7i.com @ads
 7zivoy6qs.com @ads
+804uptpbx.com @ads
 8052qydk7.com @ads
 80753325p.com @ads
 m1.81312.com @ads
@@ -1173,7 +1177,6 @@ smetrics.alfalaval.cn @ads
 dsp.ali213.net @ads
 cdn.ynuf.aliapp.org @ads
 umdc.aliapp.org @ads
-us.ynuf.aliapp.org @ads
 abtest.alibaba.com @ads
 adashx.ut.alibaba.com @ads
 aplus.alibaba.com @ads
@@ -1516,7 +1519,6 @@ pups.baidu.com @ads
 push.zhanzhang.baidu.com @ads
 qapm.baidu.com @ads
 qianclick.baidu.com @ads
-r6.mo.baidu.com @ads
 release.baidu.com @ads
 res.mi.baidu.com @ads
 river.zhidao.baidu.com @ads
@@ -1574,6 +1576,7 @@ djs.baomihua.com @ads
 resource.baomihua.com @ads
 bartender.cc @ads
 baycode.cn @ads
+raddus.bayescom.com @ads
 bb2k0pq1vf.com @ads
 bbbazlp.cn @ads
 bbcoe.cn @ads
@@ -2206,6 +2209,7 @@ dc5koxhfh.com @ads
 engine.dcad01.com @ads
 xcx.dcad01.com @ads
 dcfmwnqbig.icu @ads
+dcfxk68sp2.com @ads
 dcqe7gez5.com @ads
 dcwxhamq0.com @ads
 dd81bp3qbj.com @ads
@@ -2626,7 +2630,6 @@ fi0e0xtinp.com @ads
 fighter-shop.shop @ads
 fikppvmul.com @ads
 fileh.xyz @ads
-filei.top @ads
 fileshider.com @ads
 fillbpi.com @ads
 spatial.fineboost.com @ads
@@ -2851,10 +2854,10 @@ doh.ptqy.gitv.tv @ads
 liveats-vod.video.ptqy.gitv.tv @ads
 msg.ptqy.gitv.tv @ads
 policy.video.ptqy.gitv.tv @ads
+puma-api.ptqy.gitv.tv @ads
 sdk-cache.video.ptqy.gitv.tv @ads
 sdk.ptqy.gitv.tv @ads
 static.ptqy.gitv.tv @ads
-t7z.cupid.ptqy.gitv.tv @ads
 time.video.ptqy.gitv.tv @ads
 gj8ph3gw8z.com @ads
 gjbk0mis4q.com @ads
@@ -3762,6 +3765,7 @@ jjpe6btbb.com @ads
 jknrwe.cn @ads
 jkpzthxjt.com @ads
 jkwybt9hc.com @ads
+jlulrz094u.com @ads
 jlwz.cn @ads
 jm3uvitq0.com @ads
 jmgehn.cn @ads
@@ -4422,7 +4426,6 @@ micro-xdb.com @ads
 microad-cn.com @ads
 stat.microvirt.com @ads
 pylon.micstatic.com @ads
-plausible.midway.run @ads
 track.midway.run @ads
 app.log.nf.migu.cn @ads
 uem.migu.cn @ads
@@ -4952,6 +4955,7 @@ pfqwbqs.cn @ads
 phbyrmvjn.icu @ads
 smetrics.marketing.lighting.philips.com.cn @ads
 phr3qfcmb.com @ads
+analytics.pictoflux.com @ads
 adim.pinduoduo.com @ads
 dspsdk.pinduoduo.com @ads
 images.pinduoduo.com @ads
@@ -4994,8 +4998,6 @@ pmensrl.cn @ads
 pmt0g2rugw.com @ads
 pmvlwjy.cn @ads
 pn9f3utrxu.com @ads
-1.pncdn.cn @ads
-100.pncdn.cn @ads
 pnlx1ofua.com @ads
 pnpq9y4te.com @ads
 po3x411qe3.com @ads
@@ -5516,6 +5518,7 @@ rl6b3zvtsk.com @ads
 rl8yj74pr.com @ads
 rljjt.cn @ads
 rlr1ubj9u.com @ads
+rlri.cn @ads
 rltwz2cmo.com @ads
 rmt827wgr.com @ads
 rmv8gc43g.com @ads
@@ -6183,7 +6186,6 @@ tianmu.mobi @ads
 ip.tianqiapi.com @ads
 datas.tianqistatic.com @ads
 yptqys.tianqistatic.com @ads
-fz.tiansys.cn @ads
 tiantiansoft.com @ads
 tiexing.com @ads
 smetrics.tiffany.cn @ads
@@ -6219,7 +6221,6 @@ adscfg.togothermany.cn @ads
 adsup.togothermany.cn @ads
 track.tom.com @ads
 track.tomwx.net @ads
-fp.tongdun.net @ads
 sky.tongjiai.com @ads
 toolssale.shop @ads
 ato.tooopen.com @ads
@@ -7355,7 +7356,6 @@ ta.yangkeduo.com @ads
 yangliu.ink @ads
 img.yangshengtang123.com @ads
 ca.yangshengtv.com @ads
-yangshengzu.cn @ads
 yanwz3t0pi.com @ads
 yatemy.cn @ads
 yb2es1rd82.com @ads
