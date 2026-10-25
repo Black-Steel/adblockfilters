@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20261025100235
-! Last modified: 2026/10/25 10:02:35
-! Blocked domains: 7985
+! Version: 20261025205006
+! Last modified: 2026/10/25 20:50:06
+! Blocked domains: 8001
 ! unBlocked domains: 16
 !
 ||kwflvcdn.000dn.com^
@@ -174,7 +174,6 @@
 ||nex.163.com^
 ||online-logger.webapp.163.com^
 ||r.mail.163.com^
-||sentry.music.163.com^
 ||temp.163.com^
 ||timejs.game.163.com^
 ||yaolu.mh.163.com^
@@ -400,7 +399,6 @@
 ||pscan.f.360.cn^
 ||pub.se.360.cn^
 ||qurl.f.360.cn^
-||s.360.cn^
 ||s.f.360.cn^
 ||soft.data.weather.360.cn^
 ||stat.m.360.cn^
@@ -704,6 +702,7 @@
 ||5v19ql3xi1.com^
 ||5vszw5ab2.com^
 ||5w31xv1a2.com^
+||5wczjm7h4.com^
 ||5wkni37mso.com^
 ||5wt390pvwz.com^
 ||5wv0y42ub.com^
@@ -1105,6 +1104,7 @@
 ||ado35vj3i.com^
 ||adquan.com^
 ||adreal.cn^
+||ads360.cn^
 ||adsage.cn^
 ||adsame.com^
 ||adseye.com^
@@ -1155,6 +1155,7 @@
 ||statscollector-1-north-america.agora.io^
 ||statscollector-1-oversea.agora.io^
 ||statscollector-1-south-america.agora.io^
+||statscollector-2-europe.agora.io^
 ||statscollector-2-oversea.agora.io^
 ||webcollector-rtm.agora.io^
 ||ahtjhe1bka.com^
@@ -1288,6 +1289,7 @@
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||xpjcg.oss-accelerate.aliyuncs.com^
 ||fourier-videoclip-sg.allawnos.com^
 ||icosa-service-sg.allawnos.com^
 ||icosa-service-sg-01.allawnos.com^
@@ -1452,7 +1454,6 @@
 ||tjinit-event.babybus.com^
 ||tjinit-global-register.babybus.com^
 ||qmlog.baertt.com^
-||advertise.baicizhan.com^
 ||events.baicizhan.com^
 ||a.baidinet.com^
 ||union.baidu.cn^
@@ -1606,11 +1607,11 @@
 ||tuplogpublic.bangcdn.net^
 ||midinfo.baofeng.com^
 ||ploy.baofeng.net^
-||a.baomihua.com^
 ||resource.baomihua.com^
 ||bartender.cc^
 ||baycode.cn^
 ||ad.bayescom.com^
+||raddus.bayescom.com^
 ||bb2k0pq1vf.com^
 ||bbbazlp.cn^
 ||bbcoe.cn^
@@ -1676,7 +1677,6 @@
 ||mlog.bigda.com^
 ||union-mlog.bigda.com^
 ||yyapp-mlog.bigda.com^
-||tr.bigfuck.tv^
 ||go.bigo.tv^
 ||adin.bigpoint.com^
 ||bigwww.com^
@@ -1855,6 +1855,7 @@
 ||cbhzxctgm.com^
 ||cbjk6j85d.com^
 ||cbqh4uqmzm.com^
+||cbxp9xqbnh.com^
 ||www.cc4008001935.cn^
 ||adv.ccb.com^
 ||ad.ccement.com^
@@ -2042,8 +2043,6 @@
 ||log-eap-sg.coloros.com^
 ||moa-upload-online.coloros.com^
 ||smartcard.apps.coloros.com^
-||smartcardf-eu.apps.coloros.com^
-||smartcardf.apps.coloros.com^
 ||iadsdk.apple.com.akadns.net^
 ||wangsu-smetrics.redhat.com.edgekey.net^
 ||com052bin.com^
@@ -2410,6 +2409,7 @@
 ||stats.v.duowan.com^
 ||vupload.duowan.com^
 ||duvm2tveip.com^
+||dv4o54c8p.com^
 ||analytics-api.dvdfab.cn^
 ||servo-report.dvdfab.cn^
 ||dvjxk947e.com^
@@ -2506,6 +2506,7 @@
 ||efusc.com^
 ||metrics.egencia.cn^
 ||eglnktnqnz.com^
+||plugin-check.egret.com^
 ||eguswp0mj.com^
 ||egvhd2ggc1.com^
 ||egvnfpnb31.com^
@@ -2788,6 +2789,7 @@
 ||fyi1v4fcw3.com^
 ||fyosies.icu^
 ||fz1j7l8n2.com^
+||fzbaqs9f1.com^
 ||fzddxwb7y3.com^
 ||fziydh0npy.com^
 ||fzpress.com.cn^
@@ -3391,7 +3393,6 @@
 ||log-upload-os.hoyoverse.com^
 ||sdk-log-upload-os.hoyoverse.com^
 ||sdk-os-static.hoyoverse.com^
-||sentry.eks.hoyoverse.com^
 ||sg-public-data-api.hoyoverse.com^
 ||ys-log-upload-os.hoyoverse.com^
 ||ecommhpi.ext.hp.com^
@@ -3424,10 +3425,8 @@
 ||tvapp.hpplay.cn^
 ||vipauth.hpplay.cn^
 ||vipgslb.hpplay.cn^
-||api.hpplay.com.cn^
 ||cdn.hpplay.com.cn^
 ||h5.hpplay.com.cn^
-||leboapi.hpplay.com.cn^
 ||hqeiwwnkce.icu^
 ||hqo0k12qs.com^
 ||supertest.hqsmartcloud.com^
@@ -3588,6 +3587,7 @@
 ||log.iflytek.com^
 ||logconf.iflytek.com^
 ||ifnb6hfem.com^
+||ifvk56ft9o.com^
 ||entree.igetget.com^
 ||piccdn.igetget.com^
 ||seeder.igetget.com^
@@ -3862,6 +3862,7 @@
 ||jlulrz094u.com^
 ||jlwz.cn^
 ||jm3uvitq0.com^
+||jmgehn.cn^
 ||www.jmine.cn^
 ||jnes2uutqu.com^
 ||jo9q3dhqf.com^
@@ -3884,6 +3885,7 @@
 ||jqszhz7wo.com^
 ||jqz8z7gqxw.com^
 ||jr9v5lx1ro.com^
+||ad.ah.jrgphq.cn^
 ||jrltdiu.cn^
 ||js154azzn.com^
 ||js1lw9n6w.com^
@@ -3910,6 +3912,7 @@
 ||juu5p55799.com^
 ||juzi.cn^
 ||jvqo1iiej.com^
+||jwddpvu.cn^
 ||jwf8lxo7b.com^
 ||jwt18trhq.com^
 ||jwxggyivum.icu^
@@ -4283,6 +4286,7 @@
 ||lh6s24tadl.com^
 ||lhippac.cn^
 ||lht8yhbbl.com^
+||ad.lhyghh.cn^
 ||ad.data.lianjia.com^
 ||dig.lianjia.com^
 ||adimg.liba.com^
@@ -4334,7 +4338,6 @@
 ||lomvmz5ze3.com^
 ||lopwds.shop^
 ||game.loveota.com^
-||sdk.loveota.net^
 ||lp340p7czf.com^
 ||lp780937a.com^
 ||lpdm1k14h.com^
@@ -4529,6 +4532,7 @@
 ||microad-cn.com^
 ||stat.microvirt.com^
 ||pylon.micstatic.com^
+||plausible.midway.run^
 ||track.midway.run^
 ||app.log.nf.migu.cn^
 ||uem.migu.cn^
@@ -4543,7 +4547,6 @@
 ||apm-api.mihoyo.com^
 ||apm-log-upload.mihoyo.com^
 ||apm-log-upload-v6.mihoyo.com^
-||data-abtest-api.mihoyo.com^
 ||h5collector.mihoyo.com^
 ||h5log-api-dualstack.mihoyo.com^
 ||hkrpg-log-upload.mihoyo.com^
@@ -4561,6 +4564,7 @@
 ||insight.mintel.com^
 ||mip37c9nf.com^
 ||wm.mipcdn.com^
+||ad.missionhillschina.com^
 ||gg.miued.com^
 ||abroad.api.comm.intl.miui.com^
 ||activity.browser.intl.miui.com^
@@ -4635,7 +4639,9 @@
 ||track.mmsvc.io^
 ||tc.mnbvcxzq.com^
 ||mngjrn.cn^
+||mnpbxjq.cn^
 ||g.mnw.cn^
+||mnzvtwd.cn^
 ||mob.com^
 ||mobaders.com^
 ||api.mobcells.com^
@@ -4759,6 +4765,7 @@
 ||n4d3ev3m1.com^
 ||n4kd6phdxw.com^
 ||n5a92p9zo.com^
+||n5ku61z6km.com^
 ||n69.com^
 ||n6al211kbp.com^
 ||n6pepvekwa.com^
@@ -5001,6 +5008,7 @@
 ||p0h1nfzc2.com^
 ||p0pn18sxvh.com^
 ||p0yixb3wfv.com^
+||p1oo54kz6d.com^
 ||p2cdn.com^
 ||p2muoczf5.com^
 ||p43c4oysmb.com^
@@ -5179,6 +5187,7 @@
 ||px017w0r62.com^
 ||pxdb08b82.com^
 ||vv1.pyhfxdm.cn^
+||pypwxvo.cn^
 ||pytm26vg9v.com^
 ||pz0d6zc6n.com^
 ||pzkkot4kn.com^
@@ -5247,6 +5256,7 @@
 ||js.passport.qihucdn.com^
 ||qijpaih.cn^
 ||roibest-report-sdk.qiliangjia.com^
+||miniapp.qiluyidian.mobi^
 ||qim0lvk6m.com^
 ||up.qingdaonews.com^
 ||bdcode.qinglue.com^
@@ -6098,6 +6108,7 @@
 ||sztd75fntp.com^
 ||t101.cn^
 ||t19olm6fd.com^
+||t1ufw6nz5f.com^
 ||t28goe.cn^
 ||t298jlqqf.com^
 ||t2f3pqd40.com^
@@ -6317,6 +6328,7 @@
 ||tiexing.com^
 ||smetrics.tiffany.cn^
 ||tikishop.top^
+||log19-normal.tiktokv.com^
 ||wkrd.tingyun.com^
 ||tisszhb.cn^
 ||img2.titan007.com^
@@ -6923,6 +6935,7 @@
 ||vodone.com^
 ||mini-prog-drm.vodplayvideo.net^
 ||voiceads.cn^
+||dev.voicecloud.cn^
 ||log.voicecloud.cn^
 ||volcano98.com^
 ||apm.volccdn.com^
@@ -6946,6 +6959,7 @@
 ||vrbrothers.com^
 ||vrr.name^
 ||vrufe4ikql.com^
+||n.vs108.com^
 ||vsr4jyjpzb.com^
 ||vtc3rlbjj.com^
 ||vtook3j0l.com^
@@ -6962,6 +6976,7 @@
 ||vwtbrzymoz.com^
 ||vx2tbw9xin.com^
 ||vxhsj.cn^
+||vyq5segjv.com^
 ||vysr4o0eg.com^
 ||vytf0mqa0.com^
 ||vyye.cn^
@@ -7240,7 +7255,6 @@
 ||xhr7cqlob.com^
 ||ads-i1.xhscdn.com^
 ||ads-i10.xhscdn.com^
-||ads-i2.xhscdn.com^
 ||ads-i3.xhscdn.com^
 ||ads-i4.xhscdn.com^
 ||ads-i8.xhscdn.com^
@@ -7327,7 +7341,6 @@
 ||lxcdn.dl.files.xiaomi.net^
 ||resolver.msg.global.xiaomi.net^
 ||sec-cdn.static.xiaomi.net^
-||sentry.d.xiaomi.net^
 ||us.api.micloud.xiaomi.net^
 ||xiaomifood.cn^
 ||statistic.xiaoxiezi886.cn^
@@ -7391,11 +7404,11 @@
 ||cmm.xmfish.com^
 ||xmggucgmy.com^
 ||xmgi1tqka.com^
-||xmlsxar.cn^
 ||xmo0oixbx8.com^
+||ad.xmydch.cn^
+||xn--2qu92fhtxsxexqab.xn--fiqs8s^
 ||xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s^
 ||xn--m7r781dz66a.cn^
-||xn--wxtr9fwyxk9c.xn--fiqs8s^
 ||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
 ||xnemz1rc5j.com^
 ||xnm4x0ali.com^
@@ -7751,10 +7764,12 @@
 ||zctdqxxbyz.icu^
 ||zddsnuxow.icu^
 ||zdg2g7v5xe.com^
+||zdh10230lo.com^
+||zdh10231lo.com^
 ||zdh10240lo.com^
+||zdh10241lo.com^
+||zdh10250lo.com^
 ||zdh10251lo.com^
-||zdh10260lo.com^
-||zdh10261lo.com^
 ||zdl4o6sp3.com^
 ||zdr6wn2f5.com^
 ||pl.zehrz.shop^
@@ -7781,6 +7796,7 @@
 ||saad.ms.zhangyue.net^
 ||smad.ms.zhangyue.net^
 ||zhanzhang.net^
+||www.zhaohainan.cn^
 ||mg09.zhaopin.com^
 ||slotabrosdev.zharev.com^
 ||slotabrosuat.zharev.com^
