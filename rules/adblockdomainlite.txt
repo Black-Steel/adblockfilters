@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20261027104111
-! Last modified: 2026/10/27 10:41:11
-! Blocked domains: 8001
+! Version: 20261027214240
+! Last modified: 2026/10/27 21:42:40
+! Blocked domains: 8030
 !
 kwflvcdn.000dn.com
 00k456wyh.com
@@ -68,6 +68,7 @@ o.027eat.com
 0l7t5qhb4.com
 0lai5bvkg.com
 0mkeb9vth.com
+0nh9bt6v6a.com
 0nyzdw2maq.com
 0oi1ej7mo.com
 0oo9j37xp.com
@@ -394,6 +395,7 @@ lianmeng.360.cn
 mclean.f.360.cn
 msch.f.360.cn
 mvconf.f.360.cn
+openbox.mobilem.360.cn
 papi.look.360.cn
 pscan.f.360.cn
 pub.se.360.cn
@@ -464,6 +466,7 @@ uu1.3gu.com
 3is34bpqs4.com
 3iulae112b.com
 3j4vjpx7k.com
+3jkb97w0tp.com
 3k2frl8r79.com
 3lbqpzrlmz.com
 3llzzztmz.com
@@ -1064,6 +1067,7 @@ www.ab7898962261.net
 www.ab8965471225.net
 www.ab8965471225.vip
 abbyychina.com
+metrics.abercrombie.cn
 smetrics.abercrombie.cn
 discover.absciex.com.cn
 ac00qmnjz.com
@@ -1196,6 +1200,7 @@ jp-datareceiver.aki-game.net
 us-datareceiver.aki-game.net
 ako.cc
 akuohvb4u.com
+akydw.com
 log.al-hiwar.com
 al1n6v56m.com
 alcoholic56.top
@@ -1204,7 +1209,6 @@ smetrics.alfalaval.cn
 dsp.ali213.net
 cdn.ynuf.aliapp.org
 umdc.aliapp.org
-us.ynuf.aliapp.org
 abtest.alibaba.com
 adashx.ut.alibaba.com
 aplus.alibaba.com
@@ -1455,7 +1459,7 @@ collect.babybus.com
 tjinit-event.babybus.com
 tjinit-global-register.babybus.com
 qmlog.baertt.com
-bagmarket.shop
+advertise.baicizhan.com
 events.baicizhan.com
 a.baidinet.com
 union.baidu.cn
@@ -1612,7 +1616,7 @@ ploy.baofeng.net
 resource.baomihua.com
 bartender.cc
 baycode.cn
-ad.bayescom.com
+raddus.bayescom.com
 bb2k0pq1vf.com
 bbbazlp.cn
 bbcoe.cn
@@ -2377,6 +2381,7 @@ drawers06.com
 drdwy.com
 drivethelife.com
 ds8k3y2d5n.com
+dseulm.shop
 dshsnxfcjwdhpe.com
 dsm3y3tl4.com
 dspunion.com
@@ -2485,13 +2490,14 @@ jb.ecar168.cn
 ecg21n9t8d.com
 ecuc6mmwt.com
 edgeone.app
+dhlpolska.edgeone.cool
+65362655721.edgeone.dev
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 lexical-brown-irnlppnt.edgeone.dev
 outlookliveonverification-dp52uq80y4cv.edgeone.dev
 papa.edgeone.dev
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 sriramnwar-dpoae04723lz.edgeone.dev
-ediuschina.com
 www.ee99654712225.com
 www.ee99678923512.com
 eevfstl1n.com
@@ -2679,7 +2685,6 @@ filei.top
 fileshider.com
 fillbpi.com
 spatial.fineboost.com
-api.firwinds.site
 fiwyjar.cn
 fjalsr83a6.com
 fjpopxgyfrlxvc.com
@@ -2997,6 +3002,7 @@ googletagmanager.com
 googletagservices-cn.com
 googletraveladservices.com
 googlevads-cn.com
+goptions.com
 goqix4lm5.com
 gorituals.shop
 gosizeer.shop
@@ -3123,6 +3129,7 @@ mini.hao123.com
 download.haozip.com
 log.dc.cn.happyelements.com
 hapying.com
+harvestlanshop.shop
 hashnest.com
 a.hbf23.cn
 hbiaz6xxya.com
@@ -3233,6 +3240,7 @@ virusinfo-cloudscan-cn.heytapmobi.com
 adx-op-sg.heytapmobile.com
 adx-u-sg.heytapmobile.com
 api-gl.cdo.heytapmobile.com
+browser-api-th.heytapmobile.com
 cloudi-sg.browser.heytapmobile.com
 dc-dragate-sg.heytapmobile.com
 i-sg.browser.heytapmobile.com
@@ -3358,6 +3366,7 @@ hnltcw.com
 online.hnoexpo.com
 hnol.net
 hoamt60fa.com
+holdot.shop
 metrics.hollisterco.cn
 smetrics.hollisterco.cn
 holsat.shop
@@ -3418,10 +3427,8 @@ ssdkauth.hpplay.cn
 tvapp.hpplay.cn
 vipauth.hpplay.cn
 vipgslb.hpplay.cn
-api.hpplay.com.cn
 cdn.hpplay.com.cn
 h5.hpplay.com.cn
-leboapi.hpplay.com.cn
 hqcqz2.cn
 hqeiwwnkce.icu
 hqo0k12qs.com
@@ -4218,6 +4225,7 @@ lcqbi7nsv.com
 lcqeurxbcj.icu
 lcrebbqmvlbtno.com
 lctpvmaxz.icu
+ld1qwww3kj.com
 ldhy.click
 mnqlog.ldmnq.com
 storeen.ldmnq.com
@@ -4306,7 +4314,6 @@ tx-p2p-pull.live-voip.com
 ws-p2p-pull.live-voip.com
 lj43bm3y8.com
 ljvt4pnl9.com
-ljyzic8cr.com
 lk0v8teerw.com
 lk54dfg87.com
 lkmhn.com
@@ -4337,7 +4344,6 @@ webtarget.logitechg.com.cn
 lomark.cn
 lomvmz5ze3.com
 lopwds.shop
-loreudkl.shop
 game.loveota.com
 sdk.loveota.net
 lp340p7czf.com
@@ -4359,6 +4365,7 @@ ludashi.com
 luyouxia.net
 lv3f2bqnb.com
 lvdvltsid.com
+lvuidh.shop
 lvykdmk.icu
 lvzs619n1c.com
 lwlqsgr.cn
@@ -4533,7 +4540,6 @@ micro-xdb.com
 microad-cn.com
 stat.microvirt.com
 pylon.micstatic.com
-plausible.midway.run
 track.midway.run
 app.log.nf.migu.cn
 uem.migu.cn
@@ -4545,9 +4551,7 @@ ggxwb.miguvideo.com
 v.miguvideo.com
 abtest-api-data.mihoyo.com
 ad-log-upload.mihoyo.com
-apm-api.mihoyo.com
 apm-log-upload.mihoyo.com
-apm-log-upload-v6.mihoyo.com
 data-abtest-api.mihoyo.com
 h5collector.mihoyo.com
 h5log-api-dualstack.mihoyo.com
@@ -4669,6 +4673,7 @@ cdn2.moji002.com
 momo.wiki
 moodoo.com.cn
 m.moomoo.com
+moongor.com
 ad.moonton.cn
 moquanad.com
 ads.morefreegame.com
@@ -4895,6 +4900,7 @@ o17kbwlq9p.com
 o1fhfeu6qa.com
 o28wg9kq8i.com
 o40d17vln.com
+o522zsxbgf.com
 o5y2zd1lq8.com
 o6oxvugdl.com
 o6vmp2h9k0.com
@@ -4906,8 +4912,10 @@ oa83fs5udz.com
 oaclrst.cn
 oadz.com
 gtm.oasisfeng.com
+obsproject.com.cn
 obsworks.com
 obv3epx22d.com
+ocbagmarket.shop
 analytics.oceanengine.com
 ocvdi0rum.com
 od6992uotl.com
@@ -4992,6 +5000,7 @@ turbo2sdk-push.oupeng.com
 ad.ourgame.com
 ourl.cn
 ad.ourplay.com.cn
+ad.ourplay.net
 at-af.outfit7.com
 bidder.dsp.outfit7.com
 hb-af-us-central1.outfit7.com
@@ -5010,6 +5019,7 @@ oz6q1drif.com
 p0h1nfzc2.com
 p0pn18sxvh.com
 p0yixb3wfv.com
+p1oo54kz6d.com
 p2cdn.com
 p2muoczf5.com
 p43c4oysmb.com
@@ -5043,6 +5053,7 @@ pb1b7cqwvs.com
 pbaiyho.cn
 pbeldhnbk.com
 pbo8y8igrp.com
+m.pc6.com
 ipad.pc899.cn
 count.pcauto.com.cn
 pcmxcdjbgo.com
@@ -5056,6 +5067,7 @@ video-dsp.pddpic.com
 download.pdf00.cn
 download.pdf00.com
 pdfxd.com
+pdhhmf.cn
 pdjxoscm7.com
 pe23ekuk9.com
 a8.jp.peacebird.com
@@ -5117,6 +5129,7 @@ pmensrl.cn
 pmt0g2rugw.com
 pmvlwjy.cn
 pn9f3utrxu.com
+1.pncdn.cn
 pnlx1ofua.com
 pnpq9y4te.com
 po3x411qe3.com
@@ -5348,7 +5361,6 @@ c.gj.qq.com
 cc.map.qq.com
 cfg.imtt.qq.com
 commdata.v.qq.com
-dmplog.qq.com
 dnet.mb.qq.com
 dns.weixin.qq.com
 dp3.qq.com
@@ -5572,6 +5584,8 @@ v9-reading-ad.qznovelvod.com
 v95-aw-reading-ad.qznovelvod.com
 v95-se-zjwztc-reading-ad.qznovelvod.com
 v95-ynkmtc-reading-ad.qznovelvod.com
+v95-zjjx2tc-reading-ad.qznovelvod.com
+v96-reading-ad.qznovelvod.com
 qzs43ai3p.com
 tc.qzwxrtyk.com
 r0d2dzltw7.com
@@ -5636,6 +5650,7 @@ richh.cn
 ad.richmob.cn
 rio9s1zdpd.com
 ritualsbodys.shop
+ritualseur.shop
 bi-tracker-global.rivergame.net
 rk2kpo4ef.com
 rkcfmfm97.com
@@ -5697,6 +5712,7 @@ ruoky41k7a.com
 rvbavxtjy.icu
 rvbztg.cn
 rvrl1srlq.com
+rvzlobj.cn
 rw56y62bgg.com
 rwhyrlb8r2.com
 rwilwcovop.icu
@@ -6248,6 +6264,7 @@ tracking.tdk.cn
 tdlop7tsme.com
 log.tec73.com
 tongji.techweb.com.cn
+tecunonline.com
 tek3shnfk.com
 data.tempersyi.com
 apd-pcdnvodstat.teg.tencent-cloud.net
@@ -6333,6 +6350,7 @@ a.tiyuxiu.com
 tjfskxz0t6.com
 tjfytech.com
 tjnwfjy.cn
+tjsptech.com
 tk11rxjhvm.com
 tk71mu9u7.com
 tkvfayv59.com
@@ -6354,7 +6372,6 @@ adscfg.togothermany.cn
 adsup.togothermany.cn
 track.tom.com
 track.tomwx.net
-fp.tongdun.net
 sky.tongjiai.com
 toolssale.shop
 ato.tooopen.com
@@ -6364,6 +6381,7 @@ toponad.net
 toppdf.co
 topsem.com
 static.topxgun.com
+touch-moblie.com
 touclick.com
 toushibao.com
 ad.toutiao.com
@@ -6428,6 +6446,7 @@ api.tusdk.com
 asdkd.tutuapp.com
 log.tutuapp.com
 smetrics.tuvsud.cn
+tuxcpf6pq.com
 log.tv360.vn
 tva4k92u14.com
 tvabqt.cn
@@ -6442,7 +6461,6 @@ twzui6.com
 txd8s0oif.com
 txecluzx7.com
 txh201a51k.com
-txhywh.cn
 txkepwuxr.com
 livetech.shopee.co.id.txlivecdn.com
 livetech.shopee.com.br.txlivecdn.com
@@ -6622,6 +6640,7 @@ uyfv.cn
 uyunad.com
 uzhrtuyij.com
 uzt7ud70j1.com
+uzzf.com
 log.apk.v-mate.mobi
 v-vay.com
 1.v-x.com.cn
@@ -7425,6 +7444,7 @@ xoqloz3tk.com
 xp308.cn
 xpcwrgy.cn
 xpdgvlxwn.icu
+www.xpdyqax.cn
 xqblnei.cn
 xqhfb9hzrs.com
 xqmd2dzzvh.com
@@ -7488,6 +7508,7 @@ y0af0gwpdb.com
 y2ej3xxfve.com
 y2o57pzzx.com
 y2vorexg2u.com
+y3yuih3s1.com
 y40milgijh.com
 y4g8fgj6ra.com
 y55lspa2v6.com
@@ -7769,6 +7790,14 @@ log.zcool.com.cn
 zctdqxxbyz.icu
 zddsnuxow.icu
 zdg2g7v5xe.com
+zdh10230lo.com
+zdh10231lo.com
+zdh10240lo.com
+zdh10241lo.com
+zdh10250lo.com
+zdh10251lo.com
+zdh10260lo.com
+zdh10261lo.com
 zdl4o6sp3.com
 zdr6wn2f5.com
 pl.zehrz.shop
