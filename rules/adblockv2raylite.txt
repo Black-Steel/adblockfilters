@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261103122035
-# Last modified: 2026/11/03 12:20:35
-# Blocked domains: 5376
+# Version: 20261103233335
+# Last modified: 2026/11/03 23:33:35
+# Blocked domains: 5367
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -463,7 +463,6 @@ statscollector-1-asia.agora.io @ads
 statscollector-1-europe.agora.io @ads
 statscollector-1-north-america.agora.io @ads
 statscollector-1-oversea.agora.io @ads
-statscollector-1-south-america.agora.io @ads
 statscollector-2-europe.agora.io @ads
 statscollector-2-oversea.agora.io @ads
 webcollector-rtm.agora.io @ads
@@ -862,7 +861,6 @@ q.baminw.com.cn @ads
 midinfo.baofeng.com @ads
 ploy.baofeng.net @ads
 a.baomihua.com @ads
-djs.baomihua.com @ads
 resource.baomihua.com @ads
 bartender.cc @ads
 baycode.cn @ads
@@ -986,7 +984,6 @@ metrics.calvinklein.cn @ads
 smetrics.calvinklein.cn @ads
 applog.camera360.com @ads
 appres.camera360.com @ads
-collect.camera360.com @ads
 dispatcher.camera360.com @ads
 pushmsg.camera360.com @ads
 stratus.campaign-image.com.cn @ads
@@ -1352,6 +1349,7 @@ stdown.dinju.com @ads
 dipan.com @ads
 code.ditiezu.net @ads
 img16.diyifanwen.com @ads
+v5-se-sjy-daily-reading-ad.dizgslb.com @ads
 statistical-report.djiservice.org @ads
 dkny.com.pl @ads
 dmrtb.com @ads
@@ -1370,6 +1368,7 @@ stat.doc88.com @ads
 zx.docin.com @ads
 doglobal.net @ads
 ads.doit.com.cn @ads
+activation.dolphin-browser.com @ads
 addon.dolphin-browser.com @ads
 dolphinpaper.com @ads
 domob.cn @ads
@@ -1388,7 +1387,6 @@ doubleclick.net @ads
 abc.douguo.com @ads
 kpshx.douguo.com @ads
 leabd.douguo.com @ads
-download.doumaibiji.cn @ads
 doumob.com @ads
 wan.douyu.com @ads
 bjfesdk.douyucdn.cn @ads
@@ -1496,7 +1494,6 @@ profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev @ads
 sriramnwar-dpoae04723lz.edgeone.dev @ads
 super-chocolate-gaxl7qfi.edgeone.dev @ads
 tame-yellow-8ck2chxh.edgeone.dev @ads
-unconscious-magenta-3imgkgt8.edgeone.dev @ads
 ediuschina.com @ads
 www.ee99654712225.com @ads
 www.ee99678923512.com @ads
@@ -1566,6 +1563,7 @@ sk.fapnado.xxx @ads
 telemetry.farfetch.net.cn @ads
 fastapi.net @ads
 matomo.fatda.cn @ads
+adtarget.fcbarcelona.cn @ads
 smetrics.fcbarcelona.cn @ads
 dsp.fcbox.com @ads
 hugelog.fcbox.com @ads
@@ -1595,6 +1593,7 @@ fhitagd.cn @ads
 fileh.xyz @ads
 filei.top @ads
 fileshider.com @ads
+finzy2-illo96.sbs @ads
 api.firwinds.site @ads
 fiwyjar.cn @ads
 fjsytjs.cn @ads
@@ -1682,7 +1681,6 @@ click.ganji.com @ads
 ganjituiguang.ganji.com @ads
 sta.ganji.com @ads
 tralog.ganji.com @ads
-static.gaomaer.cn @ads
 gaoshouyou.com @ads
 images8.gaotie.cn @ads
 gardenmarkets.shop @ads
@@ -1875,7 +1873,6 @@ s1.hanlinzhijia.com @ads
 as1.m.hao123.com @ads
 mini.hao123.com @ads
 2.haoxue360.com @ads
-download.haozip.com @ads
 log.dc.cn.happyelements.com @ads
 hapying.com @ads
 harvestlanshop.shop @ads
@@ -2013,6 +2010,7 @@ ad-cmp.hismarttv.com @ads
 ad-download.hismarttv.com @ads
 api-4know-em.hismarttv.com @ads
 api-cloudfalcon.hismarttv.com @ads
+api-dynhost.hismarttv.com @ads
 api-gps.hismarttv.com @ads
 api-gps-em.hismarttv.com @ads
 api-gps-eu.hismarttv.com @ads
@@ -2020,6 +2018,7 @@ api-gps-na.hismarttv.com @ads
 api-launcher-eu.hismarttv.com @ads
 api-launcher-na.hismarttv.com @ads
 api-logsdk.hismarttv.com @ads
+api-vidaaasst.hismarttv.com @ads
 api.eu.hismarttv.com @ads
 auth-em.hismarttv.com @ads
 auth-eu.hismarttv.com @ads
@@ -2120,7 +2119,6 @@ vipgslb.hpplay.cn @ads
 api.hpplay.com.cn @ads
 cdn.hpplay.com.cn @ads
 h5.hpplay.com.cn @ads
-leboapi.hpplay.com.cn @ads
 hqcqz2.cn @ads
 supertest.hqsmartcloud.com @ads
 support.hqts.com @ads
@@ -2221,7 +2219,6 @@ analytics.ifanrusercontent.com @ads
 ax.ifeng.com @ads
 err.ifengcloud.ifeng.com @ads
 stadig.ifeng.com @ads
-survey.news.ifeng.com @ads
 c0.ifengimg.com @ads
 y3.ifengimg.com @ads
 log.iflytek.com @ads
@@ -2462,7 +2459,6 @@ res-ad.kajicam.com @ads
 res-ad-kr.kajicam.com @ads
 zjres-ad.kajicam.com @ads
 js.kalvinbg.cn @ads
-download.kaobeitu.com @ads
 smetrics.karcher.cn @ads
 kb894lngt.com @ads
 panda.kdnet.net @ads
@@ -3066,7 +3062,6 @@ n69.com @ads
 nalook.com @ads
 fp.nanrenwo.net @ads
 nasimobi.com @ads
-dl.natgo.cn @ads
 nb4ds7c13d.com @ads
 sdk.stat.foreign.nearme.com.cn @ads
 stat.browser.nearme.com.cn @ads
@@ -3207,7 +3202,6 @@ count5.pconline.com.cn @ads
 ivy.pconline.com.cn @ads
 pcpop.com @ads
 video-dsp.pddpic.com @ads
-download.pdf00.cn @ads
 pdfxd.com @ads
 pdhhmf.cn @ads
 a8.jp.peacebird.com @ads
@@ -3234,6 +3228,8 @@ ta.pinduoduo.com @ads
 th.pinduoduo.com @ads
 gg86.pinggu.org @ads
 img50.pingguolv.com @ads
+abds.pingpingw.com @ads
+ac1.pingpingw.com @ads
 api.pingstart.com @ads
 bd1.pipaw.com @ads
 pitbullmens.club @ads
@@ -3493,7 +3489,6 @@ sngmta.qq.com @ads
 snowflake.qq.com @ads
 soup.v.qq.com @ads
 ssp.qq.com @ads
-stat6.y.qq.com @ads
 statistic.qzone.qq.com @ads
 stdl.qq.com @ads
 tbsone.imtt.qq.com @ads
@@ -3537,7 +3532,6 @@ yun-hl.3g.qq.com @ads
 dns.weixin.qq.com.cn @ads
 wxaintpcos.wxqcloud.qq.com.cn @ads
 qq2tdd0xx.com @ads
-down.qqfarmer.com.cn @ads
 sdk-ab-config.qquanquan.com @ads
 tracelog-debug.qquanquan.com @ads
 f.qstatic.com @ads
@@ -4061,6 +4055,7 @@ adashx4yt.m.taobao.com @ads
 adashxgc.ut.taobao.com @ads
 ae-alimelog.taobao.com @ads
 agoodm.m.taobao.com @ads
+ai.taobao.com @ads
 ai.m.taobao.com @ads
 alimelog.taobao.com @ads
 amdcopen.m.taobao.com @ads
@@ -4114,7 +4109,6 @@ openlog.tapapis.com @ads
 tapdb.com @ads
 tapdb.net @ads
 tapjoy.cn @ads
-taschencollection.com @ads
 gamelogs-ttxq.tataxingqiu.com @ads
 tb4gv2cp5z.com @ads
 all.cnzz.com.danuoyi.tbcache.com @ads
@@ -4581,7 +4575,6 @@ kz-timesync.vivoglobal.com @ads
 kz-vcode-api.vivoglobal.com @ads
 kz-vcode-od.vivoglobal.com @ads
 kz-vcode-or.vivoglobal.com @ads
-mx-album-api.vivoglobal.com @ads
 mx-cota.vivoglobal.com @ads
 mx-domaincfg.vivoglobal.com @ads
 mx-err-up.vivoglobal.com @ads
@@ -4624,7 +4617,6 @@ ru-vcode-or.vivoglobal.com @ads
 sg-cfg-stsdk.vivoglobal.com @ads
 stsdk.vivoglobal.com @ads
 tr-album-api.vivoglobal.com @ads
-tr-cota.vivoglobal.com @ads
 tr-domaincfg.vivoglobal.com @ads
 tr-err-up.vivoglobal.com @ads
 tr-gdpr-vgc-datacenter.vivoglobal.com @ads
@@ -4917,7 +4909,6 @@ stats.music.xiaomi.com @ads
 storeconfig.mistat.intl.xiaomi.com @ads
 sys.tv.india.xiaomi.com @ads
 t1.a.market.xiaomi.com @ads
-t17.market.xiaomi.com @ads
 tv.weixin.pandora.xiaomi.com @ads
 tvepg.pandora.xiaomi.com @ads
 tz.sec.xiaomi.com @ads

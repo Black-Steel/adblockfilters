@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20261103122034
-# Last modified: 2026/11/03 12:20:34
-# Blocked domains: 5376
+# Version: 20261103233334
+# Last modified: 2026/11/03 23:33:34
+# Blocked domains: 5367
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -478,7 +478,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	statscollector-1-europe.agora.io
 0.0.0.0	statscollector-1-north-america.agora.io
 0.0.0.0	statscollector-1-oversea.agora.io
-0.0.0.0	statscollector-1-south-america.agora.io
 0.0.0.0	statscollector-2-europe.agora.io
 0.0.0.0	statscollector-2-oversea.agora.io
 0.0.0.0	webcollector-rtm.agora.io
@@ -877,7 +876,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	midinfo.baofeng.com
 0.0.0.0	ploy.baofeng.net
 0.0.0.0	a.baomihua.com
-0.0.0.0	djs.baomihua.com
 0.0.0.0	resource.baomihua.com
 0.0.0.0	bartender.cc
 0.0.0.0	baycode.cn
@@ -1001,7 +999,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	smetrics.calvinklein.cn
 0.0.0.0	applog.camera360.com
 0.0.0.0	appres.camera360.com
-0.0.0.0	collect.camera360.com
 0.0.0.0	dispatcher.camera360.com
 0.0.0.0	pushmsg.camera360.com
 0.0.0.0	stratus.campaign-image.com.cn
@@ -1367,6 +1364,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dipan.com
 0.0.0.0	code.ditiezu.net
 0.0.0.0	img16.diyifanwen.com
+0.0.0.0	v5-se-sjy-daily-reading-ad.dizgslb.com
 0.0.0.0	statistical-report.djiservice.org
 0.0.0.0	dkny.com.pl
 0.0.0.0	dmrtb.com
@@ -1385,6 +1383,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	zx.docin.com
 0.0.0.0	doglobal.net
 0.0.0.0	ads.doit.com.cn
+0.0.0.0	activation.dolphin-browser.com
 0.0.0.0	addon.dolphin-browser.com
 0.0.0.0	dolphinpaper.com
 0.0.0.0	domob.cn
@@ -1403,7 +1402,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	abc.douguo.com
 0.0.0.0	kpshx.douguo.com
 0.0.0.0	leabd.douguo.com
-0.0.0.0	download.doumaibiji.cn
 0.0.0.0	doumob.com
 0.0.0.0	wan.douyu.com
 0.0.0.0	bjfesdk.douyucdn.cn
@@ -1511,7 +1509,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sriramnwar-dpoae04723lz.edgeone.dev
 0.0.0.0	super-chocolate-gaxl7qfi.edgeone.dev
 0.0.0.0	tame-yellow-8ck2chxh.edgeone.dev
-0.0.0.0	unconscious-magenta-3imgkgt8.edgeone.dev
 0.0.0.0	ediuschina.com
 0.0.0.0	www.ee99654712225.com
 0.0.0.0	www.ee99678923512.com
@@ -1581,6 +1578,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	telemetry.farfetch.net.cn
 0.0.0.0	fastapi.net
 0.0.0.0	matomo.fatda.cn
+0.0.0.0	adtarget.fcbarcelona.cn
 0.0.0.0	smetrics.fcbarcelona.cn
 0.0.0.0	dsp.fcbox.com
 0.0.0.0	hugelog.fcbox.com
@@ -1610,6 +1608,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	fileh.xyz
 0.0.0.0	filei.top
 0.0.0.0	fileshider.com
+0.0.0.0	finzy2-illo96.sbs
 0.0.0.0	api.firwinds.site
 0.0.0.0	fiwyjar.cn
 0.0.0.0	fjsytjs.cn
@@ -1697,7 +1696,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ganjituiguang.ganji.com
 0.0.0.0	sta.ganji.com
 0.0.0.0	tralog.ganji.com
-0.0.0.0	static.gaomaer.cn
 0.0.0.0	gaoshouyou.com
 0.0.0.0	images8.gaotie.cn
 0.0.0.0	gardenmarkets.shop
@@ -1890,7 +1888,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	as1.m.hao123.com
 0.0.0.0	mini.hao123.com
 0.0.0.0	2.haoxue360.com
-0.0.0.0	download.haozip.com
 0.0.0.0	log.dc.cn.happyelements.com
 0.0.0.0	hapying.com
 0.0.0.0	harvestlanshop.shop
@@ -2028,6 +2025,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ad-download.hismarttv.com
 0.0.0.0	api-4know-em.hismarttv.com
 0.0.0.0	api-cloudfalcon.hismarttv.com
+0.0.0.0	api-dynhost.hismarttv.com
 0.0.0.0	api-gps.hismarttv.com
 0.0.0.0	api-gps-em.hismarttv.com
 0.0.0.0	api-gps-eu.hismarttv.com
@@ -2035,6 +2033,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-launcher-eu.hismarttv.com
 0.0.0.0	api-launcher-na.hismarttv.com
 0.0.0.0	api-logsdk.hismarttv.com
+0.0.0.0	api-vidaaasst.hismarttv.com
 0.0.0.0	api.eu.hismarttv.com
 0.0.0.0	auth-em.hismarttv.com
 0.0.0.0	auth-eu.hismarttv.com
@@ -2135,7 +2134,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.hpplay.com.cn
 0.0.0.0	cdn.hpplay.com.cn
 0.0.0.0	h5.hpplay.com.cn
-0.0.0.0	leboapi.hpplay.com.cn
 0.0.0.0	hqcqz2.cn
 0.0.0.0	supertest.hqsmartcloud.com
 0.0.0.0	support.hqts.com
@@ -2236,7 +2234,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ax.ifeng.com
 0.0.0.0	err.ifengcloud.ifeng.com
 0.0.0.0	stadig.ifeng.com
-0.0.0.0	survey.news.ifeng.com
 0.0.0.0	c0.ifengimg.com
 0.0.0.0	y3.ifengimg.com
 0.0.0.0	log.iflytek.com
@@ -2477,7 +2474,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	res-ad-kr.kajicam.com
 0.0.0.0	zjres-ad.kajicam.com
 0.0.0.0	js.kalvinbg.cn
-0.0.0.0	download.kaobeitu.com
 0.0.0.0	smetrics.karcher.cn
 0.0.0.0	kb894lngt.com
 0.0.0.0	panda.kdnet.net
@@ -3081,7 +3077,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	nalook.com
 0.0.0.0	fp.nanrenwo.net
 0.0.0.0	nasimobi.com
-0.0.0.0	dl.natgo.cn
 0.0.0.0	nb4ds7c13d.com
 0.0.0.0	sdk.stat.foreign.nearme.com.cn
 0.0.0.0	stat.browser.nearme.com.cn
@@ -3222,7 +3217,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ivy.pconline.com.cn
 0.0.0.0	pcpop.com
 0.0.0.0	video-dsp.pddpic.com
-0.0.0.0	download.pdf00.cn
 0.0.0.0	pdfxd.com
 0.0.0.0	pdhhmf.cn
 0.0.0.0	a8.jp.peacebird.com
@@ -3249,6 +3243,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	th.pinduoduo.com
 0.0.0.0	gg86.pinggu.org
 0.0.0.0	img50.pingguolv.com
+0.0.0.0	abds.pingpingw.com
+0.0.0.0	ac1.pingpingw.com
 0.0.0.0	api.pingstart.com
 0.0.0.0	bd1.pipaw.com
 0.0.0.0	pitbullmens.club
@@ -3508,7 +3504,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	snowflake.qq.com
 0.0.0.0	soup.v.qq.com
 0.0.0.0	ssp.qq.com
-0.0.0.0	stat6.y.qq.com
 0.0.0.0	statistic.qzone.qq.com
 0.0.0.0	stdl.qq.com
 0.0.0.0	tbsone.imtt.qq.com
@@ -3552,7 +3547,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dns.weixin.qq.com.cn
 0.0.0.0	wxaintpcos.wxqcloud.qq.com.cn
 0.0.0.0	qq2tdd0xx.com
-0.0.0.0	down.qqfarmer.com.cn
 0.0.0.0	sdk-ab-config.qquanquan.com
 0.0.0.0	tracelog-debug.qquanquan.com
 0.0.0.0	f.qstatic.com
@@ -4076,6 +4070,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adashxgc.ut.taobao.com
 0.0.0.0	ae-alimelog.taobao.com
 0.0.0.0	agoodm.m.taobao.com
+0.0.0.0	ai.taobao.com
 0.0.0.0	ai.m.taobao.com
 0.0.0.0	alimelog.taobao.com
 0.0.0.0	amdcopen.m.taobao.com
@@ -4129,7 +4124,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	tapdb.com
 0.0.0.0	tapdb.net
 0.0.0.0	tapjoy.cn
-0.0.0.0	taschencollection.com
 0.0.0.0	gamelogs-ttxq.tataxingqiu.com
 0.0.0.0	tb4gv2cp5z.com
 0.0.0.0	all.cnzz.com.danuoyi.tbcache.com
@@ -4596,7 +4590,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	kz-vcode-api.vivoglobal.com
 0.0.0.0	kz-vcode-od.vivoglobal.com
 0.0.0.0	kz-vcode-or.vivoglobal.com
-0.0.0.0	mx-album-api.vivoglobal.com
 0.0.0.0	mx-cota.vivoglobal.com
 0.0.0.0	mx-domaincfg.vivoglobal.com
 0.0.0.0	mx-err-up.vivoglobal.com
@@ -4639,7 +4632,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sg-cfg-stsdk.vivoglobal.com
 0.0.0.0	stsdk.vivoglobal.com
 0.0.0.0	tr-album-api.vivoglobal.com
-0.0.0.0	tr-cota.vivoglobal.com
 0.0.0.0	tr-domaincfg.vivoglobal.com
 0.0.0.0	tr-err-up.vivoglobal.com
 0.0.0.0	tr-gdpr-vgc-datacenter.vivoglobal.com
@@ -4932,7 +4924,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	storeconfig.mistat.intl.xiaomi.com
 0.0.0.0	sys.tv.india.xiaomi.com
 0.0.0.0	t1.a.market.xiaomi.com
-0.0.0.0	t17.market.xiaomi.com
 0.0.0.0	tv.weixin.pandora.xiaomi.com
 0.0.0.0	tvepg.pandora.xiaomi.com
 0.0.0.0	tz.sec.xiaomi.com
