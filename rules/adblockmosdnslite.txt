@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20261105115807
-# Last modified: 2026/11/05 11:58:07
-# Blocked domains: 5382
+# Version: 20261105235303
+# Last modified: 2026/11/05 23:53:03
+# Blocked domains: 5376
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -149,7 +149,6 @@ c.mse.360.cn
 c.sayhi.360.cn
 care.help.360.cn
 commercial.shouji.360.cn
-dd.browser.360.cn
 hao.360.cn
 huodong.ios.shouji.360.cn
 lianmeng.360.cn
@@ -862,7 +861,7 @@ djs.baomihua.com
 resource.baomihua.com
 bartender.cc
 baycode.cn
-raddus.bayescom.com
+ad.bayescom.com
 bbbazlp.cn
 bbcoe.cn
 event.bblmw.com
@@ -1144,7 +1143,6 @@ cnzz.com
 1.codesdq.com
 reportwest-midas.codmwest.com
 guif.coloros.com
-guif-eu.coloros.com
 icota-eu.coloros.com
 ifrus.coloros.com
 ifrus-eu.coloros.com
@@ -1158,7 +1156,6 @@ log-eap-sg.coloros.com
 moa-upload-online.coloros.com
 moa-upload-online-in.coloros.com
 smartcard.apps.coloros.com
-smartcardf.apps.coloros.com
 iadsdk.apple.com.akadns.net
 wangsu-smetrics.redhat.com.edgekey.net
 trk.compair.com.cn
@@ -1258,7 +1255,6 @@ pv.datacaciques.com
 adsmartget.datads.cn
 datamaster.com.cn
 datanine.com.cn
-matomo.datasanalytics.com
 jc1.dayfund.com.cn
 bun1.dayi.org.cn
 dazhantai.com
@@ -1322,7 +1318,6 @@ metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 dbco.cn
 engine.dcad01.com
 xcx.dcad01.com
-ddapp.cn
 trackercollect.ddxq.mobi
 trackerfeed.ddxq.mobi
 analytics.dealmoon.com
@@ -1474,7 +1469,6 @@ easyrecoverychina.com
 easytomessage.com
 eblnzoq.cn
 jb.ecar168.cn
-edgeone.app
 dhlpolska.edgeone.cool
 faktura-nzbdcddw.edgeone.cool
 65362655721.edgeone.dev
@@ -1492,6 +1486,7 @@ papa.edgeone.dev
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 sriramnwar-dpoae04723lz.edgeone.dev
 super-chocolate-gaxl7qfi.edgeone.dev
+unconscious-magenta-3imgkgt8.edgeone.dev
 ediuschina.com
 www.ee99654712225.com
 www.ee99678923512.com
@@ -1516,7 +1511,6 @@ analytics.elim.cn
 metrics.ellechina.com
 trk.elmorietschle.cn
 bl.emotionalworld.cn
-analytics.emqx.com
 ename.com.cn
 count.enet.com.cn
 brc.englishdict.cc
@@ -1593,6 +1587,7 @@ filei.top
 fileshider.com
 finzy1-explicabo16.sbs
 finzy2-illo96.sbs
+finzy2-ipsa87.sbs
 api.firwinds.site
 fiwyjar.cn
 fjsytjs.cn
@@ -1733,7 +1728,6 @@ gl0r6d2uyy.com
 media.globalsign.com
 seal.globalsign.com
 africa.edm.globalsources.com
-analytics.globalsources.com
 electronics.edm.globalsources.com
 electronics.tradeshow.globalsources.com
 exhibition.edm.globalsources.com
@@ -1931,7 +1925,6 @@ data.ads.heytapmobi.com
 dc-dragate-cn.heytapmobi.com
 dcc-awareness-cn.heytapmobi.com
 dcintl.push.heytapmobi.com
-device-ups.push.heytapmobi.com
 dragate-cn.dc.heytapmobi.com
 dragate-in.dc.heytapmobi.com
 dragate-sg.dc.heytapmobi.com
@@ -2115,10 +2108,8 @@ ssdkauth.hpplay.cn
 tvapp.hpplay.cn
 vipauth.hpplay.cn
 vipgslb.hpplay.cn
-api.hpplay.com.cn
 cdn.hpplay.com.cn
 h5.hpplay.com.cn
-leboapi.hpplay.com.cn
 hqcqz2.cn
 supertest.hqsmartcloud.com
 support.hqts.com
@@ -2295,7 +2286,6 @@ emoticon-sns.iqiyi.com
 emoticon.sns.iqiyi.com
 hotchat-im.iqiyi.com
 ifacelog.iqiyi.com
-l-rcd.iqiyi.com
 mbdlog.iqiyi.com
 msg.iqiyi.com
 msga.cupid.iqiyi.com
@@ -2348,6 +2338,7 @@ search5-search-hl.ixigua.com
 adapi.izuiyou.com
 adstat.izuiyou.com
 jab88.com
+jaccsz.com
 eventlog.jackpot.de
 a3.jandan.net
 icws.jb51.net
@@ -2375,7 +2366,6 @@ mapi.m.jd.com
 mars.jd.com
 mercury.jd.com
 mllog.jd.com
-nfa.jd.com
 orbit.jd.com
 policy.jd.com
 sgm-w.jd.com
@@ -2409,6 +2399,7 @@ adx-api.jinmo.tech
 www.jipinyouwu.com
 jiuyuntian3.cn
 jknrwe.cn
+jlwz.cn
 jm3uvitq0.com
 jmgehn.cn
 www.jmine.cn
@@ -2873,7 +2864,6 @@ micro-xdb.com
 microad-cn.com
 stat.microvirt.com
 pylon.micstatic.com
-plausible.midway.run
 track.midway.run
 app.log.nf.migu.cn
 uem.migu.cn
@@ -3113,7 +3103,6 @@ www6.ns1.name
 ntfsformac.cc
 ntfsformac.cn
 pdns.nudt.edu.cn
-nuffnang.com.cn
 c.nuhcpf.com
 log.nuomi.com
 metric.nuonuo.com
@@ -3140,6 +3129,7 @@ ockmarket.shop
 offerstrack.net
 officialriskmadeinwarsaw.shop
 offie-wps.com.cn
+ad.ofweek.com
 a.oh100.com
 js.oh100.com
 apps5.oingo.com
@@ -3295,6 +3285,7 @@ pig.pupuapi.com
 pure-baby.shop
 smetrics.pwccn.com
 target.pwccn.com
+vv1.pyhfxdm.cn
 pypwxvo.cn
 pzkrgcp.cn
 q0m9dkp5c.com
@@ -3610,6 +3601,7 @@ v5-se-jltc-reading-ad.qznovelvod.com
 v5-se-sjy-daily-reading-ad.qznovelvod.com
 v5-se-yz-reading-ad.qznovelvod.com
 v5-se-zjnbtc-reading-ad.qznovelvod.com
+v5-se2-gddgtc-reading-ad.qznovelvod.com
 v6-daily-reading-ad.qznovelvod.com
 v6-reading-ad.qznovelvod.com
 v9-reading-ad.qznovelvod.com
@@ -3778,6 +3770,7 @@ sa.sina.cn
 sax.sina.cn
 sdkapp.mobile.sina.cn
 sdkclick.mobile.sina.cn
+statistic.cj.sina.cn
 trends.mobile.sina.cn
 u1.img.mobile.sina.cn
 wbapp.mobile.sina.cn
@@ -3828,6 +3821,7 @@ analytics.sixt.cn
 1.sj33.net
 sjds.net
 sjoy7rq.cn
+ads.skktec.com
 skydanceapparel.shop
 skydancefashion.shop
 skydancelook.shop
@@ -4666,7 +4660,6 @@ vnvmif.cn
 vodone.com
 mini-prog-drm.vodplayvideo.net
 voiceads.cn
-dev.voicecloud.cn
 log.voicecloud.cn
 apm.volccdn.com
 httpdns.volcengineapi.com
@@ -5005,6 +4998,7 @@ bchina-1.xsfaya.com
 xshellcn.com
 rdbd.xsread.com
 xssncc2tv.com
+xt8esrr.com
 ad.xtdrug.com
 xtianqi.com.cn
 xtjpdfr.cn
