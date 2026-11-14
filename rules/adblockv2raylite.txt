@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261114054322
-# Last modified: 2026/11/14 05:43:22
-# Blocked domains: 5655
+# Version: 20261114115114
+# Last modified: 2026/11/14 11:51:14
+# Blocked domains: 5629
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -224,11 +224,6 @@ ios-pclog.3u.com @ads
 4399logs.4399doc.com @ads
 a.4aqq.com @ads
 4d0m.cn @ads
-4foutlet.shop @ads
-4foutlets.shop @ads
-4fshopes.shop @ads
-4fshops.shop @ads
-4fstores.shop @ads
 4nfesm3itf.com @ads
 ad-api.4pyun.com @ads
 ad-files.4pyun.com @ads
@@ -1220,7 +1215,6 @@ iadsdk.apple.com.akadns.net @ads
 wangsu-smetrics.redhat.com.edgekey.net @ads
 trk.compair.com.cn @ads
 compose99.com @ads
-concessionsale.shop @ads
 strack.concur.cn @ads
 track.concur.cn @ads
 considerice.com @ads
@@ -1589,7 +1583,6 @@ coremail-dp3qtv7j363o.edgeone.dev @ads
 flyaairlogis-dp1f8pq5osbp.edgeone.dev @ads
 fyguhaghytusg.edgeone.dev @ads
 mxoot-dp3j3hh9ymkp.edgeone.dev @ads
-outlookliveonverification-dp52uq80y4cv.edgeone.dev @ads
 papa.edgeone.dev @ads
 portalportalportalportalportal.edgeone.dev @ads
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev @ads
@@ -1919,7 +1912,6 @@ googletagmanager.com @ads
 googletagservices-cn.com @ads
 googletraveladservices.com @ads
 googlevads-cn.com @ads
-gosizeer.shop @ads
 gostats.cn @ads
 kad.gotokeep.com @ads
 govkunming.cn @ads
@@ -1929,7 +1921,6 @@ download.grandcloud.cn @ads
 z.grfyw.com @ads
 gridsum.com @ads
 gridsumdissector.com @ads
-grituals.shop @ads
 countly.growatt.com @ads
 growingio.com @ads
 event-log-api-data-platform-data-lake-prod.gryphline.com @ads
@@ -2201,13 +2192,10 @@ hnol.net @ads
 hochzeitsdekorationen.shop @ads
 metrics.hollisterco.cn @ads
 smetrics.hollisterco.cn @ads
-homeflashsale-eu.shop @ads
 log.homestyler.com @ads
-homeware-store.shop @ads
 homla.fit @ads
 w88.hongkongdisneyland.com.cn @ads
 usa01-client-report.honkaiimpact3.com @ads
-horze-pl.shop @ads
 om.hotels.cn @ads
 analytics.houlang.cloud @ads
 ad.house365.com @ads
@@ -3431,13 +3419,8 @@ abds.pingpingw.com @ads
 ac1.pingpingw.com @ads
 api.pingstart.com @ads
 bd1.pipaw.com @ads
-pitbullmens.club @ads
-pitbullmensp.shop @ads
-pitbullsportsa.shop @ads
 pitbullsportsi.shop @ads
-pitbullsportso.shop @ads
 pitbullsportsq.shop @ads
-pitbullsportsy.shop @ads
 stat2.pixpin.cn @ads
 pl53l7tyw.com @ads
 placidocn.com @ads
@@ -3855,7 +3838,6 @@ richh.cn @ads
 ad.richmob.cn @ads
 rimowaoutlet.at @ads
 riskmadeinwarsawstore.shop @ads
-ritualsbodys.shop @ads
 ritualseur.shop @ads
 bi-tracker-global.rivergame.net @ads
 rkcfmfm97.com @ads
@@ -4047,8 +4029,6 @@ sjds.net @ads
 sjoy7rq.cn @ads
 ads.skktec.com @ads
 skydanceapparel.shop @ads
-skydancefashion.shop @ads
-skydancelook.shop @ads
 skydancewear.shop @ads
 static-us-img.skywork.ai @ads
 analytics.skywt.cn @ads
@@ -4171,7 +4151,6 @@ gg.sonhoo.com @ads
 sc.sonystyle.com.cn @ads
 soorbka.cn @ads
 bd1.sosg.net @ads
-sosizeer.shop @ads
 dr.soso.com @ads
 jzclick.soso.com @ads
 toolbar.soso.com @ads
@@ -4190,7 +4169,6 @@ data.ssports.com @ads
 show.ssports.com @ads
 3.ssqzj.com @ads
 sssxwsry.com @ads
-stanlybottle.shop @ads
 star8.net @ads
 staticfile.net @ads
 staticfile.org @ads
@@ -4231,11 +4209,8 @@ t101.cn @ads
 t28goe.cn @ads
 t9x2gu6it3.com @ads
 ta7tfk0o2h.com @ads
-taatis.shop @ads
 taatisa.shop @ads
-taatisb.shop @ads
 taatisd.shop @ads
-taatisn.shop @ads
 taatisv.shop @ads
 taboola.com.cn @ads
 mxana.tacool.com @ads
@@ -4456,7 +4431,6 @@ track.tom.com @ads
 track.tomwx.net @ads
 fp.tongdun.net @ads
 sky.tongjiai.com @ads
-toolssale.shop @ads
 ato.tooopen.com @ads
 toponad.com @ads
 toppdf.co @ads
