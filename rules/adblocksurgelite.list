@@ -10,8 +10,8 @@
 #!system=iOS, iPadOS
 #!system_version=
 #!loon_version=
-#!date=2026/11/14 11:51:14
-#!support=5629
+#!date=2026/11/14 22:36:28
+#!support=5662
 #!proxy-select=REJECT
 #
 .kwflvcdn.000dn.com
@@ -169,6 +169,7 @@
 .mclean.f.360.cn
 .msch.f.360.cn
 .mvconf.f.360.cn
+.openbox.mobilem.360.cn
 .papi.look.360.cn
 .pscan.f.360.cn
 .pub.se.360.cn
@@ -676,7 +677,6 @@
 .trk.arozone.cn
 .arpun.com
 .aspwg.cn
-.aswlx.cn
 .asyn.cn
 .aiseet.aa.atianqi.com
 .atpanel.com
@@ -888,6 +888,7 @@
 .bartender.cc
 .baycode.cn
 .ad.bayescom.com
+.raddus.bayescom.com
 .bbbazlp.cn
 .bbcoe.cn
 .event.bblmw.com
@@ -1200,6 +1201,7 @@
 .phpstat.cntcm.com.cn
 .cnzz.cn
 .cnzz.com
+.cobitoy.com
 .1.codesdq.com
 .reportwest-midas.codmwest.com
 .guif.coloros.com
@@ -1217,7 +1219,7 @@
 .moa-upload-online.coloros.com
 .moa-upload-online-in.coloros.com
 .smartcard.apps.coloros.com
-.smartcardf-eu.apps.coloros.com
+.smartcardf.apps.coloros.com
 .iadsdk.apple.com.akadns.net
 .wangsu-smetrics.redhat.com.edgekey.net
 .trk.compair.com.cn
@@ -1573,11 +1575,11 @@
 .same.eastmoney.com
 .easyrecoverychina.com
 .easytomessage.com
+.eazypark.asia
 .eblnzoq.cn
 .jb.ecar168.cn
 .log9-normal-c-useast1a.tiktokv.com.ecdnx.com
 .ecoworthytech.shop
-.nanazip.cn.dns.edgeone.app
 .dhlpolska.edgeone.cool
 .faktura-nzbdcddw.edgeone.cool
 .65362655721.edgeone.dev
@@ -1587,12 +1589,12 @@
 .balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 .buildnowandeployprogram-dpkxx50ris3x.edgeone.dev
 .coremail-dp3qtv7j363o.edgeone.dev
-.flyaairlogis-dp1f8pq5osbp.edgeone.dev
 .fyguhaghytusg.edgeone.dev
+.loginsecurde4-dpqom26teqv9.edgeone.dev
+.moudhgsr-dp4lyapywtjw.edgeone.dev
 .mxoot-dp3j3hh9ymkp.edgeone.dev
 .papa.edgeone.dev
 .portalportalportalportalportal.edgeone.dev
-.profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 .register-demand-framework-shareholding-capital-dpuvktbvtbq4.edgeone.dev
 .super-chocolate-gaxl7qfi.edgeone.dev
 .tokyoforum-dpuw1bbe43fa.edgeone.dev
@@ -1742,6 +1744,7 @@
 .mon11-misc.fqnovel.com
 .mon11-misc-lf.fqnovel.com
 .mon11-misc-lq.fqnovel.com
+.mon3-misc.fqnovel.com
 .mon3-misc-lf.fqnovel.com
 .rtlog5-applog-lf.fqnovel.com
 .fqxkj.cn
@@ -2149,6 +2152,7 @@
 .api-cloudfalcon.hismarttv.com
 .api-dynhost.hismarttv.com
 .api-gps.hismarttv.com
+.api-gps-em.hismarttv.com
 .api-gps-eu.hismarttv.com
 .api-gps-na.hismarttv.com
 .api-launcher-eu.hismarttv.com
@@ -2253,9 +2257,9 @@
 .tvapp.hpplay.cn
 .vipauth.hpplay.cn
 .vipgslb.hpplay.cn
+.api.hpplay.com.cn
 .cdn.hpplay.com.cn
 .h5.hpplay.com.cn
-.leboapi.hpplay.com.cn
 .hqcqz2.cn
 .supertest.hqsmartcloud.com
 .support.hqts.com
@@ -2566,6 +2570,7 @@
 .jpush.cn
 .jpush.io
 .jpushoa.com
+.jrds.net.cn
 .ad.ah.jrgphq.cn
 .jrltdiu.cn
 .ad.jschina.com.cn
@@ -2681,6 +2686,7 @@
 .pgapi.ksmobile.com
 .ups.ksmobile.net
 .ws.ksmobile.net
+.us-dw-collect.ksord.com
 .ic.ksosoft.com
 .api.kingdata.ksyun.com
 .hdns.ksyun.com
@@ -2696,6 +2702,7 @@
 .pv.kuaizhan.com
 .kuaizip.com
 .kuaizitech.com
+.kuanxin.top
 .ads.service.kugou.com
 .adservice.kugou.com
 .adserviceretry.kugou.com
@@ -2897,7 +2904,6 @@
 .lockview.cn
 .deeplink.locokids.cn
 .lodipq3zb.com
-.logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn
 .webanalytics.logitech.com.cn
 .webtarget.logitech.com.cn
 .webanalytics.logitechg.com.cn
@@ -3023,15 +3029,37 @@
 .a.hl.mi.com
 .ad.mi.com
 .api.jr.mi.com
+.at.tv.global.mi.com
+.au.tv.global.mi.com
+.br.tv.global.mi.com
+.by.tv.global.mi.com
+.ca.tv.global.mi.com
 .d.g.mi.com
 .e.mi.com
+.eg.tv.global.mi.com
+.es.tv.global.mi.com
+.gb.tv.global.mi.com
+.hk.tv.global.mi.com
+.hr.tv.global.mi.com
+.id.tv.global.mi.com
 .idm.iot.mi.com
 .in.tv.global.mi.com
+.iq.tv.global.mi.com
+.it.tv.global.mi.com
 .migc.g.mi.com
+.mm.tv.global.mi.com
 .pandora.mi.com
+.ru.tv.global.mi.com
+.se.tv.global.mi.com
 .stat.youpin.mi.com
+.th.tv.global.mi.com
 .tk.d.mi.com
+.tr.tv.global.mi.com
+.ua.tv.global.mi.com
+.us.tv.global.mi.com
 .video.kts.g.mi.com
+.vn.tv.global.mi.com
+.za.tv.global.mi.com
 .miam4.cn
 .miaomu139.cn
 .miaozhen.com
@@ -3039,7 +3067,6 @@
 .microad-cn.com
 .stat.microvirt.com
 .pylon.micstatic.com
-.plausible.midway.run
 .track.midway.run
 .app.log.nf.migu.cn
 .uem.migu.cn
@@ -3405,7 +3432,6 @@
 .penxiangge.com
 .counter.people.cn
 .ads.people.com.cn
-.pmm.people.com.cn
 .pepnsnq.cn
 .pepsico.com.cn
 .pfhub.petitfute.cn
@@ -3425,6 +3451,7 @@
 .abds.pingpingw.com
 .ac1.pingpingw.com
 .api.pingstart.com
+.ad-track.pinxiaobao.cn
 .bd1.pipaw.com
 .pitbullsportsi.shop
 .pitbullsportsq.shop
@@ -3799,6 +3826,7 @@
 .v5-ex-reading-ad.qznovelvod.com
 .v5-reading-ad.qznovelvod.com
 .v5-se-bjtc-reading-ad.qznovelvod.com
+.v5-se-ex-mc-reading-ad.qznovelvod.com
 .v5-se-gddgtc-reading-ad.qznovelvod.com
 .v5-se-jltc-reading-ad.qznovelvod.com
 .v5-se-sjy-daily-reading-ad.qznovelvod.com
@@ -4028,6 +4056,7 @@
 .sinawap.com
 .sincerehomegoods.shop
 .mail.siom.ac.cn
+.sioq.cn
 .siqc.cn
 .sirsplajp.com
 .analytics.sixt.cn
@@ -4096,6 +4125,7 @@
 .pangolin.snssdk.com
 .sdfp.snssdk.com
 .stream.snssdk.com
+.tbm.snssdk.com
 .tnc3-aliec2.snssdk.com
 .tnc3-alisc1.snssdk.com
 .tnc3-bjlgy.snssdk.com
@@ -4436,7 +4466,6 @@
 .adsup.togothermany.cn
 .track.tom.com
 .track.tomwx.net
-.fp.tongdun.net
 .sky.tongjiai.com
 .ato.tooopen.com
 .toponad.com
@@ -4692,6 +4721,7 @@
 .asia-adsjssdk.vivoglobal.com
 .asia-album-api.vivoglobal.com
 .asia-analyzer-appstore.vivoglobal.com
+.asia-api-stsdk.vivoglobal.com
 .asia-commonitor-stsdk.vivoglobal.com
 .asia-comonrt-stsdk.vivoglobal.com
 .asia-comort-stsdk.vivoglobal.com
@@ -4703,6 +4733,7 @@
 .asia-exstsdk.vivoglobal.com
 .asia-monitor-stsdk.vivoglobal.com
 .asia-news-abroad-backstage-interface.vivoglobal.com
+.asia-nrt-stsdk.vivoglobal.com
 .asia-onrt-stsdk.vivoglobal.com
 .asia-ort-stsdk.vivoglobal.com
 .asia-os-config-appstore.vivoglobal.com
@@ -4710,6 +4741,7 @@
 .asia-pnrt-stsdk.vivoglobal.com
 .asia-prt-stsdk.vivoglobal.com
 .asia-romsp-unifyconfig.vivoglobal.com
+.asia-rt-stsdk.vivoglobal.com
 .asia-st-exappupgrade.vivoglobal.com
 .asia-st-sl.vivoglobal.com
 .asia-stsdk.vivoglobal.com
@@ -4810,7 +4842,6 @@
 .kz-stsdk.vivoglobal.com
 .kz-timesync.vivoglobal.com
 .kz-vcode-api.vivoglobal.com
-.kz-vcode-od.vivoglobal.com
 .kz-vcode-or.vivoglobal.com
 .mx-album-api.vivoglobal.com
 .mx-cota.vivoglobal.com
@@ -4855,6 +4886,7 @@
 .ru-vcode-od.vivoglobal.com
 .ru-vcode-or.vivoglobal.com
 .sg-cfg-stsdk.vivoglobal.com
+.st-sl.vivoglobal.com
 .stsdk.vivoglobal.com
 .tr-album-api.vivoglobal.com
 .tr-cota.vivoglobal.com
@@ -4932,7 +4964,6 @@
 .analytics.wangzhanmao.com
 .analytics.wanmei.com
 .analytics-gw.games.wanmei.com
-.clientlog.wanmei.com
 .dlog.wanmei.com
 .log1.wanmei.com
 .log2.wanmei.com
@@ -5141,6 +5172,7 @@
 .global-ad-extranet-pri-azpn.alb.xiaomi.com
 .global-ad-intl-pri-alisgp.alb.xiaomi.com
 .globalvideo.cdn.pandora.intl.xiaomi.com
+.id-miuilog.sms.intl.xiaomi.com
 .image.cdn.pandora.xiaomi.com
 .in-miuilog.sms.intl.xiaomi.com
 .milink.pandora.xiaomi.com
@@ -5153,6 +5185,7 @@
 .preload.xiaomi.com
 .redirect.pandora.xiaomi.com
 .resolver.mi.xiaomi.com
+.ru-miuilog.sms.intl.xiaomi.com
 .sdkconfig.xiaomi.com
 .sdkconfig.eu.xiaomi.com
 .sdkconfig.india.xiaomi.com
