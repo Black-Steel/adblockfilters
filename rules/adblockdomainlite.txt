@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20261119004735
-! Last modified: 2026/11/19 00:47:35
-! Blocked domains: 5704
+! Version: 20261119124858
+! Last modified: 2026/11/19 12:48:58
+! Blocked domains: 5664
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -339,7 +339,6 @@ cp.7y7.com
 m1.81312.com
 8181zx.com
 81bkkx81zd.com
-866.com
 88362zubo95838.com
 88la.la
 8k69vb6421.com
@@ -602,7 +601,6 @@ xpjcg.oss-accelerate.aliyuncs.com
 conn-service-gl-01.allawntech.com
 allcars.cn
 allyes.cn
-www.alpen-leicht.de
 adashx.ut.amap.com
 amap-aos-info-nogw.amap.com
 apsrgeo.amap.com
@@ -672,7 +670,6 @@ a.armystar.com
 trk.arozone.cn
 arpun.com
 aspwg.cn
-asyn.cn
 aiseet.aa.atianqi.com
 atpanel.com
 ad.api.attribuly.com
@@ -956,11 +953,9 @@ carstat.bitauto.com
 log.bitauto.com
 img11.biyan8.com
 sdkapiv2.bizport.cn
-bjhuaya.cn
 bjmantis.net
 bjvvqu.cn
 file.blackint3.com
-blacktridents.shop
 adimage.blm.net
 blooziewear.shop
 gg.blueidea.com
@@ -969,7 +964,6 @@ bncqucpia.com
 smetrics.boehringer-ingelheim.cn
 click.bokecc.com
 p.bokecc.com
-bokewin.cn
 bootcss.com
 vstat.borderlessbd.com
 noyvyv.bosonshop.com
@@ -981,7 +975,6 @@ track.tom.com.bsclink.cn
 s.btime.com
 btyou.com
 xww.bucea.edu.cn
-burnercombustion.org.cn
 buyalwansolar.shop
 buynaturium.shop
 bvmlt.top
@@ -1025,7 +1018,6 @@ count.candou.com
 telemetry.canva.cn
 caomeixz7.xyz
 baidu1.cardbaobao.com
-cart.net.cn
 cartx.cloud
 casee.cn
 posthog.casinoplus.top
@@ -1166,7 +1158,6 @@ bd1.click.com.cn
 clicki.cn
 bkt.clouddn.com
 advertise.cloudlinks.cn
-cloudtask.cn
 log.cmbchina.com
 cmbkgmx.cn
 lcf.cmplay.cmcm.com
@@ -1316,14 +1307,12 @@ daoyoudao.com
 daraz.com
 net.daraz.lk
 net.daraz.pk
-darm.cn
 sgtm.darryring.com
 console.data4.net
 gate.datacaciques.com
 pv.datacaciques.com
 adsmartget.datads.cn
 datamaster.com.cn
-datanine.com.cn
 matomo.datasanalytics.com
 jc1.dayfund.com.cn
 bun1.dayi.org.cn
@@ -1393,7 +1382,6 @@ hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn
 metrics1-data-hicloud-com.gere.dbankedge.cn
 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 adx-dre-op-hicloud-com-dre.appacc.dbankedge.net
-dbco.cn
 engine.dcad01.com
 xcx.dcad01.com
 ddapp.cn
@@ -1407,7 +1395,6 @@ msz3.destinia.cn
 detailroi.com
 api.dewmobile.net
 dexinyi.cn
-dgrj.com.cn
 d.dgzj.com
 dh5t3pyb6r.com
 dhcjty.com
@@ -1581,7 +1568,6 @@ eazypark.asia
 eblnzoq.cn
 jb.ecar168.cn
 log9-normal-c-useast1a.tiktokv.com.ecdnx.com
-ecoworthytech.shop
 nanazip.cn.dns.edgeone.app
 dhlpolska.edgeone.cool
 faktura-nzbdcddw.edgeone.cool
@@ -1733,7 +1719,6 @@ t-flow.flyme.cn
 cfgc.flysleep.cn
 log-auth.flysleep.cn
 upc.flysleep.cn
-flyye.cn
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
 bdu.focus.cn
@@ -1742,7 +1727,6 @@ analytics.fontke.com
 metrics.ford.com
 smetrics.ford.com
 smetrics.sandbox.ford.com
-3zmb53.fordmodels.cn
 forestseasons.com.cn
 formedsglobal.shop
 formedshealth.shop
@@ -1830,7 +1814,6 @@ getui.net
 biz.gexing.com
 ggmm777.com
 ghsnhjk.cn
-gi.cn
 beacon-ad.ztgame.com.giantcdn.com
 ad.partner.gifshow.com
 gdfp.gifshow.com
@@ -1982,7 +1965,6 @@ gwmrb.cn
 gwrpceo.cn
 gxgbvmg.cn
 gxhzv.cn
-gxtvu.com.cn
 gz-data.com
 gzcl999.com
 gzfzcj.cn
@@ -2152,10 +2134,6 @@ remoteconfig-uat-drcn.platform.hihonorcloud.com
 tracking-data-drru.platform.hihonorcloud.com
 tracking-data.platform.hihonorcloud.com
 hiido.com
-hilocore.shop
-hilolane.shop
-hilomove.shop
-hilovibe.shop
 analytics.shop.hisense.com
 ad-cmp.hismarttv.com
 ad-download.hismarttv.com
@@ -2204,14 +2182,12 @@ hjpqt.cn
 hkkeafj.cn
 metrics.hktdc.com
 live-api.hktvmall.com
-hlsprt.shop
 hlstlyy.com
 hly.com
 ad.new.oe.hmgreat.com
 hnltcw.com
 online.hnoexpo.com
 hnol.net
-hochzeitsdekorationen.shop
 metrics.hollisterco.cn
 smetrics.hollisterco.cn
 log.homestyler.com
@@ -2609,7 +2585,6 @@ jwddpvu.cn
 jxdown.com
 jy135.com
 jygdb.com
-jyhengyi.cn
 o1.jyjyj.cn
 o2.jyjyj.cn
 prom-sdkv2.jysper.net
@@ -2924,7 +2899,6 @@ webtarget.logitechg.com.cn
 logitechs.pl
 logoshejishi.com
 lomark.cn
-lovemoglichinderlade.shop
 game.loveota.com
 sdk.loveota.net
 lpmzt.cn
@@ -3240,7 +3214,6 @@ adcs.myappsget.com
 adcs-ap.myappsget.com
 adcs-ue.myappsget.com
 mycleanmymac.com
-mygabor.shop
 ceshi127722.obs.cn-north-4.myhuaweicloud.com
 hmdev.obs.cn-east-2.myhuaweicloud.com
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -3280,7 +3253,6 @@ yfghrey-1433552157.cos.ap-hongkong.myqcloud.com
 datarangers-event.myrightone.com
 analytics.myshoptago.com
 mytrumerholz.shop
-myvitaminversand.shop
 ggs.myzaker.com
 aries.mzres.com
 mzwzo.cn
@@ -3379,7 +3351,6 @@ ojg8sflgl.com
 ojmv.cn
 analytics.okorder.com
 oldulgk.cn
-oliviachic.com
 oneapm.com
 onelnk.com
 click.oneplus.cn
@@ -3400,7 +3371,6 @@ httpdns.push.oppomobile.com
 optimix.asia
 oqyiapj.cn
 visit.oschina.net
-oshoplive.com
 ad.otomedream.com
 cp.oupeng.com
 max-files.oupeng.com
@@ -3436,7 +3406,6 @@ api-access.pangolin-sdk-toutiao3.com
 api-access.pangolin-sdk-toutiao4.com
 analytics.partnerboost.com
 bt1.patexplorer.com
-pative.shop
 pbaiyho.cn
 m.pc6.com
 ipad.pc899.cn
@@ -3500,7 +3469,6 @@ poqwua.cn
 fp-it-acc.portal101.cn
 poseidonbikeworld.shop
 webtrack.pospal.cn
-potflourri.shop
 log.cs.pp.cn
 patriot.cs.pp.cn
 server.m.pp.cn
@@ -4237,7 +4205,6 @@ star8.net
 staticfile.net
 staticfile.org
 trackmarketing.staubli.cn
-staud.co.at
 ste000u5mk.com
 steamproxy.net
 stg8.com
@@ -4264,7 +4231,6 @@ symaa.cn
 synacast.com
 syr66.com.cn
 szbdyd.com
-szfdz.cn
 bd1.szhk.com
 am.szhome.com
 collector.szlcsc.com
@@ -4399,7 +4365,6 @@ ads.teacherfucksteens.com
 log.tec73.com
 tongji.techweb.com.cn
 tecunonline.com
-teeshoppen.shop
 data.tempersyi.com
 inland-sdklog.trtc.tencent-cloud.com
 apd-pcdnvodstat.teg.tencent-cloud.net
@@ -4444,7 +4409,6 @@ tepusi888.cn
 answers.teradata.com.cn
 tgfyq.cn
 th7.cn
-thehochzeitsdekorationen.shop
 advert.api.thejoyrun.com
 adpai.thepaper.cn
 somni.mapac.thermofisher.cn
@@ -4535,7 +4499,6 @@ tradplus.com
 tradplusad.com
 trafficjam.cn
 transplantation.org.cn
-trinaturkwear.com
 tracking.trnox.com
 tracking-3-9f58.trnox.com
 trcakingapp.trnox.com
@@ -4573,7 +4536,6 @@ livetech.shopee.com.br.txlivecdn.com
 livetech.shopee.vn.txlivecdn.com
 txscn.cn
 m.txtxr.com
-ty.cn
 tzcfyre.cn
 u7u9.com
 u88.cn
@@ -4715,8 +4677,6 @@ vihppjk.cn
 n-st.vip.com
 in.vipliangmei.com
 smetrics.visitsingapore.com.cn
-vitaminversandonline.shop
-vitsend.com
 adlog.vivo.com
 ads-api.vivo.com
 bhwkju.vivo.com
