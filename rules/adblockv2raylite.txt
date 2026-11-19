@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261119124858
-# Last modified: 2026/11/19 12:48:58
-# Blocked domains: 5664
+# Version: 20261120005429
+# Last modified: 2026/11/20 00:54:29
+# Blocked domains: 5668
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -645,6 +645,7 @@ apdfmhp.cn @ads
 analytics.api.myqnapcloud.cn @ads
 qcenter-metrics-device.api.myqnapcloud.cn @ads
 adx.apicgate.com @ads
+sg-fp.apitd.net @ads
 us-behavior.apitd.net @ads
 apkevery.com @ads
 r.apkpure.net @ads
@@ -1137,6 +1138,7 @@ ad.chuandong.com @ads
 api-ad.chuangyuejoy.com @ads
 y66xvgo5i.chuimg.com @ads
 hpplay.cdn.cibn.cc @ads
+adx.op.cp18.ott.cibntv.net @ads
 pl.cp31.ott.cibntv.net @ads
 valf.atm.cp31.ott.cibntv.net @ads
 vali-g1.cp31.ott.cibntv.net @ads
@@ -2529,6 +2531,7 @@ jh-lyfz.vercel.app @ads
 jhzfwl.cn @ads
 wj.jiancai365.cn @ads
 acc.jiangsujiaxue.com @ads
+1.jiangzheba.com @ads
 ahm.jiankang123.net @ads
 jiankongbao.com @ads
 tr.jianshu.com @ads
@@ -3419,6 +3422,7 @@ pdfxd.com @ads
 pdhhmf.cn @ads
 a8.jp.peacebird.com @ads
 eloqua.pearsonvue.com.cn @ads
+ad.data.peasun.net @ads
 pelletshoponline.com @ads
 pengauto.cn @ads
 adver.pengyou.com @ads
@@ -4365,6 +4369,7 @@ ads.teacherfucksteens.com @ads
 log.tec73.com @ads
 tongji.techweb.com.cn @ads
 tecunonline.com @ads
+lpbhnv.telemundolasvegas.com @ads
 data.tempersyi.com @ads
 inland-sdklog.trtc.tencent-cloud.com @ads
 apd-pcdnvodstat.teg.tencent-cloud.net @ads
@@ -5451,7 +5456,6 @@ app.storage.yunvm.com @ads
 httpdns.yunxindns.com @ads
 statistic-overseas.yunxinfw.com @ads
 yunxish.com @ads
-www.yuyue008.cn @ads
 yvdb.cn @ads
 yw800.com.cn @ads
 ywkkmze.cn @ads

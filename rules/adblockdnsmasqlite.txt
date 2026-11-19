@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20261119124858
-# Last modified: 2026/11/19 12:48:58
-# Blocked domains: 5664
+# Version: 20261120005428
+# Last modified: 2026/11/20 00:54:28
+# Blocked domains: 5668
 #
 local=/kwflvcdn.000dn.com/
 local=/img.0279.net/
@@ -645,6 +645,7 @@ local=/apdfmhp.cn/
 local=/analytics.api.myqnapcloud.cn/
 local=/qcenter-metrics-device.api.myqnapcloud.cn/
 local=/adx.apicgate.com/
+local=/sg-fp.apitd.net/
 local=/us-behavior.apitd.net/
 local=/apkevery.com/
 local=/r.apkpure.net/
@@ -1137,6 +1138,7 @@ local=/ad.chuandong.com/
 local=/api-ad.chuangyuejoy.com/
 local=/y66xvgo5i.chuimg.com/
 local=/hpplay.cdn.cibn.cc/
+local=/adx.op.cp18.ott.cibntv.net/
 local=/pl.cp31.ott.cibntv.net/
 local=/valf.atm.cp31.ott.cibntv.net/
 local=/vali-g1.cp31.ott.cibntv.net/
@@ -2529,6 +2531,7 @@ local=/jh-lyfz.vercel.app/
 local=/jhzfwl.cn/
 local=/wj.jiancai365.cn/
 local=/acc.jiangsujiaxue.com/
+local=/1.jiangzheba.com/
 local=/ahm.jiankang123.net/
 local=/jiankongbao.com/
 local=/tr.jianshu.com/
@@ -3419,6 +3422,7 @@ local=/pdfxd.com/
 local=/pdhhmf.cn/
 local=/a8.jp.peacebird.com/
 local=/eloqua.pearsonvue.com.cn/
+local=/ad.data.peasun.net/
 local=/pelletshoponline.com/
 local=/pengauto.cn/
 local=/adver.pengyou.com/
@@ -4365,6 +4369,7 @@ local=/ads.teacherfucksteens.com/
 local=/log.tec73.com/
 local=/tongji.techweb.com.cn/
 local=/tecunonline.com/
+local=/lpbhnv.telemundolasvegas.com/
 local=/data.tempersyi.com/
 local=/inland-sdklog.trtc.tencent-cloud.com/
 local=/apd-pcdnvodstat.teg.tencent-cloud.net/
@@ -5451,7 +5456,6 @@ local=/app.storage.yunvm.com/
 local=/httpdns.yunxindns.com/
 local=/statistic-overseas.yunxinfw.com/
 local=/yunxish.com/
-local=/www.yuyue008.cn/
 local=/yvdb.cn/
 local=/yw800.com.cn/
 local=/ywkkmze.cn/

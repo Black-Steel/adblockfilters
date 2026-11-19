@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20261119124858
-# Last modified: 2026/11/19 12:48:58
-# Blocked domains: 5664
+# Version: 20261120005428
+# Last modified: 2026/11/20 00:54:28
+# Blocked domains: 5668
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -660,6 +660,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	analytics.api.myqnapcloud.cn
 0.0.0.0	qcenter-metrics-device.api.myqnapcloud.cn
 0.0.0.0	adx.apicgate.com
+0.0.0.0	sg-fp.apitd.net
 0.0.0.0	us-behavior.apitd.net
 0.0.0.0	apkevery.com
 0.0.0.0	r.apkpure.net
@@ -1152,6 +1153,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-ad.chuangyuejoy.com
 0.0.0.0	y66xvgo5i.chuimg.com
 0.0.0.0	hpplay.cdn.cibn.cc
+0.0.0.0	adx.op.cp18.ott.cibntv.net
 0.0.0.0	pl.cp31.ott.cibntv.net
 0.0.0.0	valf.atm.cp31.ott.cibntv.net
 0.0.0.0	vali-g1.cp31.ott.cibntv.net
@@ -2544,6 +2546,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	jhzfwl.cn
 0.0.0.0	wj.jiancai365.cn
 0.0.0.0	acc.jiangsujiaxue.com
+0.0.0.0	1.jiangzheba.com
 0.0.0.0	ahm.jiankang123.net
 0.0.0.0	jiankongbao.com
 0.0.0.0	tr.jianshu.com
@@ -3434,6 +3437,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	pdhhmf.cn
 0.0.0.0	a8.jp.peacebird.com
 0.0.0.0	eloqua.pearsonvue.com.cn
+0.0.0.0	ad.data.peasun.net
 0.0.0.0	pelletshoponline.com
 0.0.0.0	pengauto.cn
 0.0.0.0	adver.pengyou.com
@@ -4380,6 +4384,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.tec73.com
 0.0.0.0	tongji.techweb.com.cn
 0.0.0.0	tecunonline.com
+0.0.0.0	lpbhnv.telemundolasvegas.com
 0.0.0.0	data.tempersyi.com
 0.0.0.0	inland-sdklog.trtc.tencent-cloud.com
 0.0.0.0	apd-pcdnvodstat.teg.tencent-cloud.net
@@ -5466,7 +5471,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	httpdns.yunxindns.com
 0.0.0.0	statistic-overseas.yunxinfw.com
 0.0.0.0	yunxish.com
-0.0.0.0	www.yuyue008.cn
 0.0.0.0	yvdb.cn
 0.0.0.0	yw800.com.cn
 0.0.0.0	ywkkmze.cn
