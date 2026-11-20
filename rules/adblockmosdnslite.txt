@@ -3,9 +3,9 @@
 # Description: 适用于 MosDNS 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmosdnslite.txt
-# Version: 20261120123956
-# Last modified: 2026/11/20 12:39:56
-# Blocked domains: 5668
+# Version: 20261121002917
+# Last modified: 2026/11/21 00:29:17
+# Blocked domains: 5676
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -16,6 +16,7 @@ o.027eat.com
 0575bbs.com
 0597kk.com
 087tqb.cn
+0898fang.cn
 0dy3evz6x.com
 0otmh22aj2.com
 0wk6gdkg8r.com
@@ -470,6 +471,7 @@ statscollector-1-south-america.agora.io
 statscollector-2-europe.agora.io
 statscollector-2-oversea.agora.io
 webcollector-rtm.agora.io
+ahui123.cn
 ai-kit.cn
 brc.aigrammar.net
 brc2.aigrammar.net
@@ -641,6 +643,7 @@ anysdk.com
 aoqinglv.cn
 wxhawk.aoscdn.com
 log-pub-hk.aoshitang.com
+aosldz.com
 apdfmhp.cn
 analytics.api.myqnapcloud.cn
 qcenter-metrics-device.api.myqnapcloud.cn
@@ -1468,6 +1471,7 @@ eo.dongdm.cn
 ap.dongqiudi.com
 sensors-log.dongqiudi.com
 stat.dongqiudi.com
+adscfg.donlgx.net
 dopa.com
 dope-snow.com
 monitor-web.dotfashion.cn
@@ -1499,7 +1503,6 @@ rtbapi.douyucdn.cn
 stun.douyucdn.cn
 stun1.douyucdn.cn
 dotcounter.douyutv.com
-download-sougou.com.cn
 bigdata.downza.com
 dpjzzgw.cn
 drdwy.com
@@ -1570,29 +1573,25 @@ eazypark.asia
 eblnzoq.cn
 jb.ecar168.cn
 log9-normal-c-useast1a.tiktokv.com.ecdnx.com
-nanazip.cn.dns.edgeone.app
 dhlpolska.edgeone.cool
 faktura-nzbdcddw.edgeone.cool
 65362655721.edgeone.dev
 addmeononoutllokpositionlist-dpu6dy3fqowd.edgeone.dev
 b12051923-16f0-45ca-b4e8-40012086af5b.edgeone.dev
 b71483581-b6dc-4c59-8712-306f54e8e375.edgeone.dev
-balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 build-flex-ttg-dpgzqjmv7a1i.edgeone.dev
 buildnowandeployprogram-dpkxx50ris3x.edgeone.dev
 coremail-dp3qtv7j363o.edgeone.dev
 flyaairlogis-dp1f8pq5osbp.edgeone.dev
 fyguhaghytusg.edgeone.dev
-limitlessdubai-dp8oxsl60kva.edgeone.dev
-loginsecurde4-dpqom26teqv9.edgeone.dev
 managpoztaopl.edgeone.dev
-moudhgsr-dp4lyapywtjw.edgeone.dev
 mxoot-dp3j3hh9ymkp.edgeone.dev
 papa.edgeone.dev
 portalportalportalportalportal.edgeone.dev
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 register-demand-framework-shareholding-capital-dpuvktbvtbq4.edgeone.dev
 super-chocolate-gaxl7qfi.edgeone.dev
+tame-yellow-8ck2chxh.edgeone.dev
 tokyoforum-dpuw1bbe43fa.edgeone.dev
 unconscious-magenta-3imgkgt8.edgeone.dev
 ediuschina.com
@@ -1965,6 +1964,7 @@ gw7jpuouik.com
 res.gwifi.com.cn
 gwmrb.cn
 gwrpceo.cn
+gxdowell.cn
 gxgbvmg.cn
 gxhzv.cn
 gz-data.com
@@ -2432,6 +2432,7 @@ emoticon-sns.iqiyi.com
 emoticon.sns.iqiyi.com
 hotchat-im.iqiyi.com
 ifacelog.iqiyi.com
+l-rcd.iqiyi.com
 mbdlog.iqiyi.com
 msg.iqiyi.com
 msga.cupid.iqiyi.com
@@ -3392,7 +3393,6 @@ outlook-serv-coral.vercel.app
 ouyaoxiazai.com
 overlay.top
 ovnrmvg.cn
-ovsfr.fr
 oyz61nhz8.com
 p0yixb3wfv.com
 p2cdn.com
@@ -3449,6 +3449,7 @@ img50.pingguolv.com
 abds.pingpingw.com
 ac1.pingpingw.com
 api.pingstart.com
+ad-track.pinxiaobao.cn
 bd1.pipaw.com
 pitbullsportsq.shop
 stat2.pixpin.cn
@@ -3862,6 +3863,7 @@ solutions.refinitiv.cn
 www2.info.renesas.cn
 ebp.renren.com
 jebe.renren.com
+renwoxingcap.cn
 renzhen8.cn
 api.revenuads.com
 info.revvity.cn
@@ -4205,6 +4207,7 @@ data.ssports.com
 show.ssports.com
 3.ssqzj.com
 sssxwsry.com
+ssur.cc
 star8.net
 staticfile.net
 staticfile.org
@@ -4416,6 +4419,7 @@ tgfyq.cn
 th7.cn
 advert.api.thejoyrun.com
 adpai.thepaper.cn
+theraloawam.net
 somni.mapac.thermofisher.cn
 stats.thermofisher.com.cn
 event.thermoscientific.cn
@@ -5251,6 +5255,7 @@ tongji.xinmin.cn
 hi.xiunm.cn
 xiyouence.com
 xjl2ts2q6a.com
+xjx11221ts.com
 ad.xlgogo.com
 pcdn.xmcdn.com
 z1hihu.xmcimg.com
@@ -5456,6 +5461,7 @@ app.storage.yunvm.com
 httpdns.yunxindns.com
 statistic-overseas.yunxinfw.com
 yunxish.com
+yuyue008.cn
 yvdb.cn
 yw800.com.cn
 ywkkmze.cn
@@ -5627,6 +5633,7 @@ vcs.zijieapi.com
 view.zijieapi.com
 zixunkefu.net
 s.zixuntop.com
+zjhnzn.cn
 dig.zjurl.cn
 dm.zjut.cc
 abcd.zle.com
@@ -5639,6 +5646,7 @@ zmhqhuq.cn
 p.zol-img.com.cn
 cpro.zol.com.cn
 down10d.zol.com.cn
+dynamic.zol.com.cn
 imp.zol.com.cn
 pv.zol.com.cn
 pvnwap.zol.com.cn
