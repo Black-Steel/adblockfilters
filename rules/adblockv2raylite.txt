@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261122051618
-# Last modified: 2026/11/22 05:16:18
-# Blocked domains: 5681
+# Version: 20261122114850
+# Last modified: 2026/11/22 11:48:50
+# Blocked domains: 5661
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -443,7 +443,6 @@ ads.adyoung.cn @ads
 adyun.com @ads
 adzp.cn @ads
 af1tsjdta.com @ads
-afce.cn @ads
 analytics.afirstsoft.cn @ads
 app.aflink.com @ads
 data-reporting.agora.io @ads
@@ -1211,10 +1210,8 @@ smartcardf.apps.coloros.com @ads
 iadsdk.apple.com.akadns.net @ads
 wangsu-smetrics.redhat.com.edgekey.net @ads
 trk.compair.com.cn @ads
-compose99.com @ads
 strack.concur.cn @ads
 track.concur.cn @ads
-considerice.com @ads
 cu-cn-north00001.gala.convection.cn @ads
 cu-cn-north00002.gala.convection.cn @ads
 conversefemmes.fr @ads
@@ -1275,7 +1272,6 @@ mydisplay.ctfile.com @ads
 v5-se-bjtc-reading-ad.qznovelvod.com.ctlcdn.cn @ads
 ma-adx.ctrip.com @ads
 ctrmi.com @ads
-cubaobei.com @ads
 ads.cup.com.cn @ads
 cupfox.hl.cn @ads
 cv3qb5813.com @ads
@@ -1547,7 +1543,6 @@ dytuj6zs26.com @ads
 dz6xqe19d2.com @ads
 dl.dzqzd.com @ads
 e810.cn @ads
-eagb.cn @ads
 api.eagllwin.com @ads
 creative.eagllwin.com @ads
 h5.eagllwin.com @ads
@@ -1637,7 +1632,6 @@ etoolads.cn @ads
 etwun.com @ads
 evoqueebikeshop.shop @ads
 duologinsupersdk.ewan.cn @ads
-ewbs.cn @ads
 a.exam58.com @ads
 drovs.excelliance.cn @ads
 excsyrv.cn @ads
@@ -2639,7 +2633,6 @@ houyi.kkmh.com @ads
 ipv4.kkmh.com @ads
 logsdk.klingai.com @ads
 affiliate.klook.com @ads
-klvt.cn @ads
 kmpxq.cn @ads
 kxlogo.knet.cn @ads
 knie8wmsk.com @ads
@@ -2923,7 +2916,6 @@ lydownload.net @ads
 lyjq9gwob.com @ads
 lyszsz.cn @ads
 a.lz13.cn @ads
-m3cqjc3og6.com @ads
 m43ocq1uoj.com @ads
 analytics.m5stack.com @ads
 xc.macd.cn @ads
@@ -3170,7 +3162,6 @@ mlstx.cn @ads
 da.mmarket.com @ads
 mmftdt.com @ads
 mmkkiivv.com @ads
-mmle.cn @ads
 tc.mnbvcxzq.com @ads
 mngjrn.cn @ads
 mnpbxjq.cn @ads
@@ -3329,13 +3320,11 @@ promotionad.nvcam.net @ads
 ad.nvdvr.cn @ads
 anews7.nvwu.com @ads
 target.nxp.com.cn @ads
-logserver.nzxcloud.cn @ads
 o5y2zd1lq8.com @ads
 o8u3n4q7fe.com @ads
 oaclrst.cn @ads
 oadz.com @ads
 gtm.oasisfeng.com @ads
-obgk.cn @ads
 obs.com.cn @ads
 obscj.com @ads
 obsproject.com.cn @ads
@@ -3356,7 +3345,6 @@ js.oh100.com @ads
 apps5.oingo.com @ads
 oj95rctd5.com @ads
 ojg8sflgl.com @ads
-ojmv.cn @ads
 okmgy.cn @ads
 analytics.okorder.com @ads
 oldulgk.cn @ads
@@ -3394,7 +3382,6 @@ at-af.outfit7.com @ads
 bidder.dsp.outfit7.com @ads
 hb-af-us-central1.outfit7.com @ads
 revive.outin.cn @ads
-outlook-serv-coral.vercel.app @ads
 ouyaoxiazai.com @ads
 overlay.top @ads
 ovnrmvg.cn @ads
@@ -3882,7 +3869,6 @@ bi-tracker-global.rivergame.net @ads
 rkcfmfm97.com @ads
 rkzby.cn @ads
 rljjt.cn @ads
-rlri.cn @ads
 apm-fe.rnote.com @ads
 kmpl.rnqxp.cn @ads
 tags.roberthalf.cn @ads
@@ -4064,8 +4050,6 @@ tjs.sjs.sinajs.cn @ads
 sinawap.com @ads
 sincerehomegoods.shop @ads
 mail.siom.ac.cn @ads
-sioq.cn @ads
-siqc.cn @ads
 sirsplajp.com @ads
 analytics.sixt.cn @ads
 1.sj33.net @ads
@@ -4457,7 +4441,6 @@ a.tiyuxiu.com @ads
 tjfytech.com @ads
 tjnwfjy.cn @ads
 tjsptech.com @ads
-tkij.cn @ads
 livetech.shopee.com.br.tlivecdn.com @ads
 tlsgq.cn @ads
 site-p2p-ads.tngdigital.com.my @ads
@@ -4539,7 +4522,6 @@ smetrics.tuvsud.cn @ads
 tuxi.com.cn @ads
 log.tv360.vn @ads
 tvabqt.cn @ads
-tvce.cn @ads
 tvdpebx.cn @ads
 md.tvzhe.com @ads
 twdjn.cn @ads
@@ -4962,7 +4944,6 @@ vwe5pjt0jq.com @ads
 vx2tbw9xin.com @ads
 vxhsj.cn @ads
 vyye.cn @ads
-vzia.cn @ads
 w8.com.cn @ads
 w97nv5ibv4.com @ads
 tongdun-fingerprint.walmartmobile.cn @ads
@@ -5024,7 +5005,6 @@ crosspromotion.weplayer.cc @ads
 count.west263.com @ads
 perfsight.wetest.net @ads
 htrace.wetvinfo.com @ads
-wfvs.cn @ads
 whaup-whin.shop @ads
 intl-sdklog.whyrtc.com @ads
 whytd.com @ads
