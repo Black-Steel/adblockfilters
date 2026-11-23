@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261123052318
-# Last modified: 2026/11/23 05:23:18
-# Blocked domains: 5516
+# Version: 20261123122622
+# Last modified: 2026/11/23 12:26:22
+# Blocked domains: 5500
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -329,7 +329,6 @@ m1.81312.com @ads
 8181zx.com @ads
 81bkkx81zd.com @ads
 88362zubo95838.com @ads
-888wg.cn @ads
 88la.la @ads
 8k69vb6421.com @ads
 8le8le.com @ads
@@ -904,7 +903,6 @@ betylife.com @ads
 a.bfking.cn @ads
 bfshan.cn @ads
 info.bgi.com @ads
-bhabanagarafoundation.org @ads
 bhaoea.cn @ads
 app-posthog.bi-sage.site @ads
 bianxian.com @ads
@@ -1749,7 +1747,6 @@ code.geonamebase.com @ads
 gepush.com @ads
 gestrauss.shop @ads
 getebikeshop.shop @ads
-getplanetaprezent.shop @ads
 getsolarscooters.shop @ads
 getsolarwarehousesa.shop @ads
 getui.cn @ads
@@ -2402,7 +2399,6 @@ mpb1.iteye.com @ads
 rabc1.iteye.com @ads
 stat.iteye.com @ads
 display.itmemo.cn @ads
-itra.cn @ads
 ad.itrwzs.cn @ads
 ityangstudy.cn @ads
 ivqtrjt.cn @ads
@@ -2482,7 +2478,6 @@ adx-api.jinmo.tech @ads
 www.jipinyouwu.com @ads
 jiuyuntian3.cn @ads
 jknrwe.cn @ads
-jlwz.cn @ads
 jm3uvitq0.com @ads
 jmgehn.cn @ads
 www.jmine.cn @ads
@@ -2803,7 +2798,6 @@ analytics.likefont.com @ads
 lingd.cn @ads
 ads.linkedin.cn @ads
 linkhaitao.com @ads
-linkintec.cn @ads
 lionbaby.shop @ads
 litchiads.com @ads
 little-toddler.shop @ads
@@ -2885,7 +2879,6 @@ mediation.goog @ads
 mediav.com @ads
 medproad.com @ads
 meihu56.cn @ads
-meinuovip.com @ads
 eco-api.meiqia.com @ads
 corp.meitu.com @ads
 gg.meitu.com @ads
@@ -3022,7 +3015,6 @@ trk.miltonroy.com.cn @ads
 mintegral.com @ads
 insight.mintel.com @ads
 wm.mipcdn.com @ads
-misipu.cn @ads
 ad.missionhillschina.com @ads
 gg.miued.com @ads
 abroad.api.comm.intl.miui.com @ads
@@ -3122,7 +3114,6 @@ livewebbs2pcdn.msstatic.com @ads
 pp-cdnfile1pcdn.msstatic.com @ads
 qn-cdnfile1pcdn.msstatic.com @ads
 qn-livewebbs2pcdn.msstatic.com @ads
-mstatik.com @ads
 adserver.mtrust.cn @ads
 muidar.com @ads
 cdnovs.multiopen.cn @ads
@@ -3217,7 +3208,6 @@ njzyjy.cn @ads
 nkscdn.com @ads
 ad.nmjsjs.com @ads
 nnuc.cn @ads
-noone.ren @ads
 analytics.notegen.top @ads
 web.novogene.com @ads
 grow.nowcoder.com @ads
@@ -3852,7 +3842,6 @@ w88.shanghaidisneyresort.com.cn @ads
 api.shanghailingye.cn @ads
 bid.shanghailingye.cn @ads
 js.shangxueba.com @ads
-shanhulan.cn @ads
 shanhutech.cn @ads
 sc.shayugg.com @ads
 link.shengcekeji.com @ads
@@ -3874,7 +3863,6 @@ shopfreestylephoto.com @ads
 1.shopit.cn @ads
 shopmaxusersatzteile.shop @ads
 shoprseasafetyoutlet.shop @ads
-shopskydance.shop @ads
 ads-shopping.shouqianba.com @ads
 shrobotics.cn @ads
 shuiguo.com @ads
@@ -3952,7 +3940,6 @@ analytics.sixt.cn @ads
 1.sj33.net @ads
 sjoy7rq.cn @ads
 ads.skktec.com @ads
-skydanceapparel.shop @ads
 static-us-img.skywork.ai @ads
 analytics.skywt.cn @ads
 sm-tc.cn @ads
@@ -4097,7 +4084,6 @@ staticfile.net @ads
 staticfile.org @ads
 trackmarketing.staubli.cn @ads
 ste000u5mk.com @ads
-steamproxy.net @ads
 stg8.com @ads
 app-analysislog.sto.cn @ads
 stoertebekkerbeauty.shop @ads
@@ -5353,7 +5339,6 @@ yktj.yzz.cn @ads
 cdnjs.z-face.cn @ads
 z0rto0758.com @ads
 z9sab7vr0b.com @ads
-zaixianvip.cn @ads
 zakladyboleslawieconsale.shop @ads
 zakladyboleslawiecvalue.shop @ads
 ad.zamae.cn @ads
@@ -5473,7 +5458,6 @@ tnc3-alisc1.zijieapi.com @ads
 tnc3-bjlgy.zijieapi.com @ads
 vcs.zijieapi.com @ads
 view.zijieapi.com @ads
-zixunkefu.net @ads
 s.zixuntop.com @ads
 zjhnzn.cn @ads
 dig.zjurl.cn @ads
