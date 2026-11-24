@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261124033629
-# Last modified: 2026/11/24 03:36:29
-# Blocked domains: 5429
+# Version: 20261124152231
+# Last modified: 2026/11/24 15:22:31
+# Blocked domains: 5412
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -224,7 +224,6 @@ ad-files.4pyun.com @ads
 1.5000yan.com @ads
 4399stat.5054399.com @ads
 51.la @ads
-51015kidpl.shop @ads
 511a.cn @ads
 51240.com @ads
 5166.info @ads
@@ -610,8 +609,6 @@ apdfmhp.cn @ads
 analytics.api.myqnapcloud.cn @ads
 qcenter-metrics-device.api.myqnapcloud.cn @ads
 adx.apicgate.com @ads
-sg-fp.apitd.net @ads
-us-behavior.apitd.net @ads
 apkevery.com @ads
 r.apkpure.net @ads
 t.apkpure.net @ads
@@ -1330,7 +1327,6 @@ code.ditiezu.net @ads
 img16.diyifanwen.com @ads
 v5-se-sjy-daily-reading-ad.dizgslb.com @ads
 statistical-report.djiservice.org @ads
-dkny.com.pl @ads
 dmrtb.com @ads
 dmyzf4op0.com @ads
 xs.dmzj.com @ads
@@ -1479,9 +1475,7 @@ eazypark.asia @ads
 eblnzoq.cn @ads
 jb.ecar168.cn @ads
 log9-normal-c-useast1a.tiktokv.com.ecdnx.com @ads
-dhlpolska.edgeone.cool @ads
 faktura-nzbdcddw.edgeone.cool @ads
-65362655721.edgeone.dev @ads
 addmeononoutllokpositionlist-dpu6dy3fqowd.edgeone.dev @ads
 b12051923-16f0-45ca-b4e8-40012086af5b.edgeone.dev @ads
 b71483581-b6dc-4c59-8712-306f54e8e375.edgeone.dev @ads
@@ -1490,10 +1484,8 @@ build-flex-ttg-dpgzqjmv7a1i.edgeone.dev @ads
 buildnowandeployprogram-dpkxx50ris3x.edgeone.dev @ads
 coremail-dp3qtv7j363o.edgeone.dev @ads
 flyaairlogis-dp1f8pq5osbp.edgeone.dev @ads
-fyguhaghytusg.edgeone.dev @ads
 managpoztaopl.edgeone.dev @ads
 mxoot-dp3j3hh9ymkp.edgeone.dev @ads
-papa.edgeone.dev @ads
 portalportalportalportalportal.edgeone.dev @ads
 register-demand-framework-shareholding-capital-dpuvktbvtbq4.edgeone.dev @ads
 super-chocolate-gaxl7qfi.edgeone.dev @ads
@@ -1604,7 +1596,6 @@ fileshider.com @ads
 analytics-log.finder.co.kr @ads
 i-insurance.finzfin.com @ads
 finzy1-explicabo16.sbs @ads
-finzy2-illo96.sbs @ads
 finzy2-ipsa87.sbs @ads
 finzy5-est27.sbs @ads
 api.firwinds.site @ads
@@ -1706,7 +1697,6 @@ g.gegeyingshi.com @ads
 image.gentags.com @ads
 code.geonamebase.com @ads
 gepush.com @ads
-gestrauss.shop @ads
 getebikeshop.shop @ads
 getsolarscooters.shop @ads
 getsolarwarehousesa.shop @ads
@@ -1887,7 +1877,6 @@ mini.hao123.com @ads
 2.haoxue360.com @ads
 log.dc.cn.happyelements.com @ads
 hapying.com @ads
-harvestlanshop.shop @ads
 hashnest.com @ads
 havaianasfr.fr @ads
 a.hbf23.cn @ads
@@ -2772,7 +2761,6 @@ webanalytics.logitech.com.cn @ads
 webtarget.logitech.com.cn @ads
 webanalytics.logitechg.com.cn @ads
 webtarget.logitechg.com.cn @ads
-logitechs.pl @ads
 logoshejishi.com @ads
 lomark.cn @ads
 game.loveota.com @ads
@@ -3699,8 +3687,6 @@ info.revvity.cn @ads
 track.msadcenter.rfjq.com @ads
 richh.cn @ads
 ad.richmob.cn @ads
-riskmadeinwarsawstore.shop @ads
-ritualseur.shop @ads
 bi-tracker-global.rivergame.net @ads
 rkcfmfm97.com @ads
 rkzby.cn @ads
@@ -3913,7 +3899,6 @@ raffle-entry.info.smart.com @ads
 smetrics.future.smart.com @ads
 sms.info.smart.com @ads
 smucdn.com @ads
-smykmarketspl.shop @ads
 errortracking.snapp.site @ads
 ad.snappea.com @ads
 sensors.snappea.com @ads
@@ -4819,7 +4804,6 @@ wmmax.com @ads
 wn68din.cn @ads
 wndj.net @ads
 wnp.com @ads
-wojas-pl.shop @ads
 analytics.wondershare.cc @ads
 event.wondershare.com @ads
 platform.wondershare.com @ads
@@ -5099,7 +5083,6 @@ ta.yangkeduo.com @ads
 img.yangshengtang123.com @ads
 ca.yangshengtv.com @ads
 yatemy.cn @ads
-ycsshb.cn @ads
 ydmob.com @ads
 adpublish.ydstatic.com @ads
 oimagea2.ydstatic.com @ads
