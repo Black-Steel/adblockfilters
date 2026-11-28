@@ -3,9 +3,9 @@
 # Description: 适用于 V2ray、Xray 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockv2raylite.txt
-# Version: 20261128014236
-# Last modified: 2026/11/28 01:42:36
-# Blocked domains: 5486
+# Version: 20261128131721
+# Last modified: 2026/11/28 13:17:21
+# Blocked domains: 5480
 #
 kwflvcdn.000dn.com @ads
 img.0279.net @ads
@@ -694,7 +694,6 @@ collect.babybus.com @ads
 tjinit-event.babybus.com @ads
 tjinit-global-register.babybus.com @ads
 qmlog.baertt.com @ads
-bagmarket.shop @ads
 advertise.baicizhan.com @ads
 events.baicizhan.com @ads
 a.baidinet.com @ads
@@ -1512,7 +1511,6 @@ eazypark.asia @ads
 eblnzoq.cn @ads
 jb.ecar168.cn @ads
 log9-normal-c-useast1a.tiktokv.com.ecdnx.com @ads
-faktura-nzbdcddw.edgeone.cool @ads
 addmeononoutllokpositionlist-dpu6dy3fqowd.edgeone.dev @ads
 b12051923-16f0-45ca-b4e8-40012086af5b.edgeone.dev @ads
 b71483581-b6dc-4c59-8712-306f54e8e375.edgeone.dev @ads
@@ -1524,7 +1522,6 @@ coremail-dp3qtv7j363o.edgeone.dev @ads
 firstverificattionsettingsi-dpxrca6view0.edgeone.dev @ads
 flyaairlogis-dp1f8pq5osbp.edgeone.dev @ads
 garage-intense-polar.edgeone.dev @ads
-loginsecurde4-dpqom26teqv9.edgeone.dev @ads
 mailsemailveirifucationofrsettings-dpgk7yxwdg6m.edgeone.dev @ads
 managpoztaopl.edgeone.dev @ads
 moudhgsr-dp4lyapywtjw.edgeone.dev @ads
@@ -2786,7 +2783,6 @@ ad.lhyghh.cn @ads
 ad.data.lianjia.com @ads
 dig.lianjia.com @ads
 adimg.liba.com @ads
-libabymarket.shop @ads
 track.libii.cn @ads
 lidanzi.shop @ads
 liebaovip.com @ads
@@ -2796,7 +2792,6 @@ lingd.cn @ads
 ads.linkedin.cn @ads
 linkhaitao.com @ads
 linkintec.cn @ads
-lionbaby.shop @ads
 litchiads.com @ads
 little-toddler.shop @ads
 adbd.liuxue86.com @ads
@@ -3229,7 +3224,6 @@ oadz.com @ads
 gtm.oasisfeng.com @ads
 obsworks.com @ads
 obv3epx22d.com @ads
-ocbagmarket.shop @ads
 ocbagsmarket.shop @ads
 analytics.oceanengine.com @ads
 lf-event-manager.oceanengine.com @ads
